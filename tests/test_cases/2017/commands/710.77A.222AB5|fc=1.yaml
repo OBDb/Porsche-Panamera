@@ -3,5 +3,40 @@ test_cases:
 - expected_values:
     PORSCHE_RANGE_EST_CAN: 2047
   response: |-
+    77A100D622AB500F900
+    77A21F907FF07FF07FF
+- expected_values:
+    PORSCHE_RANGE_EST_CAN: 2047
+  response: |-
+    77A100D622AB500FC00
+    77A21FC07FF07FF07FF
+- expected_values:
+    PORSCHE_RANGE_EST_CAN: 2047
+  response: |-
+    77A100D622AB500FF00
+    77A21FF07FF07FF07FF
+- expected_values:
+    PORSCHE_RANGE_EST_CAN: 2047
+  response: |-
+    77A100D622AB5010001
+    77A210007FF07FF07FF
+- expected_values:
+    PORSCHE_RANGE_EST_CAN: 2047
+  response: |-
+    77A100D622AB5010801
+    77A210807FF07FF07FF
+- expected_values:
+    PORSCHE_RANGE_EST_CAN: 2047
+  response: |-
+    77A100D622AB5010C01
+    77A210C07FF07FF07FF
+- expected_values:
+    PORSCHE_RANGE_EST_CAN: 2047
+  response: |-
+    77A100D622AB5011101
+    77A211107FF07FF07FF
+- expected_values:
+    PORSCHE_RANGE_EST_CAN: 2047
+  response: |-
     77A100D622AB5013B01
     77A213B07FF07FF07FF

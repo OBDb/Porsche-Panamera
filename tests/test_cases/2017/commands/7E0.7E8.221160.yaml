@@ -3,3 +3,24 @@ test_cases:
 - expected_values:
     PORSCHE_ODO_HD: 151894.553
   response: 7E807621160090DBA19
+- expected_values:
+    PORSCHE_ODO_HD: 151925.958
+  response: 7E807621160090E34C6
+- expected_values:
+    PORSCHE_ODO_HD: 151927.853
+  response: 7E807621160090E3C2D
+- expected_values:
+    PORSCHE_ODO_HD: 151932.319
+  response: 7E807621160090E4D9F
+- expected_values:
+    PORSCHE_ODO_HD: 151934.759
+  response: 7E807621160090E5727
+- expected_values:
+    PORSCHE_ODO_HD: 151938.434
+  response: 7E807621160090E6582
+- expected_values:
+    PORSCHE_ODO_HD: 151940.26
+  response: 7E807621160090E6CA4
+- expected_values:
+    PORSCHE_ODO_HD: 151940.992
+  response: 7E807621160090E6F80

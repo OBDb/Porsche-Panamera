@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PORSCHE_PQ35_DRIVING_STRATEGY_SPORT_FACTOR: 26.66667
   response: 7E90562101904EB
+- expected_values:
+    PORSCHE_PQ35_DRIVING_STRATEGY_SPORT_FACTOR: 100
+  response: 7E905621019188C

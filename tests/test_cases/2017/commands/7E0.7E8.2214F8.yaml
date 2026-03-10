@@ -1,5 +1,20 @@
 command_id: 7E0.7E8.2214F8
 test_cases:
 - expected_values:
+    PORSCHE_AAT_V1: 54.98
+  response: 7E8056214F80B2D
+- expected_values:
+    PORSCHE_AAT_V1: 57.68
+  response: 7E8056214F80B3C
+- expected_values:
+    PORSCHE_AAT_V1: 59.48
+  response: 7E8056214F80B46
+- expected_values:
+    PORSCHE_AAT_V1: 62.18
+  response: 7E8056214F80B55
+- expected_values:
     PORSCHE_AAT_V1: 69.38
   response: 7E8056214F80B7D
+- expected_values:
+    PORSCHE_AAT_V1: 70.28
+  response: 7E8056214F80B82

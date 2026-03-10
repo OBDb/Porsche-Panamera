@@ -3,3 +3,24 @@ test_cases:
 - expected_values:
     PORSCHE_PQ35_AC_COMP_SPD: 0
   response: 7B0056226030000
+- expected_values:
+    PORSCHE_PQ35_AC_COMP_SPD: 200
+  response: 7B00562260302E1
+- expected_values:
+    PORSCHE_PQ35_AC_COMP_SPD: 300
+  response: 7B0056226030304
+- expected_values:
+    PORSCHE_PQ35_AC_COMP_SPD: 600
+  response: 7B0056226030655
+- expected_values:
+    PORSCHE_PQ35_AC_COMP_SPD: 600
+  response: 7B0056226030682
+- expected_values:
+    PORSCHE_PQ35_AC_COMP_SPD: 700
+  response: 7B0056226030700
+- expected_values:
+    PORSCHE_PQ35_AC_COMP_SPD: 700
+  response: 7B0056226030783
+- expected_values:
+    PORSCHE_PQ35_AC_COMP_SPD: 2000
+  response: 7B0056226031489

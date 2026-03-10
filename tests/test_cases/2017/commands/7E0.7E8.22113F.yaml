@@ -3,3 +3,21 @@ test_cases:
 - expected_values:
     PORSCHE_FUEL_CONS: 0
   response: 7E80562113F0000
+- expected_values:
+    PORSCHE_FUEL_CONS: 1.36
+  response: 7E80562113F0088
+- expected_values:
+    PORSCHE_FUEL_CONS: 1.94
+  response: 7E80562113F00C2
+- expected_values:
+    PORSCHE_FUEL_CONS: 6.62
+  response: 7E80562113F0296
+- expected_values:
+    PORSCHE_FUEL_CONS: 8.57
+  response: 7E80562113F0359
+- expected_values:
+    PORSCHE_FUEL_CONS: 8.72
+  response: 7E80562113F0368
+- expected_values:
+    PORSCHE_FUEL_CONS: 14.59
+  response: 7E80562113F05B3

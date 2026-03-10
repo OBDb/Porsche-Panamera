@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PORSCHE_MQB_DQ250_NEUTRAL_POS_GEAR_SELECTOR_5_N: 0
   response: '7E9056211420000'
+- expected_values:
+    PORSCHE_MQB_DQ250_NEUTRAL_POS_GEAR_SELECTOR_5_N: 23.04
+  response: '7E9056211420009'

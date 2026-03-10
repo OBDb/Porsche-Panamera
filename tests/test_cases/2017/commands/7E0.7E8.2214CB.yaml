@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     PORSCHE_GEAR_V2: 0
   response: 7E8046214CB00
+- expected_values:
+    PORSCHE_GEAR_V2: 1
+  response: 7E8046214CB01
+- expected_values:
+    PORSCHE_GEAR_V2: 3
+  response: 7E8046214CB03
+- expected_values:
+    PORSCHE_GEAR_V2: 7
+  response: 7E8046214CB07
+- expected_values:
+    PORSCHE_GEAR_V2: 8
+  response: 7E8046214CB08

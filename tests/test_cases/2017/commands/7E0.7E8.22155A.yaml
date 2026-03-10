@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     PORSCHE_PQ35_ENG_TORQUE: 0
   response: 7E80562155A0000
+- expected_values:
+    PORSCHE_PQ35_ENG_TORQUE: -1.40625
+  response: 7E80562155AFFD3
+- expected_values:
+    PORSCHE_PQ35_ENG_TORQUE: -1.15625
+  response: 7E80562155AFFDB

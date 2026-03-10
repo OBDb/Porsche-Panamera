@@ -1,5 +1,26 @@
 command_id: 7E0.7E8.221341
 test_cases:
 - expected_values:
+    PORSCHE_PQ35_CAMS_END: 28.4
+  response: 7E805621341008E
+- expected_values:
     PORSCHE_PQ35_CAMS_END: 6553.4
   response: 7E8056213417FFF
+- expected_values:
+    PORSCHE_PQ35_CAMS_END: -208
+  response: 7E805621341FBF0
+- expected_values:
+    PORSCHE_PQ35_CAMS_END: -168.6
+  response: 7E805621341FCB5
+- expected_values:
+    PORSCHE_PQ35_CAMS_END: -84.4
+  response: 7E805621341FE5A
+- expected_values:
+    PORSCHE_PQ35_CAMS_END: -45
+  response: 7E805621341FF1F
+- expected_values:
+    PORSCHE_PQ35_CAMS_END: -19.4
+  response: 7E805621341FF9F
+- expected_values:
+    PORSCHE_PQ35_CAMS_END: -18
+  response: 7E805621341FFA6

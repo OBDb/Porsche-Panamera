@@ -3,3 +3,24 @@ test_cases:
 - expected_values:
     PORSCHE_TIRE_FL_SPD_V3: 0
   response: 77D05622B1B0000
+- expected_values:
+    PORSCHE_TIRE_FL_SPD_V3: 2.30625
+  response: 77D05622B1B0029
+- expected_values:
+    PORSCHE_TIRE_FL_SPD_V3: 20.08125
+  response: 77D05622B1B0165
+- expected_values:
+    PORSCHE_TIRE_FL_SPD_V3: 39.43125
+  response: 77D05622B1B02BD
+- expected_values:
+    PORSCHE_TIRE_FL_SPD_V3: 78.8625
+  response: 77D05622B1B057A
+- expected_values:
+    PORSCHE_TIRE_FL_SPD_V3: 89.04375
+  response: 77D05622B1B062F
+- expected_values:
+    PORSCHE_TIRE_FL_SPD_V3: 92.64375
+  response: 77D05622B1B066F
+- expected_values:
+    PORSCHE_TIRE_FL_SPD_V3: 97.03125
+  response: 77D05622B1B06BD

@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     PORSCHE_PQ35_COMPRESSION_TEST_CYL_1: 0
   response: '7E8056211290000'
+- expected_values:
+    PORSCHE_PQ35_COMPRESSION_TEST_CYL_1: -19
+  response: 7E805621129FFDA
+- expected_values:
+    PORSCHE_PQ35_COMPRESSION_TEST_CYL_1: -11.5
+  response: 7E805621129FFE9
+- expected_values:
+    PORSCHE_PQ35_COMPRESSION_TEST_CYL_1: -10
+  response: 7E805621129FFEC
