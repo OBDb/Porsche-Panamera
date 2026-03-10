@@ -4,5 +4,5 @@ test_cases:
     PORSCHE_CLR_DIST: 345
   response: 7E80562F4310159
 - expected_values:
-    PORSCHE_CLR_DIST: 402
-  response: 7E80562F4310192
+    PORSCHE_CLR_DIST: 408
+  response: 7E80562F4310198

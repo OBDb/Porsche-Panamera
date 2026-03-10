@@ -4,29 +4,8 @@ test_cases:
     PORSCHE_MQB_DPF_EXH_VOL: 0
   response: 7E8056211E60000
 - expected_values:
-    PORSCHE_MQB_DPF_EXH_VOL: 61.7
-  response: 7E8056211E60269
-- expected_values:
-    PORSCHE_MQB_DPF_EXH_VOL: 65.7
-  response: 7E8056211E60291
-- expected_values:
-    PORSCHE_MQB_DPF_EXH_VOL: 131
-  response: 7E8056211E6051E
-- expected_values:
-    PORSCHE_MQB_DPF_EXH_VOL: 166.1
-  response: 7E8056211E6067D
-- expected_values:
-    PORSCHE_MQB_DPF_EXH_VOL: 184.8
-  response: 7E8056211E60738
-- expected_values:
     PORSCHE_MQB_DPF_EXH_VOL: 198
   response: 7E8056211E607BC
 - expected_values:
-    PORSCHE_MQB_DPF_EXH_VOL: 207.2
-  response: 7E8056211E60818
-- expected_values:
-    PORSCHE_MQB_DPF_EXH_VOL: 213.2
-  response: 7E8056211E60854
-- expected_values:
-    PORSCHE_MQB_DPF_EXH_VOL: 218.9
-  response: 7E8056211E6088D
+    PORSCHE_MQB_DPF_EXH_VOL: 323.9
+  response: 7E8056211E60CA7

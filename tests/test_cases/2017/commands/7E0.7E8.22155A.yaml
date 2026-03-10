@@ -7,6 +7,9 @@ test_cases:
     PORSCHE_PQ35_ENG_TORQUE: -1.40625
   response: 7E80562155AFFD3
 - expected_values:
+    PORSCHE_PQ35_ENG_TORQUE: -1.34375
+  response: 7E80562155AFFD5
+- expected_values:
     PORSCHE_PQ35_ENG_TORQUE: -1.15625
   response: 7E80562155AFFDB
 - expected_values:
