@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     PORSCHE_PQ35_POST_INJ_3_ACTIVATION_DURATION: 3.0872
   response: 7E8056214CE1E26
+- expected_values:
+    PORSCHE_PQ35_POST_INJ_3_ACTIVATION_DURATION: 3.106
+  response: 7E8056214CE1E55

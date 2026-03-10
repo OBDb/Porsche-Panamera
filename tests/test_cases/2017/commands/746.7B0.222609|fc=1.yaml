@@ -7,31 +7,6 @@ test_cases:
   response: 7B0056226090082
 - expected_values:
     PORSCHE_AAT: 0
-    PORSCHE_HVAC_OUTSIDE_T: 15
+    PORSCHE_HVAC_OUTSIDE_T: 22.5
     PORSCHE_PQ35_OUT_T: 0
-  response: 7B0056226090096
-- expected_values:
-    PORSCHE_AAT: 0
-    PORSCHE_HVAC_OUTSIDE_T: 15.5
-    PORSCHE_PQ35_OUT_T: 0
-  response: 7B005622609009B
-- expected_values:
-    PORSCHE_AAT: 0
-    PORSCHE_HVAC_OUTSIDE_T: 16
-    PORSCHE_PQ35_OUT_T: 0
-  response: 7B00562260900A0
-- expected_values:
-    PORSCHE_AAT: 0
-    PORSCHE_HVAC_OUTSIDE_T: 20.5
-    PORSCHE_PQ35_OUT_T: 0
-  response: 7B00562260900CD
-- expected_values:
-    PORSCHE_AAT: 0
-    PORSCHE_HVAC_OUTSIDE_T: 21
-    PORSCHE_PQ35_OUT_T: 0
-  response: 7B00562260900D2
-- expected_values:
-    PORSCHE_AAT: 0
-    PORSCHE_HVAC_OUTSIDE_T: 21.5
-    PORSCHE_PQ35_OUT_T: 0
-  response: 7B00562260900D7
+  response: 7B00562260900E1

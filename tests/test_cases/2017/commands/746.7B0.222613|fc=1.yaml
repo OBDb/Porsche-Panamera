@@ -5,38 +5,10 @@ test_cases:
     PORSCHE_HVAC_INTERIOR_T: 16.9
   response: 7B00562261300A9
 - expected_values:
-    PORSCHE_CABIN_T: 17.1
-    PORSCHE_HVAC_INTERIOR_T: 17.1
-  response: 7B00562261300AB
-- expected_values:
-    PORSCHE_CABIN_T: 18.7
-    PORSCHE_HVAC_INTERIOR_T: 18.7
-  response: 7B00562261300BB
-- expected_values:
-    PORSCHE_CABIN_T: 19.3
-    PORSCHE_HVAC_INTERIOR_T: 19.3
-  response: 7B00562261300C1
-- expected_values:
-    PORSCHE_CABIN_T: 20
-    PORSCHE_HVAC_INTERIOR_T: 20
-  response: 7B00562261300C8
-- expected_values:
-    PORSCHE_CABIN_T: 20.6
-    PORSCHE_HVAC_INTERIOR_T: 20.6
-  response: 7B00562261300CE
-- expected_values:
-    PORSCHE_CABIN_T: 21.3
-    PORSCHE_HVAC_INTERIOR_T: 21.3
-  response: 7B00562261300D5
+    PORSCHE_CABIN_T: 25.3
+    PORSCHE_HVAC_INTERIOR_T: 25.3
+  response: 7B00562261300FD
 - expected_values:
     PORSCHE_CABIN_T: 34.7
     PORSCHE_HVAC_INTERIOR_T: 34.7
   response: 7B005622613015B
-- expected_values:
-    PORSCHE_CABIN_T: 34.8
-    PORSCHE_HVAC_INTERIOR_T: 34.8
-  response: 7B005622613015C
-- expected_values:
-    PORSCHE_CABIN_T: 35
-    PORSCHE_HVAC_INTERIOR_T: 35
-  response: 7B005622613015E
