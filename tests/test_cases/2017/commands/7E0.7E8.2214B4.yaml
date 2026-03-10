@@ -1,6 +1,15 @@
 command_id: 7E0.7E8.2214B4
 test_cases:
 - expected_values:
+    PORSCHE_FUEL_LEVEL_INPUT_V1: 22
+  response: 7E8056214B40898
+- expected_values:
+    PORSCHE_FUEL_LEVEL_INPUT_V1: 23
+  response: 7E8056214B408FC
+- expected_values:
+    PORSCHE_FUEL_LEVEL_INPUT_V1: 24
+  response: 7E8056214B40960
+- expected_values:
     PORSCHE_FUEL_LEVEL_INPUT_V1: 25
   response: 7E8056214B409C4
 - expected_values:

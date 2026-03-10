@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PORSCHE_PQ35_SOOT_MASS_MEAS: 0
   response: 7E80562114E0000
+- expected_values:
+    PORSCHE_PQ35_SOOT_MASS_MEAS: 0.01
+  response: 7E80562114E0001
