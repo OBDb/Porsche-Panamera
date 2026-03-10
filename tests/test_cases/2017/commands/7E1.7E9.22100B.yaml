@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PORSCHE_MQB_TCM_DRIVER_DEMAND_TORQUE: 0
   response: 7E90562100B0000
+- expected_values:
+    PORSCHE_MQB_TCM_DRIVER_DEMAND_TORQUE: 5.65
+  response: 7E90562100B0071

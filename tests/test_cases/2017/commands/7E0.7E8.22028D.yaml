@@ -1,6 +1,27 @@
 command_id: 7E0.7E8.22028D
 test_cases:
 - expected_values:
+    PORSCHE_ECU_TEMP: 303
+  response: 7E80562028D0BD6
+- expected_values:
+    PORSCHE_ECU_TEMP: 304.3
+  response: 7E80562028D0BE3
+- expected_values:
+    PORSCHE_ECU_TEMP: 305.1
+  response: 7E80562028D0BEB
+- expected_values:
+    PORSCHE_ECU_TEMP: 305.2
+  response: 7E80562028D0BEC
+- expected_values:
+    PORSCHE_ECU_TEMP: 305.3
+  response: 7E80562028D0BED
+- expected_values:
+    PORSCHE_ECU_TEMP: 306
+  response: 7E80562028D0BF4
+- expected_values:
+    PORSCHE_ECU_TEMP: 308.2
+  response: 7E80562028D0C0A
+- expected_values:
     PORSCHE_ECU_TEMP: 315
   response: 7E80562028D0C4E
 - expected_values:

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PORSCHE_MQB_DQ250_SPD_OUTPUT: 4096
   response: '7E9056210090010'
+- expected_values:
+    PORSCHE_MQB_DQ250_SPD_OUTPUT: 4385
+  response: '7E9056210092111'
