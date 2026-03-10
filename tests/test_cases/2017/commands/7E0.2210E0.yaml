@@ -1,0 +1,6 @@
+command_id: 7E0.2210E0
+test_cases:
+- expected_values:
+    PORSCHE_ODO_2_V2: 155561
+    PORSCHE_ODO_V3: 155561
+  response: 7E8076210E000025FA9

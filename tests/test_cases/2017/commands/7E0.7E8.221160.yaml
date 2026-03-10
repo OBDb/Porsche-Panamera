@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221160
+test_cases:
+- expected_values:
+    PORSCHE_ODO_HD: 151894.553
+  response: 7E807621160090DBA19
