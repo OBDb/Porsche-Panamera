@@ -17,6 +17,14 @@ test_cases:
     PORSCHE_SSB_VT: 15
   response: 77A04622A002C
 - expected_values:
+    PORSCHE_MQB_GEN_TRG_V: 15.1
+    PORSCHE_SSB_VT: 15.1
+  response: 77A04622A002D
+- expected_values:
+    PORSCHE_MQB_GEN_TRG_V: 15.2
+    PORSCHE_SSB_VT: 15.2
+  response: 77A04622A002E
+- expected_values:
     PORSCHE_MQB_GEN_TRG_V: 15.3
     PORSCHE_SSB_VT: 15.3
   response: 77A04622A002F
