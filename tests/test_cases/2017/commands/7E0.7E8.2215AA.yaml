@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2215AA
 test_cases:
 - expected_values:
+    PORSCHE_PQ35_SELECTED_GEAR: 1
+  response: 7E8056215AA01F3
+- expected_values:
     PORSCHE_PQ35_SELECTED_GEAR: 2
   response: 7E8056215AA0208
-- expected_values:
-    PORSCHE_PQ35_SELECTED_GEAR: 4
-  response: 7E8056215AA04D3
 - expected_values:
     PORSCHE_PQ35_SELECTED_GEAR: 8
   response: 7E8056215AA083D
