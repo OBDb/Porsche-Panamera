@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221019
+test_cases:
+- expected_values:
+    PORSCHE_PQ35_DRIVING_STRATEGY_SPORT_FACTOR: 26.66667
+  response: 7E90562101904EB

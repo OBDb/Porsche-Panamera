@@ -1,0 +1,8 @@
+command_id: 746.7B0.22260A|fc=1
+test_cases:
+- expected_values:
+    PORSCHE_AAT_CABIN: -49.5
+  response: 7B00562260A010A
+- expected_values:
+    PORSCHE_AAT_CABIN: -49.5
+  response: 7B00562260A010E
