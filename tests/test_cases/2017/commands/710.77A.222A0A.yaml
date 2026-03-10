@@ -19,5 +19,11 @@ test_cases:
     PORSCHE_SSB_SENSOR_T: 24
   response: 77A04622A0A40
 - expected_values:
+    PORSCHE_SSB_SENSOR_T: 27
+  response: 77A04622A0A43
+- expected_values:
+    PORSCHE_SSB_SENSOR_T: 28
+  response: 77A04622A0A44
+- expected_values:
     PORSCHE_SSB_SENSOR_T: 31
   response: 77A04622A0A47

@@ -4,11 +4,8 @@ test_cases:
     PORSCHE_PQ35_CAMS_END: 28.4
   response: 7E805621341008E
 - expected_values:
-    PORSCHE_PQ35_CAMS_END: 5123.6
-  response: '7E8056213416412'
-- expected_values:
     PORSCHE_PQ35_CAMS_END: 6553.4
   response: 7E8056213417FFF
 - expected_values:
-    PORSCHE_PQ35_CAMS_END: -45
-  response: 7E805621341FF1F
+    PORSCHE_PQ35_CAMS_END: -48
+  response: 7E805621341FF10

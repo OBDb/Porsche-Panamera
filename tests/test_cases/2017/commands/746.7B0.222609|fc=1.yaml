@@ -7,6 +7,6 @@ test_cases:
   response: 7B0056226090082
 - expected_values:
     PORSCHE_AAT: 0
-    PORSCHE_HVAC_OUTSIDE_T: 22.5
+    PORSCHE_HVAC_OUTSIDE_T: 24
     PORSCHE_PQ35_OUT_T: 0
-  response: 7B00562260900E1
+  response: 7B00562260900F0

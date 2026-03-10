@@ -4,26 +4,5 @@ test_cases:
     PORSCHE_EM_TORQ_3: 292.71875
   response: '7E8056211552497'
 - expected_values:
-    PORSCHE_EM_TORQ_3: 293
-  response: 7E80562115524A0
-- expected_values:
-    PORSCHE_EM_TORQ_3: 293.0625
-  response: 7E80562115524A2
-- expected_values:
-    PORSCHE_EM_TORQ_3: 293.125
-  response: 7E80562115524A4
-- expected_values:
-    PORSCHE_EM_TORQ_3: 293.21875
-  response: 7E80562115524A7
-- expected_values:
-    PORSCHE_EM_TORQ_3: 293.375
-  response: 7E80562115524AC
-- expected_values:
-    PORSCHE_EM_TORQ_3: 293.40625
-  response: 7E80562115524AD
-- expected_values:
-    PORSCHE_EM_TORQ_3: 293.5
-  response: 7E80562115524B0
-- expected_values:
-    PORSCHE_EM_TORQ_3: 293.53125
-  response: 7E80562115524B1
+    PORSCHE_EM_TORQ_3: 293.625
+  response: 7E80562115524B4

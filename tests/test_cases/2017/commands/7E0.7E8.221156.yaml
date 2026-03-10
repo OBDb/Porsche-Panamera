@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     PORSCHE_HVBAT_SOC: 10
   response: 7E805621156140D
+- expected_values:
+    PORSCHE_HVBAT_SOC: 10
+  response: 7E805621156140E

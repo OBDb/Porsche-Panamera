@@ -4,8 +4,8 @@ test_cases:
     PORSCHE_PQ35_AC_COMP_SPD: 0
   response: 7B0056226030000
 - expected_values:
-    PORSCHE_PQ35_AC_COMP_SPD: 200
-  response: 7B00562260302E1
+    PORSCHE_PQ35_AC_COMP_SPD: 900
+  response: 7B00562260309E5
 - expected_values:
     PORSCHE_PQ35_AC_COMP_SPD: 2000
   response: 7B0056226031489
