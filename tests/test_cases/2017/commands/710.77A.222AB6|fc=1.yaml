@@ -1,6 +1,41 @@
 command_id: 710.77A.222AB6|fc=1
 test_cases:
 - expected_values:
+    PORSCHE_RANGE: 155
+  response: |-
+    77A100A622AB6009B00
+    77A219B07FD01AAAAAA
+- expected_values:
+    PORSCHE_RANGE: 157
+  response: |-
+    77A100A622AB6009D00
+    77A219D07FD01AAAAAA
+- expected_values:
+    PORSCHE_RANGE: 159
+  response: |-
+    77A100A622AB6009F00
+    77A219F07FD01AAAAAA
+- expected_values:
+    PORSCHE_RANGE: 160
+  response: |-
+    77A100A622AB600A000
+    77A21A007FD01AAAAAA
+- expected_values:
+    PORSCHE_RANGE: 165
+  response: |-
+    77A100A622AB600A500
+    77A21A507FD01AAAAAA
+- expected_values:
+    PORSCHE_RANGE: 168
+  response: |-
+    77A100A622AB600A800
+    77A21A807FD01AAAAAA
+- expected_values:
+    PORSCHE_RANGE: 171
+  response: |-
+    77A100A622AB600AB00
+    77A21AB07FD01AAAAAA
+- expected_values:
     PORSCHE_RANGE: 196
   response: |-
     77A100A622AB600C400

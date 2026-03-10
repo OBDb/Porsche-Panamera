@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     PORSCHE_MQB_MAF_1_B1_RAW: 0
   response: '7E8056210260000'
+- expected_values:
+    PORSCHE_MQB_MAF_1_B1_RAW: 265
+  response: 7E8056210260A5A
+- expected_values:
+    PORSCHE_MQB_MAF_1_B1_RAW: 270.4
+  response: 7E8056210260A90
+- expected_values:
+    PORSCHE_MQB_MAF_1_B1_RAW: 274.8
+  response: 7E8056210260ABC
