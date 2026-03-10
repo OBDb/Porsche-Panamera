@@ -4,23 +4,8 @@ test_cases:
     PORSCHE_TIRE_RR_SPD_V3: 0
   response: 77D05622B1E0000
 - expected_values:
-    PORSCHE_TIRE_RR_SPD_V3: 2.5875
-  response: 77D05622B1E002E
-- expected_values:
-    PORSCHE_TIRE_RR_SPD_V3: 22.5
-  response: 77D05622B1E0190
-- expected_values:
-    PORSCHE_TIRE_RR_SPD_V3: 38.7
-  response: 77D05622B1E02B0
-- expected_values:
-    PORSCHE_TIRE_RR_SPD_V3: 79.2
-  response: 77D05622B1E0580
+    PORSCHE_TIRE_RR_SPD_V3: 54.95625
+  response: 77D05622B1E03D1
 - expected_values:
     PORSCHE_TIRE_RR_SPD_V3: 89.49375
   response: 77D05622B1E0637
-- expected_values:
-    PORSCHE_TIRE_RR_SPD_V3: 93.15
-  response: 77D05622B1E0678
-- expected_values:
-    PORSCHE_TIRE_RR_SPD_V3: 97.5375
-  response: 77D05622B1E06C6

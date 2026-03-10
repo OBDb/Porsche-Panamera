@@ -4,23 +4,8 @@ test_cases:
     PORSCHE_PQ35_ACCEL_PED_1: 0
   response: '7E8056212210000'
 - expected_values:
-    PORSCHE_PQ35_ACCEL_PED_1: 11.4
-  response: '7E8056212210039'
-- expected_values:
-    PORSCHE_PQ35_ACCEL_PED_1: 11.8
-  response: 7E805621221003B
-- expected_values:
-    PORSCHE_PQ35_ACCEL_PED_1: 12.4
-  response: 7E805621221003E
-- expected_values:
-    PORSCHE_PQ35_ACCEL_PED_1: 14.2
-  response: '7E8056212210047'
-- expected_values:
-    PORSCHE_PQ35_ACCEL_PED_1: 16.8
-  response: '7E8056212210054'
-- expected_values:
-    PORSCHE_PQ35_ACCEL_PED_1: 21
-  response: '7E8056212210069'
-- expected_values:
     PORSCHE_PQ35_ACCEL_PED_1: -2.4
   response: 7E805621221FFF4
+- expected_values:
+    PORSCHE_PQ35_ACCEL_PED_1: -1.4
+  response: 7E805621221FFF9

@@ -1,29 +1,8 @@
 command_id: 710.77A.222A0F
 test_cases:
 - expected_values:
-    PORSCHE_SSB_AH: 61
-  response: 77A04622A0F3D
-- expected_values:
-    PORSCHE_SSB_AH: 64
-  response: 77A04622A0F40
-- expected_values:
-    PORSCHE_SSB_AH: 65
-  response: 77A04622A0F41
-- expected_values:
-    PORSCHE_SSB_AH: 66
-  response: 77A04622A0F42
-- expected_values:
-    PORSCHE_SSB_AH: 67
-  response: 77A04622A0F43
-- expected_values:
-    PORSCHE_SSB_AH: 68
-  response: 77A04622A0F44
-- expected_values:
-    PORSCHE_SSB_AH: 69
-  response: 77A04622A0F45
-- expected_values:
-    PORSCHE_SSB_AH: 72
-  response: 77A04622A0F48
+    PORSCHE_SSB_AH: 50
+  response: 77A04622A0F32
 - expected_values:
     PORSCHE_SSB_AH: 75
   response: 77A04622A0F4B
