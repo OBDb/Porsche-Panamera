@@ -4,8 +4,8 @@ test_cases:
     PORSCHE_AAT_CABIN: -50
   response: 7B00562260A0085
 - expected_values:
-    PORSCHE_AAT_CABIN: -49.5
-  response: 7B00562260A0105
+    PORSCHE_AAT_CABIN: -50
+  response: 7B00562260A00F3
 - expected_values:
     PORSCHE_AAT_CABIN: -49.5
-  response: 7B00562260A01EE
+  response: 7B00562260A0105
