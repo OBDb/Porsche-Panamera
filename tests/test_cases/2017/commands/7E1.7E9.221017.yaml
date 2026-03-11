@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     PORSCHE_PQ35_ROAD_RESISTANCE: -29.11
   response: 7E9056210170AD5
+- expected_values:
+    PORSCHE_PQ35_ROAD_RESISTANCE: -28.861
+  response: 7E9056210170B06
