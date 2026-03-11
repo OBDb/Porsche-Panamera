@@ -4,8 +4,8 @@ test_cases:
     PORSCHE_MQB_DPF_EXH_VOL: 0
   response: 7E8056211E60000
 - expected_values:
-    PORSCHE_MQB_DPF_EXH_VOL: 72.4
-  response: 7E8056211E602D4
+    PORSCHE_MQB_DPF_EXH_VOL: 76.5
+  response: 7E8056211E602FD
 - expected_values:
     PORSCHE_MQB_DPF_EXH_VOL: 323.9
   response: 7E8056211E60CA7
