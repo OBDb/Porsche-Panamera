@@ -4,8 +4,8 @@ test_cases:
     PORSCHE_ECU_TEMP: 300.3
   response: 7E80562028D0BBB
 - expected_values:
-    PORSCHE_ECU_TEMP: 306
-  response: 7E80562028D0BF4
+    PORSCHE_ECU_TEMP: 307.1
+  response: 7E80562028D0BFF
 - expected_values:
     PORSCHE_ECU_TEMP: 307.2
   response: 7E80562028D0C00
