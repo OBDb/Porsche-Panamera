@@ -20,6 +20,9 @@ test_cases:
   response: '7E9056210190685'
 - expected_values:
     PORSCHE_PQ35_DRIVING_STRATEGY_SPORT_FACTOR: 100
+  response: '7E9056210191865'
+- expected_values:
+    PORSCHE_PQ35_DRIVING_STRATEGY_SPORT_FACTOR: 100
   response: '7E9056210191878'
 - expected_values:
     PORSCHE_PQ35_DRIVING_STRATEGY_SPORT_FACTOR: 100

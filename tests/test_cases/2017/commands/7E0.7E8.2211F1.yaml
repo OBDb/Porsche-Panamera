@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2211F1
 test_cases:
 - expected_values:
-    PORSCHE_PQ35_TRANS_IN_SPD: 1847
-  response: 7E8056211F10E6E
+    PORSCHE_PQ35_TRANS_IN_SPD: 1710.5
+  response: 7E8056211F10D5D
 - expected_values:
     PORSCHE_PQ35_TRANS_IN_SPD: 3840
   response: 7E8056211F11E00
