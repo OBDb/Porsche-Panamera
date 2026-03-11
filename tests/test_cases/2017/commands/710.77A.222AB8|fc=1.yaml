@@ -3,7 +3,7 @@ test_cases:
 - expected_values:
     PORSCHE_HVBAT_KWH: 0
   response: |-
-    77A100B622AB8005A00
+    77A100B622AB8005000
     77A210000000000AAAA
 - expected_values:
     PORSCHE_HVBAT_KWH: 0
