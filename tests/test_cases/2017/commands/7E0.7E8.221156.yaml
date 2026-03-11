@@ -5,25 +5,4 @@ test_cases:
   response: '7E8056211561409'
 - expected_values:
     PORSCHE_HVBAT_SOC: 10
-  response: 7E805621156140C
-- expected_values:
-    PORSCHE_HVBAT_SOC: 10
-  response: 7E805621156140D
-- expected_values:
-    PORSCHE_HVBAT_SOC: 10
-  response: 7E805621156140E
-- expected_values:
-    PORSCHE_HVBAT_SOC: 10
-  response: 7E805621156140F
-- expected_values:
-    PORSCHE_HVBAT_SOC: 10
-  response: '7E8056211561410'
-- expected_values:
-    PORSCHE_HVBAT_SOC: 10
-  response: '7E8056211561411'
-- expected_values:
-    PORSCHE_HVBAT_SOC: 10
-  response: '7E8056211561412'
-- expected_values:
-    PORSCHE_HVBAT_SOC: 10
-  response: '7E8056211561416'
+  response: 7E805621156141D

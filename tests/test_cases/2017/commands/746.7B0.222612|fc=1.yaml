@@ -1,10 +1,10 @@
 command_id: 746.7B0.222612|fc=1
 test_cases:
 - expected_values:
-    PORSCHE_HVAC_EVAP_T: 13.9
+    PORSCHE_HVAC_EVAP_T: 13.1
     PORSCHE_PQ35_EVAP_OUT_T: 0
     PORSCHE_T_AFTER_EVAPORATOR: 0
-  response: 7B005622612008B
+  response: 7B0056226120083
 - expected_values:
     PORSCHE_HVAC_EVAP_T: 25.5
     PORSCHE_PQ35_EVAP_OUT_T: 0

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PORSCHE_PQ35_SRV_REGEN_STAT: 39
   response: 7E80562115C2710
+- expected_values:
+    PORSCHE_PQ35_SRV_REGEN_STAT: 253
+  response: 7E80562115CFDE4

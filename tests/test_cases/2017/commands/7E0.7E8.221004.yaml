@@ -7,5 +7,5 @@ test_cases:
     PORSCHE_AAT_V2: -1.35938
   response: 7E805621004FF52
 - expected_values:
-    PORSCHE_AAT_V2: -0.0625
-  response: 7E805621004FFF8
+    PORSCHE_AAT_V2: -0.01562
+  response: 7E805621004FFFE
