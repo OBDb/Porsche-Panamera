@@ -3,12 +3,12 @@ test_cases:
 - expected_values:
     PORSCHE_TID_3: 100
     PORSCHE_TPS_3: 25.5
-    PORSCHE_TP_3: 5.2
+    PORSCHE_TP_3: 5.1
     PORSCHE_TP_RL: 2.425
     PORSCHE_TT_3: 68
   response: |-
     775100C6218A22697AC
-    77521602061346CFFAA
+    77521602061336CFFAA
 - expected_values:
     PORSCHE_TID_3: 100
     PORSCHE_TPS_3: 25.5
