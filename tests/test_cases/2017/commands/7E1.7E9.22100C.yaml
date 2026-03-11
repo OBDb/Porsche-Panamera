@@ -10,8 +10,14 @@ test_cases:
     PORSCHE_MQB_TCM_ENGINE_TORQUE: -767.6
   response: 7E90562100C08C4
 - expected_values:
+    PORSCHE_MQB_TCM_ENGINE_TORQUE: -690.8
+  response: 7E90562100C08CA
+- expected_values:
     PORSCHE_MQB_TCM_ENGINE_TORQUE: -614
   response: 7E90562100C08D0
+- expected_values:
+    PORSCHE_MQB_TCM_ENGINE_TORQUE: -383.6
+  response: 7E90562100C08E2
 - expected_values:
     PORSCHE_MQB_TCM_ENGINE_TORQUE: -306.8
   response: 7E90562100C08E8

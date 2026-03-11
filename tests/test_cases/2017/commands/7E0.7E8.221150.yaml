@@ -4,5 +4,5 @@ test_cases:
     PORSCHE_MISFIRES_C3: 5699
   response: '7E8056211501643'
 - expected_values:
-    PORSCHE_MISFIRES_C3: 5754
-  response: 7E805621150167A
+    PORSCHE_MISFIRES_C3: 5757
+  response: 7E805621150167D

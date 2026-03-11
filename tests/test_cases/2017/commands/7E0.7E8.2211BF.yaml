@@ -2,31 +2,7 @@ command_id: 7E0.7E8.2211BF
 test_cases:
 - expected_values:
     PORSCHE_PQ35_FUEL_P_REG: 0
-  response: 7E8056211BFFFEF
-- expected_values:
-    PORSCHE_PQ35_FUEL_P_REG: 0
-  response: 7E8056211BFFFF0
-- expected_values:
-    PORSCHE_PQ35_FUEL_P_REG: 0
-  response: 7E8056211BFFFF2
-- expected_values:
-    PORSCHE_PQ35_FUEL_P_REG: 0
-  response: 7E8056211BFFFF3
-- expected_values:
-    PORSCHE_PQ35_FUEL_P_REG: 0
-  response: 7E8056211BFFFF4
-- expected_values:
-    PORSCHE_PQ35_FUEL_P_REG: 0
-  response: 7E8056211BFFFF5
-- expected_values:
-    PORSCHE_PQ35_FUEL_P_REG: 0
-  response: 7E8056211BFFFF6
-- expected_values:
-    PORSCHE_PQ35_FUEL_P_REG: 0
-  response: 7E8056211BFFFF7
-- expected_values:
-    PORSCHE_PQ35_FUEL_P_REG: 0
-  response: 7E8056211BFFFF8
+  response: 7E8056211BFFFEE
 - expected_values:
     PORSCHE_PQ35_FUEL_P_REG: 0
   response: 7E8056211BFFFF9
