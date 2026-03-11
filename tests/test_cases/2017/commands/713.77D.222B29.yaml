@@ -7,5 +7,5 @@ test_cases:
     PORSCHE_STEER_ANGLE: 1.018
   response: 77D05622B2903FA
 - expected_values:
-    PORSCHE_STEER_ANGLE: -0.044
-  response: 77D05622B29FFD4
+    PORSCHE_STEER_ANGLE: -0.151
+  response: 77D05622B29FF69
