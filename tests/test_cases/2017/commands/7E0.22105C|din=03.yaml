@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     PORSCHE_PQ35_GEN_LOAD: 2.25
   response: 7E80562105C00E1
+- expected_values:
+    PORSCHE_PQ35_GEN_LOAD: 2.82
+  response: 7E80562105C011A
