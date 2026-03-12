@@ -9,9 +9,9 @@ test_cases:
     PORSCHE_OIL_LVL: 75.724
   response: 7E8056211BA49F3
 - expected_values:
-    PORSCHE_OIL_LEVEL: 9.1156
-    PORSCHE_OIL_LVL: 91.156
-  response: 7E8056211BA5905
+    PORSCHE_OIL_LEVEL: 7.6816
+    PORSCHE_OIL_LVL: 76.816
+  response: 7E8056211BA4B04
 - expected_values:
     PORSCHE_OIL_LEVEL: 9.8596
     PORSCHE_OIL_LVL: 98.596
