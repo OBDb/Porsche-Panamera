@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     PORSCHE_WARM_UPS: 12
   response: 7E80462F4300C
+- expected_values:
+    PORSCHE_WARM_UPS: 13
+  response: 7E80462F4300D
