@@ -7,5 +7,5 @@ test_cases:
     PORSCHE_RUNTM: 766
   response: 7E80562F41F02FE
 - expected_values:
-    PORSCHE_RUNTM: 2124
-  response: 7E80562F41F084C
+    PORSCHE_RUNTM: 2341
+  response: 7E80562F41F0925

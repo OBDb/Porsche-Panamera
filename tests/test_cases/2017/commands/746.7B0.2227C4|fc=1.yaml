@@ -1,6 +1,12 @@
 command_id: 746.7B0.2227C4|fc=1
 test_cases:
 - expected_values:
+    PORSCHE_HVAC_INSIDE_HUM: 58
+    PORSCHE_WNDSHLD_TEMP: 17.648
+  response: |-
+    7B010086227C462DD71
+    7B0217874AAAAAAAAAA
+- expected_values:
     PORSCHE_HVAC_INSIDE_HUM: 66
     PORSCHE_WNDSHLD_TEMP: 18.224
   response: |-

@@ -8,6 +8,9 @@ test_cases:
   response: 7E8056211C120F3
 - expected_values:
     PORSCHE_PQ35_DPF_FIELD_REGEN_LOCK: 33
+  response: 7E8056211C1211C
+- expected_values:
+    PORSCHE_PQ35_DPF_FIELD_REGEN_LOCK: 33
   response: 7E8056211C121A1
 - expected_values:
     PORSCHE_PQ35_DPF_FIELD_REGEN_LOCK: 34

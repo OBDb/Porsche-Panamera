@@ -33,6 +33,10 @@ test_cases:
     PORSCHE_PQ35_OIL_T_2: 6278
   response: 7E8056211BEFFE7
 - expected_values:
+    PORSCHE_EOT: 65514
+    PORSCHE_PQ35_OIL_T_2: 6278.3
+  response: 7E8056211BEFFEA
+- expected_values:
     PORSCHE_EOT: 65515
     PORSCHE_PQ35_OIL_T_2: 6278.4
   response: 7E8056211BEFFEB
