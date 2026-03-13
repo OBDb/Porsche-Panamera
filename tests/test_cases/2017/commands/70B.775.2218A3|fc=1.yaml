@@ -12,6 +12,15 @@ test_cases:
 - expected_values:
     PORSCHE_TID_4: 100
     PORSCHE_TPS_4: 25.5
+    PORSCHE_TP_4: 4.8
+    PORSCHE_TP_RR: 2.775
+    PORSCHE_TT_4: 68
+  response: |-
+    775100C6218A32696D4
+    775218E226F306CFFAA
+- expected_values:
+    PORSCHE_TID_4: 100
+    PORSCHE_TPS_4: 25.5
     PORSCHE_TP_4: 5
     PORSCHE_TP_RR: 2.8
     PORSCHE_TT_4: 68
@@ -27,15 +36,6 @@ test_cases:
   response: |-
     775100C6218A32696D4
     775218E22763F6CFFAA
-- expected_values:
-    PORSCHE_TID_4: 100
-    PORSCHE_TPS_4: 25.5
-    PORSCHE_TP_4: 6.4
-    PORSCHE_TP_RR: 2.975
-    PORSCHE_TT_4: 68
-  response: |-
-    775100C6218A32696D4
-    775218E2277406CFFAA
 - expected_values:
     PORSCHE_TID_4: 100
     PORSCHE_TPS_4: 25.5
