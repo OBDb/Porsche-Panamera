@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     PORSCHE_ODO_HD: 152124.157
   response: 7E80762116009113AFD
+- expected_values:
+    PORSCHE_ODO_HD: 152181.013
+  response: '7E80762116009121915'
