@@ -5,9 +5,9 @@ test_cases:
     PORSCHE_SSB_V: 69.54
   response: 77A05622A071FF5
 - expected_values:
-    PORSCHE_MQB_BAT_V: 14.754
+    PORSCHE_MQB_BAT_V: 13.218
     PORSCHE_SSB_V: 69.54
-  response: 77A05622A072A02
+  response: 77A05622A072402
 - expected_values:
     PORSCHE_MQB_BAT_V: 15.003
     PORSCHE_SSB_V: 69.54
