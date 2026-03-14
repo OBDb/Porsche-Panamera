@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     PORSCHE_PQ35_TRANS_IN_SPD: 7038
   response: 7E8056211F136FC
+- expected_values:
+    PORSCHE_PQ35_TRANS_IN_SPD: 9256
+  response: 7E8056211F14850
