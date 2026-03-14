@@ -5,4 +5,4 @@ test_cases:
   response: '7E8056211561409'
 - expected_values:
     PORSCHE_HVBAT_SOC: 10
-  response: 7E805621156142F
+  response: '7E8056211561431'
