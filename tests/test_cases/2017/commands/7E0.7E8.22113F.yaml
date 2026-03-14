@@ -7,5 +7,5 @@ test_cases:
     PORSCHE_FUEL_CONS: 5.08
   response: 7E80562113F01FC
 - expected_values:
-    PORSCHE_FUEL_CONS: 13.76
-  response: 7E80562113F0560
+    PORSCHE_FUEL_CONS: 13.47
+  response: 7E80562113F0543
