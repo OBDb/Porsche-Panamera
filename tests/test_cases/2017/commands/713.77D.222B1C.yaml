@@ -7,5 +7,5 @@ test_cases:
     PORSCHE_TIRE_FR_SPD_V3: 71.83125
   response: 77D05622B1C04FD
 - expected_values:
-    PORSCHE_TIRE_FR_SPD_V3: 88.36875
-  response: 77D05622B1C0623
+    PORSCHE_TIRE_FR_SPD_V3: 104.00625
+  response: 77D05622B1C0739
