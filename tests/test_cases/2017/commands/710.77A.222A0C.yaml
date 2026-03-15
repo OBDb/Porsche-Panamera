@@ -5,6 +5,6 @@ test_cases:
     PORSCHE_SSB_SOC: 69
   response: 77A04622A0C45
 - expected_values:
-    PORSCHE_MQB_BAT_CHG_COND: 93
-    PORSCHE_SSB_SOC: 93
-  response: 77A04622A0C5D
+    PORSCHE_MQB_BAT_CHG_COND: 95
+    PORSCHE_SSB_SOC: 95
+  response: 77A04622A0C5F
