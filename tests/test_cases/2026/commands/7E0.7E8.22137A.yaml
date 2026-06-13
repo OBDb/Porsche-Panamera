@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22137A
+test_cases:
+- expected_values:
+    PORSCHE_PQ35_IGN_ANG_CYL: -35.625
+  response: 7E80762137A00002F17

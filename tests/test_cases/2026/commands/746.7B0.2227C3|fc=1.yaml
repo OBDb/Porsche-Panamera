@@ -1,0 +1,47 @@
+command_id: 746.7B0.2227C3|fc=1
+test_cases:
+- expected_values:
+    PORSCHE_HVAC_OUTSIDE_HUM: 57
+  response: |-
+    7B0100C6227C3009A00
+    7B021FE013D017200AA
+- expected_values:
+    PORSCHE_HVAC_OUTSIDE_HUM: 57
+  response: |-
+    7B0100C6227C3009B00
+    7B021FE013E017200AA
+- expected_values:
+    PORSCHE_HVAC_OUTSIDE_HUM: 54.5
+  response: |-
+    7B0100C6227C3009B00
+    7B021FF0141016D00AA
+- expected_values:
+    PORSCHE_HVAC_OUTSIDE_HUM: 54.5
+  response: |-
+    7B0100C6227C3009B01
+    7B021020141016D00AA
+- expected_values:
+    PORSCHE_HVAC_OUTSIDE_HUM: 57
+  response: |-
+    7B0100C6227C3009C00
+    7B021FF013F017200AA
+- expected_values:
+    PORSCHE_HVAC_OUTSIDE_HUM: 57
+  response: |-
+    7B0100C6227C3009C00
+    7B021FF0140017200AA
+- expected_values:
+    PORSCHE_HVAC_OUTSIDE_HUM: 54.5
+  response: |-
+    7B0100C6227C3009C01
+    7B021000140016D00AA
+- expected_values:
+    PORSCHE_HVAC_OUTSIDE_HUM: 54.5
+  response: |-
+    7B0100C6227C3009C01
+    7B021010142016D00AA
+- expected_values:
+    PORSCHE_HVAC_OUTSIDE_HUM: 54.5
+  response: |-
+    7B0100C6227C3009C01
+    7B021030142016D00AA
