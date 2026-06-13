@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.2210C9
+test_cases:
+- expected_values:
+    PORSCHE_PQ35_CLUTCH_1_SUCCESSFUL_ADAPTS_COUNTER: 0
+  response: 7E9066210C9000002

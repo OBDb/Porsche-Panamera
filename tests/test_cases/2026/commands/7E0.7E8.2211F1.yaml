@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2211F1
+test_cases:
+- expected_values:
+    PORSCHE_PQ35_TRANS_IN_SPD: 2449.5
+  response: 7E8056211F11323
+- expected_values:
+    PORSCHE_PQ35_TRANS_IN_SPD: 2450.5
+  response: 7E8056211F11325
+- expected_values:
+    PORSCHE_PQ35_TRANS_IN_SPD: 2451
+  response: 7E8056211F11326
+- expected_values:
+    PORSCHE_PQ35_TRANS_IN_SPD: 2451.5
+  response: 7E8056211F11327
+- expected_values:
+    PORSCHE_PQ35_TRANS_IN_SPD: 2452
+  response: 7E8056211F11328
+- expected_values:
+    PORSCHE_PQ35_TRANS_IN_SPD: 2453
+  response: 7E8056211F1132A
+- expected_values:
+    PORSCHE_PQ35_TRANS_IN_SPD: 2453.5
+  response: 7E8056211F1132B
