@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.22F442
 test_cases:
 - expected_values:
+    PORSCHE_VPWR: 11.62
+  response: 7E80562F4422D64
+- expected_values:
+    PORSCHE_VPWR: 11.64
+  response: 7E80562F4422D78
+- expected_values:
     PORSCHE_VPWR: 11.66
   response: 7E80562F4422D8C
 - expected_values:
