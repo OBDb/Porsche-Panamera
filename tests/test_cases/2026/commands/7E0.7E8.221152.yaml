@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.221152
+test_cases:
+- expected_values:
+    PORSCHE_EM_RPM_2: 53
+    PORSCHE_MISFIRES__CYL__2: 106
+  response: 7E805621152006A

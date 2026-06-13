@@ -1,0 +1,7 @@
+command_id: 746.7B0.222609|fc=1
+test_cases:
+- expected_values:
+    PORSCHE_AAT: 0
+    PORSCHE_HVAC_OUTSIDE_T: 24
+    PORSCHE_PQ35_OUT_T: 0
+  response: 7B00562260900F0

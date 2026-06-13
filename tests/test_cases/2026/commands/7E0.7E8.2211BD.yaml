@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.2211BD
+test_cases:
+- expected_values:
+    PORSCHE_OIL_LEVEL_WARN: 1.2096
+    PORSCHE_PQ35_OIL_LVL_CRIT: 12.096
+  response: 7E8056211BD0BD0

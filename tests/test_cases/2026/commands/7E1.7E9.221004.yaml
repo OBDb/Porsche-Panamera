@@ -1,0 +1,17 @@
+command_id: 7E1.7E9.221004
+test_cases:
+- expected_values:
+    PORSCHE_TIRE_RL_SPD_V2: 255
+  response: 7E9056210042E08
+- expected_values:
+    PORSCHE_TIRE_RL_SPD_V2: 255
+  response: 7E9056210042E18
+- expected_values:
+    PORSCHE_TIRE_RL_SPD_V2: 255
+  response: 7E9056210042E1C
+- expected_values:
+    PORSCHE_TIRE_RL_SPD_V2: 255
+  response: 7E9056210042E35
+- expected_values:
+    PORSCHE_TIRE_RL_SPD_V2: 255
+  response: 7E9056210042E3A
