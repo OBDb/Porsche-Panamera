@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     PORSCHE_AAT_CABIN: -50
   response: 7B00562260A00F5
+- expected_values:
+    PORSCHE_AAT_CABIN: -50
+  response: 7B00562260A00F6
