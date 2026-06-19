@@ -4,3 +4,11 @@ test_cases:
     PORSCHE_HVAC_FAN_CMD: 0
     PORSCHE_PQ35_RAD_FAN_CMD: 0
   response: 7B0056226070000
+- expected_values:
+    PORSCHE_HVAC_FAN_CMD: 24.9
+    PORSCHE_PQ35_RAD_FAN_CMD: 0
+  response: 7B00562260700F9
+- expected_values:
+    PORSCHE_HVAC_FAN_CMD: 73.3
+    PORSCHE_PQ35_RAD_FAN_CMD: 0.8
+  response: 7B00562260702DD

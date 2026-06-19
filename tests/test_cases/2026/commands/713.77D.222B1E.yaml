@@ -4,3 +4,11 @@ test_cases:
     PORSCHE_TIRE_RR_SPD: 0
     PORSCHE_TIRE_RR_SPD_713: 0
   response: 77D05622B1E0000
+- expected_values:
+    PORSCHE_TIRE_RR_SPD: 41.7375
+    PORSCHE_TIRE_RR_SPD_713: 74.2
+  response: 77D05622B1E02E6
+- expected_values:
+    PORSCHE_TIRE_RR_SPD: 58.5
+    PORSCHE_TIRE_RR_SPD_713: 104
+  response: 77D05622B1E0410

@@ -3,3 +3,30 @@ test_cases:
 - expected_values:
     PORSCHE_PQ35_GEN_LOAD: 0
   response: 7E80562105C0000
+- expected_values:
+    PORSCHE_PQ35_GEN_LOAD: 0.21
+  response: 7E80562105C0015
+- expected_values:
+    PORSCHE_PQ35_GEN_LOAD: 0.36
+  response: 7E80562105C0024
+- expected_values:
+    PORSCHE_PQ35_GEN_LOAD: 0.72
+  response: 7E80562105C0048
+- expected_values:
+    PORSCHE_PQ35_GEN_LOAD: 0.87
+  response: 7E80562105C0057
+- expected_values:
+    PORSCHE_PQ35_GEN_LOAD: 0.96
+  response: 7E80562105C0060
+- expected_values:
+    PORSCHE_PQ35_GEN_LOAD: 1.05
+  response: 7E80562105C0069
+- expected_values:
+    PORSCHE_PQ35_GEN_LOAD: 1.2
+  response: 7E80562105C0078
+- expected_values:
+    PORSCHE_PQ35_GEN_LOAD: 3.54
+  response: 7E80562105C0162
+- expected_values:
+    PORSCHE_PQ35_GEN_LOAD: 100
+  response: 7E80562105CFFFD
