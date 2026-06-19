@@ -4,3 +4,27 @@ test_cases:
     PORSCHE_EM_RPM_1: 158.5
     PORSCHE_MISFIRES__CYL__4: 317
   response: 7E805621151013D
+- expected_values:
+    PORSCHE_EM_RPM_1: 183.5
+    PORSCHE_MISFIRES__CYL__4: 367
+  response: 7E805621151016F
+- expected_values:
+    PORSCHE_EM_RPM_1: 184
+    PORSCHE_MISFIRES__CYL__4: 368
+  response: '7E8056211510170'
+- expected_values:
+    PORSCHE_EM_RPM_1: 184.5
+    PORSCHE_MISFIRES__CYL__4: 369
+  response: '7E8056211510171'
+- expected_values:
+    PORSCHE_EM_RPM_1: 185
+    PORSCHE_MISFIRES__CYL__4: 370
+  response: '7E8056211510172'
+- expected_values:
+    PORSCHE_EM_RPM_1: 185.5
+    PORSCHE_MISFIRES__CYL__4: 371
+  response: '7E8056211510173'
+- expected_values:
+    PORSCHE_EM_RPM_1: 186
+    PORSCHE_MISFIRES__CYL__4: 372
+  response: '7E8056211510174'

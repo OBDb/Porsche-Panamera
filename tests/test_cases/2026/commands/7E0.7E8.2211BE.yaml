@@ -1,6 +1,14 @@
 command_id: 7E0.7E8.2211BE
 test_cases:
 - expected_values:
+    PORSCHE_EOT: 3
+    PORSCHE_PQ35_OIL_T_2: -272.8
+  response: 7E8056211BE0003
+- expected_values:
     PORSCHE_EOT: 65530
     PORSCHE_PQ35_OIL_T_2: 6279.9
   response: 7E8056211BEFFFA
+- expected_values:
+    PORSCHE_EOT: 65531
+    PORSCHE_PQ35_OIL_T_2: 6280
+  response: 7E8056211BEFFFB

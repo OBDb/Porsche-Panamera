@@ -2,4 +2,16 @@ command_id: 7E0.7E8.221213
 test_cases:
 - expected_values:
     PORSCHE_PQ35_ENVD_CAM_IN_1: 0
-  response: 7E8076212130000CCCD
+  response: '7E80762121300005307'
+- expected_values:
+    PORSCHE_PQ35_ENVD_CAM_IN_1: 0
+  response: '7E80762121300011923'
+- expected_values:
+    PORSCHE_PQ35_ENVD_CAM_IN_1: 0
+  response: 7E807621213000163FA
+- expected_values:
+    PORSCHE_PQ35_ENVD_CAM_IN_1: 0
+  response: 7E8076212130001DED4
+- expected_values:
+    PORSCHE_PQ35_ENVD_CAM_IN_1: 0
+  response: 7E807621213000BC383

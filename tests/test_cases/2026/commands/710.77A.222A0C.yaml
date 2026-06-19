@@ -5,34 +5,6 @@ test_cases:
     PORSCHE_SSB_SOC: 52
   response: 77A04622A0C34
 - expected_values:
-    PORSCHE_MQB_BAT_CHG_COND: 53
-    PORSCHE_SSB_SOC: 53
-  response: 77A04622A0C35
-- expected_values:
-    PORSCHE_MQB_BAT_CHG_COND: 54
-    PORSCHE_SSB_SOC: 54
-  response: 77A04622A0C36
-- expected_values:
-    PORSCHE_MQB_BAT_CHG_COND: 55
-    PORSCHE_SSB_SOC: 55
-  response: 77A04622A0C37
-- expected_values:
-    PORSCHE_MQB_BAT_CHG_COND: 56
-    PORSCHE_SSB_SOC: 56
-  response: 77A04622A0C38
-- expected_values:
-    PORSCHE_MQB_BAT_CHG_COND: 57
-    PORSCHE_SSB_SOC: 57
-  response: 77A04622A0C39
-- expected_values:
-    PORSCHE_MQB_BAT_CHG_COND: 58
-    PORSCHE_SSB_SOC: 58
-  response: 77A04622A0C3A
-- expected_values:
-    PORSCHE_MQB_BAT_CHG_COND: 59
-    PORSCHE_SSB_SOC: 59
-  response: 77A04622A0C3B
-- expected_values:
-    PORSCHE_MQB_BAT_CHG_COND: 60
-    PORSCHE_SSB_SOC: 60
-  response: 77A04622A0C3C
+    PORSCHE_MQB_BAT_CHG_COND: 80
+    PORSCHE_SSB_SOC: 80
+  response: 77A04622A0C50
