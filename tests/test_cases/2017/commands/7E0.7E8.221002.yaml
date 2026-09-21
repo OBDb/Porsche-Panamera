@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     PORSCHE_AC_COMP_T: 0
   response: '7E8056210020000'
+- expected_values:
+    PORSCHE_AC_COMP_T: 13.5
+  response: '7E8056210020087'
+- expected_values:
+    PORSCHE_AC_COMP_T: 13.8
+  response: 7E805621002008A
+- expected_values:
+    PORSCHE_AC_COMP_T: 14
+  response: 7E805621002008C
+- expected_values:
+    PORSCHE_AC_COMP_T: 14.5
+  response: '7E8056210020091'
+- expected_values:
+    PORSCHE_AC_COMP_T: 14.8
+  response: '7E8056210020094'

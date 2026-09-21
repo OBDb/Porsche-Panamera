@@ -12,3 +12,7 @@ test_cases:
     PORSCHE_EM_RPM_2: 3083
     PORSCHE_MISFIRES__CYL__2: 6166
   response: '7E8056211521816'
+- expected_values:
+    PORSCHE_EM_RPM_2: 14447.5
+    PORSCHE_MISFIRES__CYL__2: 28895
+  response: 7E80562115270DF
