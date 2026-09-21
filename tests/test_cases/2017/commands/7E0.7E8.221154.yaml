@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     PORSCHE_EM_TORQ_2: 312
   response: '7E8056211542700'
+- expected_values:
+    PORSCHE_EM_TORQ_2: -941.875
+  response: 7E8056211548A44
