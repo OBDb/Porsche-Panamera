@@ -7,7 +7,7 @@ test_cases:
 - expected_values:
     PORSCHE_FRONT_RIGHT_DEFLECTOR_T: 0
     PORSCHE_PQ35_FR_DEFL_T: 0
-  response: 7B00562260D00B7
+  response: 7B00562260D00CE
 - expected_values:
     PORSCHE_FRONT_RIGHT_DEFLECTOR_T: 0.33333
     PORSCHE_PQ35_FR_DEFL_T: 0.333

@@ -16,6 +16,9 @@ test_cases:
     PORSCHE_COOLANT_T: 97.7
   response: 7E8056211350E7C
 - expected_values:
+    PORSCHE_COOLANT_T: 103.7
+  response: 7E8056211350EB8
+- expected_values:
     PORSCHE_COOLANT_T: 104
   response: 7E8056211350EBB
 - expected_values:
