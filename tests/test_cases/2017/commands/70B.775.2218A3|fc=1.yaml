@@ -3,6 +3,17 @@ test_cases:
 - expected_values:
     PORSCHE_TID_FL: 100
     PORSCHE_TPS_FL: 25.5
+    PORSCHE_TP_4: 6.6
+    PORSCHE_TP_FL_V2: 6.6
+    PORSCHE_TP_RR_V2: 3.1
+    PORSCHE_TT_4: 84
+    PORSCHE_TT_FL: 84
+  response: |-
+    775100C6218A3266E8F
+    77521FF227C427CFFAA
+- expected_values:
+    PORSCHE_TID_FL: 100
+    PORSCHE_TPS_FL: 25.5
     PORSCHE_TP_4: 16.7
     PORSCHE_TP_FL_V2: 16.7
     PORSCHE_TT_4: 84

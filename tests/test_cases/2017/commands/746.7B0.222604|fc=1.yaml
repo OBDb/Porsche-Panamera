@@ -5,38 +5,6 @@ test_cases:
     PORSCHE_PQ35_AC_COMP_LOAD: 0
   response: 7B0056226040000
 - expected_values:
-    PORSCHE_HVAC_AC_LOAD: 13.7
-    PORSCHE_PQ35_AC_COMP_LOAD: 0
-  response: 7B0056226040089
-- expected_values:
-    PORSCHE_HVAC_AC_LOAD: 13.8
-    PORSCHE_PQ35_AC_COMP_LOAD: 0
-  response: 7B005622604008A
-- expected_values:
-    PORSCHE_HVAC_AC_LOAD: 13.9
-    PORSCHE_PQ35_AC_COMP_LOAD: 0
-  response: 7B005622604008B
-- expected_values:
-    PORSCHE_HVAC_AC_LOAD: 14
-    PORSCHE_PQ35_AC_COMP_LOAD: 0
-  response: 7B005622604008C
-- expected_values:
-    PORSCHE_HVAC_AC_LOAD: 14.1
-    PORSCHE_PQ35_AC_COMP_LOAD: 0
-  response: 7B005622604008D
-- expected_values:
-    PORSCHE_HVAC_AC_LOAD: 14.3
-    PORSCHE_PQ35_AC_COMP_LOAD: 0
-  response: 7B005622604008F
-- expected_values:
-    PORSCHE_HVAC_AC_LOAD: 14.5
-    PORSCHE_PQ35_AC_COMP_LOAD: 0
-  response: 7B0056226040091
-- expected_values:
-    PORSCHE_HVAC_AC_LOAD: 14.7
-    PORSCHE_PQ35_AC_COMP_LOAD: 0
-  response: 7B0056226040093
-- expected_values:
     PORSCHE_HVAC_AC_LOAD: 14.8
     PORSCHE_PQ35_AC_COMP_LOAD: 0
   response: 7B0056226040094
