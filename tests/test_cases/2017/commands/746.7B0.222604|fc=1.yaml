@@ -5,6 +5,6 @@ test_cases:
     PORSCHE_PQ35_AC_COMP_LOAD: 0
   response: 7B0056226040000
 - expected_values:
-    PORSCHE_HVAC_AC_LOAD: 14.8
+    PORSCHE_HVAC_AC_LOAD: 15.6
     PORSCHE_PQ35_AC_COMP_LOAD: 0
-  response: 7B0056226040094
+  response: 7B005622604009C
