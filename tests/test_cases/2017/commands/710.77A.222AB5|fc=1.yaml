@@ -13,8 +13,8 @@ test_cases:
 - expected_values:
     PORSCHE_RANGE_EST_CAN: 2047
   response: |-
-    77A100D622AB5005000
-    77A215007FF07FF07FF
+    77A100D622AB5004000
+    77A214007FF07FF07FF
 - expected_values:
     PORSCHE_RANGE_EST_CAN: 2047
   response: |-
@@ -35,3 +35,8 @@ test_cases:
   response: |-
     77A100D622AB5010001
     77A210007FF07FF07FF
+- expected_values:
+    PORSCHE_RANGE_EST_CAN: 2047
+  response: |-
+    77A100D622AB5031303
+    77A211307FF07FF07FF
