@@ -11,4 +11,4 @@ test_cases:
   response: 7E90562100137FC
 - expected_values:
     PORSCHE_TIRE_FR_SPD_V2: 255
-  response: 7E905621001380F
+  response: '7E9056210013808'
