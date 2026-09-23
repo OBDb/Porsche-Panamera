@@ -22,5 +22,8 @@ test_cases:
     PORSCHE_PQ35_PRE_INJ_2_DURATION: 13.0792
   response: 7E8056214D17FBA
 - expected_values:
+    PORSCHE_PQ35_PRE_INJ_2_DURATION: -0.2056
+  response: 7E8056214D1FDFE
+- expected_values:
     PORSCHE_PQ35_PRE_INJ_2_DURATION: -0.0008
   response: 7E8056214D1FFFE
