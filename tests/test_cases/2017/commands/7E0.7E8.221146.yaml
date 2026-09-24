@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     PORSCHE_MISFIRES_TOTAL: 6
   response: '7E8056211460006'
+- expected_values:
+    PORSCHE_MISFIRES_TOTAL: 7
+  response: '7E8056211460007'
