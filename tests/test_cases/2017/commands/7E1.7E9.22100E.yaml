@@ -22,6 +22,9 @@ test_cases:
     PORSCHE_MQB_TCM_ENGINE_TORQUE_LIMITATION: 230.4
   response: 7E90562100E0012
 - expected_values:
+    PORSCHE_MQB_TCM_ENGINE_TORQUE_LIMITATION: 294.4
+  response: 7E90562100E0017
+- expected_values:
     PORSCHE_MQB_TCM_ENGINE_TORQUE_LIMITATION: 448
   response: 7E90562100E0023
 - expected_values:
