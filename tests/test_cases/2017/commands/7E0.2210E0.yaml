@@ -9,10 +9,10 @@ test_cases:
     PORSCHE_ODO_V3: 155648
   response: 7E8076210E000026000
 - expected_values:
-    PORSCHE_ODO_2: 168060
-    PORSCHE_ODO_V3: 168060
-  response: 7E8076210E00002907C
-- expected_values:
     PORSCHE_ODO_2: 168191
     PORSCHE_ODO_V3: 168191
   response: 7E8076210E0000290FF
+- expected_values:
+    PORSCHE_ODO_2: 168192
+    PORSCHE_ODO_V3: 168192
+  response: 7E8076210E000029100
