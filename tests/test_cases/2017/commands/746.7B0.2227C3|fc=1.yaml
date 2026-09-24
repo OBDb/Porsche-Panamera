@@ -48,8 +48,8 @@ test_cases:
 - expected_values:
     PORSCHE_HVAC_OUTSIDE_HUM: 100
   response: |-
-    7B0100C6227C300D301
-    7B021D201EE00C800AA
+    7B0100C6227C300D001
+    7B0218801E800C800AA
 - expected_values:
     PORSCHE_HVAC_OUTSIDE_HUM: 14.5
   response: |-
