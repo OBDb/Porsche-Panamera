@@ -4,5 +4,8 @@ test_cases:
     PORSCHE_PQ35_CAMS_EDGE_POS_3: 1487.375
   response: 7E80562118A5EF6
 - expected_values:
+    PORSCHE_PQ35_CAMS_EDGE_POS_3: 1720.375
+  response: 7E80562118A6D86
+- expected_values:
     PORSCHE_PQ35_CAMS_EDGE_POS_3: 4063.9375
   response: 7E80562118AFFFF
