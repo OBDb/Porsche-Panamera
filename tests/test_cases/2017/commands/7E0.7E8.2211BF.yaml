@@ -5,7 +5,7 @@ test_cases:
   response: 7E8056211BF0000
 - expected_values:
     PORSCHE_PQ35_FUEL_P_REG: 0
-  response: 7E8056211BFFFED
+  response: 7E8056211BFFFEC
 - expected_values:
     PORSCHE_PQ35_FUEL_P_REG: 0
   response: 7E8056211BFFFFF
