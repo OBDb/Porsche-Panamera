@@ -13,6 +13,10 @@ test_cases:
     PORSCHE_PQ35_BOOST_P_CMD: 2
   response: '7E8056211490002'
 - expected_values:
+    PORSCHE_MISFIRES_1000REV_C4: 3
+    PORSCHE_PQ35_BOOST_P_CMD: 3
+  response: '7E8056211490003'
+- expected_values:
     PORSCHE_MISFIRES_1000REV_C4: 4
     PORSCHE_PQ35_BOOST_P_CMD: 4
   response: '7E8056211490004'
