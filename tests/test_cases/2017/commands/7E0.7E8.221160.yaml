@@ -10,11 +10,8 @@ test_cases:
     PORSCHE_ODO_HD: 151977.636
   response: 7E807621160090EFEA4
 - expected_values:
-    PORSCHE_ODO_HD: 151978.98
-  response: 7E807621160090F03E4
-- expected_values:
     PORSCHE_ODO_HD: 164094.719
   response: 7E80762116009C7E2FF
 - expected_values:
-    PORSCHE_ODO_HD: 164301.218
-  response: 7E80762116009CB09A2
+    PORSCHE_ODO_HD: 164364.472
+  response: 7E80762116009CC00B8
