@@ -4,11 +4,11 @@ test_cases:
     PORSCHE_PQ35_FUEL_LVL_2: 0
   response: 7E80762100C00000000
 - expected_values:
-    PORSCHE_PQ35_FUEL_LVL_2: 0
-  response: 7E80762100C00000AFA
-- expected_values:
     PORSCHE_PQ35_FUEL_LVL_2: 655.35
   response: 7E80762100CFFFFEF52
+- expected_values:
+    PORSCHE_PQ35_FUEL_LVL_2: 655.35
+  response: 7E80762100CFFFFFCFE
 - expected_values:
     PORSCHE_PQ35_FUEL_LVL_2: 655.35
   response: 7E80762100CFFFFFF74
