@@ -16,8 +16,17 @@ test_cases:
     PORSCHE_FUEL_T: 51.75
   response: 7E80462128A85
 - expected_values:
+    PORSCHE_FUEL_T: 52.5
+  response: 7E80462128A86
+- expected_values:
     PORSCHE_FUEL_T: 58.5
   response: 7E80462128A8E
 - expected_values:
+    PORSCHE_FUEL_T: 60.75
+  response: 7E80462128A91
+- expected_values:
     PORSCHE_FUEL_T: 66.75
   response: 7E80462128A99
+- expected_values:
+    PORSCHE_FUEL_T: 70.5
+  response: 7E80462128A9E
