@@ -2,10 +2,13 @@ command_id: 7E0.7E8.22113F
 test_cases:
 - expected_values:
     PORSCHE_FUEL_CONS: 0
+    PORSCHE_FUEL_RATE: 0
   response: 7E80562113F0000
 - expected_values:
     PORSCHE_FUEL_CONS: 5.04
+    PORSCHE_FUEL_RATE: 5.04
   response: 7E80562113F01F8
 - expected_values:
     PORSCHE_FUEL_CONS: 13.2
+    PORSCHE_FUEL_RATE: 13.2
   response: 7E80562113F0528
