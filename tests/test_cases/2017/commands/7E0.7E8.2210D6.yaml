@@ -4,8 +4,8 @@ test_cases:
     PORSCHE_PQ35_INJ_1_RAIL_P_2: 0
   response: 7E8056210D60000
 - expected_values:
-    PORSCHE_PQ35_INJ_1_RAIL_P_2: -0.0065
-  response: 7E8056210D6FF7E
+    PORSCHE_PQ35_INJ_1_RAIL_P_2: -0.0068
+  response: 7E8056210D6FF78
 - expected_values:
     PORSCHE_PQ35_INJ_1_RAIL_P_2: -5.0000000000000002e-05
   response: 7E8056210D6FFFF
