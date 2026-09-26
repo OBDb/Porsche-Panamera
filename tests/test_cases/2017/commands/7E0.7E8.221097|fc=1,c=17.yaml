@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221097|fc=1,c=17
+test_cases:
+- expected_values:
+    PORSCHE_GENERATOR_PERFORMANCE: 848.232
+  response: 7E805621097005A
