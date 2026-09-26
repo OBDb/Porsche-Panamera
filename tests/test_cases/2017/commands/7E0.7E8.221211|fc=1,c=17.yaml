@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221211|fc=1,c=17
+test_cases:
+- expected_values:
+    PORSCHE_KNOCK_SNS_C2_V_MS: 0.08086
+  response: 7E80762121100019E04
