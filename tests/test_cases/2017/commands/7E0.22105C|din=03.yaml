@@ -1,11 +1,14 @@
 command_id: 7E0.22105C|din=03
 test_cases:
 - expected_values:
+    PORSCHE_BRAKE_P: 0
     PORSCHE_PQ35_GEN_LOAD: 0
   response: 7E80562105C0000
 - expected_values:
+    PORSCHE_BRAKE_P: 24.6
     PORSCHE_PQ35_GEN_LOAD: 2.46
   response: 7E80562105C00F6
 - expected_values:
+    PORSCHE_BRAKE_P: 25.8
     PORSCHE_PQ35_GEN_LOAD: 2.58
   response: 7E80562105C0102
