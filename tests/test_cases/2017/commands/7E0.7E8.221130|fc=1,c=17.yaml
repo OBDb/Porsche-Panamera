@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221130|fc=1,c=17
+test_cases:
+- expected_values:
+    PORSCHE_COOLANT_FAN_1_ACTIVATION: 19.92
+  response: 7E80562113007C8
