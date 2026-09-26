@@ -7,8 +7,8 @@ test_cases:
     PORSCHE_FUEL_LEVEL_INPUT_V1: 23
   response: 7E8056214B408FC
 - expected_values:
-    PORSCHE_FUEL_LEVEL_INPUT_V1: 82
-  response: 7E8056214B42008
+    PORSCHE_FUEL_LEVEL_INPUT_V1: 64
+  response: 7E8056214B41900
 - expected_values:
     PORSCHE_FUEL_LEVEL_INPUT_V1: 90
   response: 7E8056214B42328
