@@ -5,9 +5,9 @@ test_cases:
     PORSCHE_FUEL_RATE: 0
   response: 7E80562113F0000
 - expected_values:
-    PORSCHE_FUEL_CONS: 5.08
-    PORSCHE_FUEL_RATE: 5.08
-  response: 7E80562113F01FC
+    PORSCHE_FUEL_CONS: 17.91
+    PORSCHE_FUEL_RATE: 17.91
+  response: 7E80562113F06FF
 - expected_values:
     PORSCHE_FUEL_CONS: 107.67
     PORSCHE_FUEL_RATE: 107.67
