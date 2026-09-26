@@ -1,18 +1,22 @@
 command_id: 710.77A.222A07
 test_cases:
 - expected_values:
+    PORSCHE_BAT_V_2A07: 11.614
     PORSCHE_MQB_BAT_V: 11.614
     PORSCHE_SSB_V: 69.54
   response: 77A05622A071DBE
 - expected_values:
+    PORSCHE_BAT_V_2A07: 13.212
     PORSCHE_MQB_BAT_V: 13.212
     PORSCHE_SSB_V: 69.54
   response: 77A05622A0723FC
 - expected_values:
+    PORSCHE_BAT_V_2A07: 13.218
     PORSCHE_MQB_BAT_V: 13.218
     PORSCHE_SSB_V: 69.54
   response: 77A05622A072402
 - expected_values:
+    PORSCHE_BAT_V_2A07: 14.91
     PORSCHE_MQB_BAT_V: 14.91
     PORSCHE_SSB_V: 69.54
   response: 77A05622A072A9E
