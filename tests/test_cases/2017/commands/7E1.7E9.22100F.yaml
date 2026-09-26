@@ -19,6 +19,9 @@ test_cases:
     PORSCHE_MQB_TCM_ENGINE_TORQUE_LOSS: 243.2
   response: 7E90562100F0013
 - expected_values:
+    PORSCHE_MQB_TCM_ENGINE_TORQUE_LOSS: 256
+  response: 7E90562100F0014
+- expected_values:
     PORSCHE_MQB_TCM_ENGINE_TORQUE_LOSS: 320
   response: 7E90562100F0019
 - expected_values:
