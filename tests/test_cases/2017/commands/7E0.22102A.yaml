@@ -1,0 +1,17 @@
+command_id: 7E0.22102A
+test_cases:
+- expected_values:
+    PORSCHE_APP_V1: 749.6
+  response: 7E80562102A0EA4
+- expected_values:
+    PORSCHE_APP_V1: 752
+  response: 7E80562102A0EB0
+- expected_values:
+    PORSCHE_APP_V1: 753.2
+  response: 7E80562102A0EB6
+- expected_values:
+    PORSCHE_APP_V1: 1546.8
+  response: 7E80562102A1E36
+- expected_values:
+    PORSCHE_APP_V1: 1921.8
+  response: 7E80562102A2589

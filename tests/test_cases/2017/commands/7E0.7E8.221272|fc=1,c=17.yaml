@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     PORSCHE_REAR_CAT_CONV_T_MAIN_CAT_CONV_MODEL_VALUE: 753.1
   response: '7E8056212722816'
+- expected_values:
+    PORSCHE_REAR_CAT_CONV_T_MAIN_CAT_CONV_MODEL_VALUE: 891.8
+  response: 7E8056212722D81
