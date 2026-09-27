@@ -4,6 +4,9 @@ test_cases:
     PORSCHE_GENERATOR_PERFORMANCE: 0
   response: '7E8056210970000'
 - expected_values:
+    PORSCHE_GENERATOR_PERFORMANCE: 650.3112
+  response: '7E8056210970045'
+- expected_values:
     PORSCHE_GENERATOR_PERFORMANCE: 697.4352
   response: 7E805621097004A
 - expected_values:

@@ -1,29 +1,29 @@
-command_id: 7E0.22102A
+command_id: 7E0.7E8.22102A
 test_cases:
 - expected_values:
-    PORSCHE_APP_V1: 749.6
+    PORSCHE_ACCEL_PEDAL_SENS_1_V: 749.6
   response: 7E80562102A0EA4
 - expected_values:
-    PORSCHE_APP_V1: 750.8
+    PORSCHE_ACCEL_PEDAL_SENS_1_V: 750.8
   response: 7E80562102A0EAA
 - expected_values:
-    PORSCHE_APP_V1: 752
+    PORSCHE_ACCEL_PEDAL_SENS_1_V: 752
   response: 7E80562102A0EB0
 - expected_values:
-    PORSCHE_APP_V1: 753.2
+    PORSCHE_ACCEL_PEDAL_SENS_1_V: 753.2
   response: 7E80562102A0EB6
 - expected_values:
-    PORSCHE_APP_V1: 1481
+    PORSCHE_ACCEL_PEDAL_SENS_1_V: 1481
   response: 7E80562102A1CED
 - expected_values:
-    PORSCHE_APP_V1: 1499.2
+    PORSCHE_ACCEL_PEDAL_SENS_1_V: 1499.2
   response: 7E80562102A1D48
 - expected_values:
-    PORSCHE_APP_V1: 1546.8
+    PORSCHE_ACCEL_PEDAL_SENS_1_V: 1546.8
   response: 7E80562102A1E36
 - expected_values:
-    PORSCHE_APP_V1: 1921.8
+    PORSCHE_ACCEL_PEDAL_SENS_1_V: 1921.8
   response: 7E80562102A2589
 - expected_values:
-    PORSCHE_APP_V1: 4394.2
+    PORSCHE_ACCEL_PEDAL_SENS_1_V: 4394.2
   response: 7E80562102A55D3

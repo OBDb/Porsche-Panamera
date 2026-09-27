@@ -2,10 +2,13 @@ command_id: 7E0.7E8.22028D
 test_cases:
 - expected_values:
     PORSCHE_ECU_TEMP: 299.1
+    PORSCHE_ENG_CTRL_MODULE_T: 299.1
   response: 7E80562028D0BAF
 - expected_values:
     PORSCHE_ECU_TEMP: 306.9
+    PORSCHE_ENG_CTRL_MODULE_T: 306.9
   response: 7E80562028D0BFD
 - expected_values:
     PORSCHE_ECU_TEMP: 307.2
+    PORSCHE_ENG_CTRL_MODULE_T: 307.2
   response: 7E80562028D0C00

@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22102B
+test_cases:
+- expected_values:
+    PORSCHE_ACCEL_PEDAL_SENS_2_V: 375.8
+  response: 7E80562102B0757
+- expected_values:
+    PORSCHE_ACCEL_PEDAL_SENS_2_V: 377
+  response: 7E80562102B075D
+- expected_values:
+    PORSCHE_ACCEL_PEDAL_SENS_2_V: 378.4
+  response: 7E80562102B0764
+- expected_values:
+    PORSCHE_ACCEL_PEDAL_SENS_2_V: 379.6
+  response: 7E80562102B076A
+- expected_values:
+    PORSCHE_ACCEL_PEDAL_SENS_2_V: 749.6
+  response: 7E80562102B0EA4
+- expected_values:
+    PORSCHE_ACCEL_PEDAL_SENS_2_V: 758.2
+  response: 7E80562102B0ECF
+- expected_values:
+    PORSCHE_ACCEL_PEDAL_SENS_2_V: 893.6
+  response: 7E80562102B1174
+- expected_values:
+    PORSCHE_ACCEL_PEDAL_SENS_2_V: 2123.2
+  response: 7E80562102B2978
