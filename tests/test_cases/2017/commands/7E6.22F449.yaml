@@ -4,8 +4,17 @@ test_cases:
     PORSCHE_APP_PE: 14.90196
   response: 7E80462F44926
 - expected_values:
+    PORSCHE_APP_PE: 30.19608
+  response: 7E80462F4494D
+- expected_values:
     PORSCHE_APP_PE: 30.98039
   response: 7E80462F4494F
 - expected_values:
+    PORSCHE_APP_PE: 33.72549
+  response: 7E80462F44956
+- expected_values:
     PORSCHE_APP_PE: 39.60784
   response: 7E80462F44965
+- expected_values:
+    PORSCHE_APP_PE: 78.43137
+  response: 7E80462F449C8

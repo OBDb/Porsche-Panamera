@@ -1,6 +1,18 @@
 command_id: 7E0.7E8.2213A0|fc=1,c=17
 test_cases:
 - expected_values:
+    PORSCHE_COOLANT_T_MODELED_VALUE: 56.4
+  response: 7E8056213A00CDF
+- expected_values:
+    PORSCHE_COOLANT_T_MODELED_VALUE: 59.9
+  response: 7E8056213A00D02
+- expected_values:
+    PORSCHE_COOLANT_T_MODELED_VALUE: 61
+  response: 7E8056213A00D0D
+- expected_values:
+    PORSCHE_COOLANT_T_MODELED_VALUE: 62.2
+  response: 7E8056213A00D19
+- expected_values:
     PORSCHE_COOLANT_T_MODELED_VALUE: 63.8
   response: 7E8056213A00D29
 - expected_values:
