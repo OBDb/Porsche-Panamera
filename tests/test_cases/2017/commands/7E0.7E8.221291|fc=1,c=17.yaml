@@ -4,6 +4,9 @@ test_cases:
     PORSCHE_COOLANT_T_AT_ENGINE_START: 61.4
   response: 7E8056212910D11
 - expected_values:
+    PORSCHE_COOLANT_T_AT_ENGINE_START: 65.7
+  response: 7E8056212910D3C
+- expected_values:
     PORSCHE_COOLANT_T_AT_ENGINE_START: 93.7
   response: 7E8056212910E54
 - expected_values:
