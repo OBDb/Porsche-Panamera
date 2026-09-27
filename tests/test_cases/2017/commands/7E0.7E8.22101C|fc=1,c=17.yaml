@@ -1,5 +1,20 @@
 command_id: 7E0.7E8.22101C|fc=1,c=17
 test_cases:
 - expected_values:
+    PORSCHE_GENERATOR_LOAD_SIG: 0
+  response: 7E80562101C0000
+- expected_values:
     PORSCHE_GENERATOR_LOAD_SIG: 19.32
   response: 7E80562101C078C
+- expected_values:
+    PORSCHE_GENERATOR_LOAD_SIG: 22.54
+  response: 7E80562101C08CE
+- expected_values:
+    PORSCHE_GENERATOR_LOAD_SIG: 25.78
+  response: 7E80562101C0A12
+- expected_values:
+    PORSCHE_GENERATOR_LOAD_SIG: 29
+  response: 7E80562101C0B54
+- expected_values:
+    PORSCHE_GENERATOR_LOAD_SIG: 35.43
+  response: 7E80562101C0DD7

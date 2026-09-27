@@ -1,5 +1,26 @@
 command_id: 7E0.7E8.22149E|fc=1,c=17
 test_cases:
 - expected_values:
+    PORSCHE_INTAKE_AIR_T_IN_INTAKE_MANIFOLD: 21.75
+  response: 7E80462149E5D
+- expected_values:
+    PORSCHE_INTAKE_AIR_T_IN_INTAKE_MANIFOLD: 23.25
+  response: 7E80462149E5F
+- expected_values:
+    PORSCHE_INTAKE_AIR_T_IN_INTAKE_MANIFOLD: 24
+  response: 7E80462149E60
+- expected_values:
+    PORSCHE_INTAKE_AIR_T_IN_INTAKE_MANIFOLD: 24.75
+  response: 7E80462149E61
+- expected_values:
     PORSCHE_INTAKE_AIR_T_IN_INTAKE_MANIFOLD: 28.5
   response: 7E80462149E66
+- expected_values:
+    PORSCHE_INTAKE_AIR_T_IN_INTAKE_MANIFOLD: 29.25
+  response: 7E80462149E67
+- expected_values:
+    PORSCHE_INTAKE_AIR_T_IN_INTAKE_MANIFOLD: 36
+  response: 7E80462149E70
+- expected_values:
+    PORSCHE_INTAKE_AIR_T_IN_INTAKE_MANIFOLD: 42
+  response: 7E80462149E78
