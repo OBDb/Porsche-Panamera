@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22105A|fc=1,c=17
 test_cases:
 - expected_values:
-    PORSCHE_BATTERY_V: 12180
-  response: 7E80562105A0261
+    PORSCHE_BATTERY_V: 11680
+  response: 7E80562105A0248
 - expected_values:
-    PORSCHE_BATTERY_V: 13760
-  response: 7E80562105A02B0
+    PORSCHE_BATTERY_V: 11820
+  response: 7E80562105A024F
 - expected_values:
     PORSCHE_BATTERY_V: 14100
   response: 7E80562105A02C1

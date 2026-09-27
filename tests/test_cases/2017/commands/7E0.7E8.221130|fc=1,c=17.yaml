@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221130|fc=1,c=17
 test_cases:
 - expected_values:
-    PORSCHE_COOLANT_FAN_1_ACTIVATION: 13.28
-  response: '7E8056211300530'
+    PORSCHE_COOLANT_FAN_1_ACTIVATION: 10.15
+  response: 7E80562113003F7
+- expected_values:
+    PORSCHE_COOLANT_FAN_1_ACTIVATION: 23.04
+  response: '7E8056211300900'
 - expected_values:
     PORSCHE_COOLANT_FAN_1_ACTIVATION: 28.12
   response: 7E8056211300AFC
-- expected_values:
-    PORSCHE_COOLANT_FAN_1_ACTIVATION: 41.01
-  response: '7E8056211301005'
 - expected_values:
     PORSCHE_COOLANT_FAN_1_ACTIVATION: 68.36
   response: 7E8056211301AB4
