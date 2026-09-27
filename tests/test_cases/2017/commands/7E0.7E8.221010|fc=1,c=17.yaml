@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.221010|fc=1,c=17
 test_cases:
 - expected_values:
-    PORSCHE_ENGINE_TORQUE: 182.1
-  response: 7E805621010071D
+    PORSCHE_ENGINE_TORQUE: 0
+  response: '7E8056210100000'
+- expected_values:
+    PORSCHE_ENGINE_TORQUE: 175.6
+  response: 7E80562101006DC
+- expected_values:
+    PORSCHE_ENGINE_TORQUE: 466.4
+  response: '7E8056210101238'
