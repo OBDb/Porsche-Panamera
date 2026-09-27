@@ -19,6 +19,12 @@ test_cases:
     PORSCHE_INTAKE_AIR_T_IN_INTAKE_MANIFOLD: 29.25
   response: 7E80462149E67
 - expected_values:
+    PORSCHE_INTAKE_AIR_T_IN_INTAKE_MANIFOLD: 30
+  response: 7E80462149E68
+- expected_values:
+    PORSCHE_INTAKE_AIR_T_IN_INTAKE_MANIFOLD: 33.75
+  response: 7E80462149E6D
+- expected_values:
     PORSCHE_INTAKE_AIR_T_IN_INTAKE_MANIFOLD: 36
   response: 7E80462149E70
 - expected_values:

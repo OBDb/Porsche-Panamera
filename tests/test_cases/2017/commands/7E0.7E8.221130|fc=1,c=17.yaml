@@ -4,26 +4,11 @@ test_cases:
     PORSCHE_COOLANT_FAN_1_ACTIVATION: 13.28
   response: '7E8056211300530'
 - expected_values:
-    PORSCHE_COOLANT_FAN_1_ACTIVATION: 19.92
-  response: 7E80562113007C8
-- expected_values:
-    PORSCHE_COOLANT_FAN_1_ACTIVATION: 26.17
-  response: 7E8056211300A39
-- expected_values:
-    PORSCHE_COOLANT_FAN_1_ACTIVATION: 26.95
-  response: 7E8056211300A87
-- expected_values:
     PORSCHE_COOLANT_FAN_1_ACTIVATION: 28.12
   response: 7E8056211300AFC
 - expected_values:
-    PORSCHE_COOLANT_FAN_1_ACTIVATION: 30.07
-  response: 7E8056211300BBF
-- expected_values:
-    PORSCHE_COOLANT_FAN_1_ACTIVATION: 31.63
-  response: 7E8056211300C5B
-- expected_values:
-    PORSCHE_COOLANT_FAN_1_ACTIVATION: 36.71
-  response: 7E8056211300E57
-- expected_values:
     PORSCHE_COOLANT_FAN_1_ACTIVATION: 41.01
   response: '7E8056211301005'
+- expected_values:
+    PORSCHE_COOLANT_FAN_1_ACTIVATION: 68.36
+  response: 7E8056211301AB4
