@@ -1,5 +1,32 @@
 command_id: 7E0.7E8.22101B|fc=1,c=17
 test_cases:
 - expected_values:
+    PORSCHE_GENERATOR_TORQUE_REQUEST: 0
+  response: 7E80562101B0000
+- expected_values:
     PORSCHE_GENERATOR_TORQUE_REQUEST: 1.7
   response: 7E80562101B0011
+- expected_values:
+    PORSCHE_GENERATOR_TORQUE_REQUEST: 3
+  response: 7E80562101B001E
+- expected_values:
+    PORSCHE_GENERATOR_TORQUE_REQUEST: 3.7
+  response: 7E80562101B0025
+- expected_values:
+    PORSCHE_GENERATOR_TORQUE_REQUEST: 3.8
+  response: 7E80562101B0026
+- expected_values:
+    PORSCHE_GENERATOR_TORQUE_REQUEST: 4.7
+  response: 7E80562101B002F
+- expected_values:
+    PORSCHE_GENERATOR_TORQUE_REQUEST: 4.8
+  response: 7E80562101B0030
+- expected_values:
+    PORSCHE_GENERATOR_TORQUE_REQUEST: 6.2
+  response: 7E80562101B003E
+- expected_values:
+    PORSCHE_GENERATOR_TORQUE_REQUEST: 7.8
+  response: 7E80562101B004E
+- expected_values:
+    PORSCHE_GENERATOR_TORQUE_REQUEST: 10.4
+  response: 7E80562101B0068
