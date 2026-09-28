@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221509
+test_cases:
+- expected_values:
+    PORSCHE_AMBIENT_AIR_P: 977.457
+  response: 7E80562150961E7

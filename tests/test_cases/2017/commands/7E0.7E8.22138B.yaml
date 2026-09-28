@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22138B
+test_cases:
+- expected_values:
+    PORSCHE_IGA_IGC_1: 12.71775
+  response: 7E80562138B8168

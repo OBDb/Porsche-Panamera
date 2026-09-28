@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211DD
+test_cases:
+- expected_values:
+    PORSCHE_INT_MANIFOLD_P_CMD: 1211.5625
+  response: 7E8056211DD3C94

@@ -22,6 +22,9 @@ test_cases:
     PORSCHE_ACCEL_PEDAL_SENS_1_V: 1546.8
   response: 7E80562102A1E36
 - expected_values:
+    PORSCHE_ACCEL_PEDAL_SENS_1_V: 1648.2
+  response: 7E80562102A2031
+- expected_values:
     PORSCHE_ACCEL_PEDAL_SENS_1_V: 1921.8
   response: 7E80562102A2589
 - expected_values:
