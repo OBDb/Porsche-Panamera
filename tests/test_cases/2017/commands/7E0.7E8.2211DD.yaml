@@ -1,8 +1,23 @@
 command_id: 7E0.7E8.2211DD
 test_cases:
 - expected_values:
+    PORSCHE_INT_MANIFOLD_P_CMD: 336.64062
+  response: 7E8056211DD10D5
+- expected_values:
+    PORSCHE_INT_MANIFOLD_P_CMD: 339.375
+  response: 7E8056211DD10F8
+- expected_values:
+    PORSCHE_INT_MANIFOLD_P_CMD: 422.89062
+  response: 7E8056211DD1525
+- expected_values:
+    PORSCHE_INT_MANIFOLD_P_CMD: 425.85938
+  response: 7E8056211DD154B
+- expected_values:
     PORSCHE_INT_MANIFOLD_P_CMD: 436.48438
   response: 7E8056211DD15D3
+- expected_values:
+    PORSCHE_INT_MANIFOLD_P_CMD: 1023.28125
+  response: 7E8056211DD332A
 - expected_values:
     PORSCHE_INT_MANIFOLD_P_CMD: 1211.5625
   response: 7E8056211DD3C94

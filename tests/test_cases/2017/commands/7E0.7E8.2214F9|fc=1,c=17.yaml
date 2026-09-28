@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2214F9|fc=1,c=17
 test_cases:
 - expected_values:
+    PORSCHE_MAIN_CAT_OSC_AGE_CORRECTION_FACTOR: 0.15625
+  response: 7E8056214F91400
+- expected_values:
     PORSCHE_MAIN_CAT_OSC_AGE_CORRECTION_FACTOR: 0.17188
   response: 7E8056214F91600
 - expected_values:
@@ -9,6 +12,9 @@ test_cases:
 - expected_values:
     PORSCHE_MAIN_CAT_OSC_AGE_CORRECTION_FACTOR: 0.19532
   response: 7E8056214F91900
+- expected_values:
+    PORSCHE_MAIN_CAT_OSC_AGE_CORRECTION_FACTOR: 0.26563
+  response: 7E8056214F92200
 - expected_values:
     PORSCHE_MAIN_CAT_OSC_AGE_CORRECTION_FACTOR: 0.27344
   response: 7E8056214F92300

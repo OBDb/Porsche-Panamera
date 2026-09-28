@@ -6,5 +6,21 @@ test_cases:
   response: 7E8056211F030A7
 - expected_values:
     PORSCHE_ACT_TURBO_BOOST: 2
+    PORSCHE_BOOST_P_ACT: 978.51562
+  response: 7E8056211F030ED
+- expected_values:
+    PORSCHE_ACT_TURBO_BOOST: 2
+    PORSCHE_BOOST_P_ACT: 979.29688
+  response: 7E8056211F030F7
+- expected_values:
+    PORSCHE_ACT_TURBO_BOOST: 2
     PORSCHE_BOOST_P_ACT: 987.10938
   response: 7E8056211F0315B
+- expected_values:
+    PORSCHE_ACT_TURBO_BOOST: 2
+    PORSCHE_BOOST_P_ACT: 999.60938
+  response: 7E8056211F031FB
+- expected_values:
+    PORSCHE_ACT_TURBO_BOOST: 2
+    PORSCHE_BOOST_P_ACT: 1030.9375
+  response: 7E8056211F0338C

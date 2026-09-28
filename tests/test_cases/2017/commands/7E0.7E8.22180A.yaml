@@ -1,8 +1,20 @@
 command_id: 7E0.7E8.22180A
 test_cases:
 - expected_values:
+    PORSCHE_FUEL_RATE_DIFF_INJ: 0.05078
+  response: 7E80562180A000D
+- expected_values:
+    PORSCHE_FUEL_RATE_DIFF_INJ: 0.0625
+  response: 7E80562180A0010
+- expected_values:
     PORSCHE_FUEL_RATE_DIFF_INJ: 0.15625
   response: 7E80562180A0028
+- expected_values:
+    PORSCHE_FUEL_RATE_DIFF_INJ: -0.71483
+  response: 7E80562180AFF49
+- expected_values:
+    PORSCHE_FUEL_RATE_DIFF_INJ: -0.43749
+  response: 7E80562180AFF90
 - expected_values:
     PORSCHE_FUEL_RATE_DIFF_INJ: -0.05078
   response: 7E80562180AFFF3

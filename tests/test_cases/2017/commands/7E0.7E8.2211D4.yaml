@@ -1,8 +1,20 @@
 command_id: 7E0.7E8.2211D4
 test_cases:
 - expected_values:
+    PORSCHE_TURBOCHARGER_INLET_P: 315.46875
+  response: 7E8056211D40FC6
+- expected_values:
     PORSCHE_TURBOCHARGER_INLET_P: 338.90625
   response: 7E8056211D410F2
 - expected_values:
+    PORSCHE_TURBOCHARGER_INLET_P: 421.5625
+  response: 7E8056211D41514
+- expected_values:
     PORSCHE_TURBOCHARGER_INLET_P: 832.42188
   response: 7E8056211D4299F
+- expected_values:
+    PORSCHE_TURBOCHARGER_INLET_P: 928.4375
+  response: 7E8056211D42E6C
+- expected_values:
+    PORSCHE_TURBOCHARGER_INLET_P: 982.96875
+  response: 7E8056211D43126

@@ -1,8 +1,23 @@
 command_id: 710.77A.222A1C|fc=1
 test_cases:
 - expected_values:
+    PORSCHE_GEN_CURRENT: 43.5
+  response: 77A05622A1C0159
+- expected_values:
     PORSCHE_GEN_CURRENT: 45
   response: 77A05622A1C0168
+- expected_values:
+    PORSCHE_GEN_CURRENT: 46.9
+  response: 77A05622A1C017B
+- expected_values:
+    PORSCHE_GEN_CURRENT: 54.9
+  response: 77A05622A1C01CB
+- expected_values:
+    PORSCHE_GEN_CURRENT: 62.1
+  response: 77A05622A1C0213
+- expected_values:
+    PORSCHE_GEN_CURRENT: 80
+  response: 77A05622A1C02C6
 - expected_values:
     PORSCHE_GEN_CURRENT: 89.9
   response: 77A05622A1C0329

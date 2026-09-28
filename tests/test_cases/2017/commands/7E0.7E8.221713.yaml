@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     PORSCHE_TOT_MASS_GASOLINE: 0
   response: '7E8056217130000'
+- expected_values:
+    PORSCHE_TOT_MASS_GASOLINE: 0.08533
+  response: '7E8056217130004'
+- expected_values:
+    PORSCHE_TOT_MASS_GASOLINE: 0.32
+  response: 7E805621713000F

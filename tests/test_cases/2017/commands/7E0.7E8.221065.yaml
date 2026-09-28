@@ -6,3 +6,18 @@ test_cases:
 - expected_values:
     PORSCHE_CYL_HEAD_T: 206.18
   response: 7E8056210650E75
+- expected_values:
+    PORSCHE_CYL_HEAD_T: 209.24
+  response: 7E8056210650E86
+- expected_values:
+    PORSCHE_CYL_HEAD_T: 212.66
+  response: 7E8056210650E99
+- expected_values:
+    PORSCHE_CYL_HEAD_T: 213.2
+  response: 7E8056210650E9C
+- expected_values:
+    PORSCHE_CYL_HEAD_T: 219.32
+  response: 7E8056210650EBE
+- expected_values:
+    PORSCHE_CYL_HEAD_T: 219.5
+  response: 7E8056210650EBF

@@ -22,5 +22,8 @@ test_cases:
     PORSCHE_AAT_V4: 28
   response: 7E80462F44644
 - expected_values:
+    PORSCHE_AAT_V4: 30
+  response: 7E80462F44646
+- expected_values:
     PORSCHE_AAT_V4: 31
   response: 7E80462F44647

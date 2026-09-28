@@ -6,3 +6,12 @@ test_cases:
 - expected_values:
     PORSCHE_NL_PRE_0: 2.4411
   response: 7E8056213F67CFC
+- expected_values:
+    PORSCHE_NL_PRE_0: 2.4672
+  response: 7E8056213F67E52
+- expected_values:
+    PORSCHE_NL_PRE_0: 2.46781
+  response: 7E8056213F67E5A
+- expected_values:
+    PORSCHE_NL_PRE_0: 2.46926
+  response: 7E8056213F67E6D

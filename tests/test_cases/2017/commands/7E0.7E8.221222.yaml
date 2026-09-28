@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.221222
 test_cases:
 - expected_values:
+    PORSCHE_TQ_LOSS_ADPT_AC_COMP: 0
+  response: '7E8056212220000'
+- expected_values:
     PORSCHE_TQ_LOSS_ADPT_AC_COMP: 3.4
   response: '7E8056212220022'
+- expected_values:
+    PORSCHE_TQ_LOSS_ADPT_AC_COMP: -0.8
+  response: 7E805621222FFF8

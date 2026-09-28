@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     PORSCHE_AUTOMATIC_ENG_STARTS: 29726
   response: 7E805622999741E
+- expected_values:
+    PORSCHE_AUTOMATIC_ENG_STARTS: 29728
+  response: '7E8056229997420'
+- expected_values:
+    PORSCHE_AUTOMATIC_ENG_STARTS: 29730
+  response: '7E8056229997422'

@@ -1,6 +1,18 @@
 command_id: 7E0.7E8.221371
 test_cases:
 - expected_values:
+    PORSCHE_CAM_ADJ_EXH_BANK_1_SPEC: 1.44
+  response: 7E80562137100B4
+- expected_values:
+    PORSCHE_CAM_ADJ_EXH_BANK_1_SPEC: 4.08
+  response: 7E80562137101FE
+- expected_values:
+    PORSCHE_CAM_ADJ_EXH_BANK_1_SPEC: -12.272
+  response: 7E805621371FA02
+- expected_values:
+    PORSCHE_CAM_ADJ_EXH_BANK_1_SPEC: -12.256
+  response: 7E805621371FA04
+- expected_values:
     PORSCHE_CAM_ADJ_EXH_BANK_1_SPEC: -5.992
   response: 7E805621371FD13
 - expected_values:
