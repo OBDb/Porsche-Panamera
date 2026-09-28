@@ -4,11 +4,11 @@ test_cases:
     PORSCHE_CRANK_ROT_ANG: 36.8
   response: 7E8056210EB0170
 - expected_values:
-    PORSCHE_CRANK_ROT_ANG: 52
-  response: 7E8056210EB0208
+    PORSCHE_CRANK_ROT_ANG: 51
+  response: 7E8056210EB01FE
 - expected_values:
-    PORSCHE_CRANK_ROT_ANG: 76.4
-  response: 7E8056210EB02FC
+    PORSCHE_CRANK_ROT_ANG: 51.2
+  response: 7E8056210EB0200
 - expected_values:
-    PORSCHE_CRANK_ROT_ANG: 78.7
-  response: 7E8056210EB0313
+    PORSCHE_CRANK_ROT_ANG: 145.9
+  response: 7E8056210EB05B3

@@ -6,8 +6,8 @@ test_cases:
   response: 7E8056215C00BB3
 - expected_values:
     PORSCHE_IAT_INT_MANIFOLD_RAW: -39.75
-    PORSCHE_IAT_RAW: 32.7
-  response: 7E8056215C00BF2
+    PORSCHE_IAT_RAW: 33.1
+  response: 7E8056215C00BF6
 - expected_values:
     PORSCHE_IAT_INT_MANIFOLD_RAW: -38.25
     PORSCHE_IAT_RAW: 59.7

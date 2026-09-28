@@ -4,8 +4,8 @@ test_cases:
     PORSCHE_GEN_CURRENT: 9
   response: 77A05622A1C0000
 - expected_values:
-    PORSCHE_GEN_CURRENT: 81.7
-  response: 77A05622A1C02D7
+    PORSCHE_GEN_CURRENT: 83.1
+  response: 77A05622A1C02E5
 - expected_values:
-    PORSCHE_GEN_CURRENT: 89.9
-  response: 77A05622A1C0329
+    PORSCHE_GEN_CURRENT: 122.7
+  response: 77A05622A1C0471
