@@ -4,20 +4,8 @@ test_cases:
     PORSCHE_FUEL_PMP_ADPT: 1.5
   response: 7E8056211C9000F
 - expected_values:
-    PORSCHE_FUEL_PMP_ADPT: 10
-  response: 7E8056211C90064
+    PORSCHE_FUEL_PMP_ADPT: -10
+  response: 7E8056211C9FF9C
 - expected_values:
-    PORSCHE_FUEL_PMP_ADPT: -9.7
-  response: 7E8056211C9FF9F
-- expected_values:
-    PORSCHE_FUEL_PMP_ADPT: -8.3
-  response: 7E8056211C9FFAD
-- expected_values:
-    PORSCHE_FUEL_PMP_ADPT: -5.7
-  response: 7E8056211C9FFC7
-- expected_values:
-    PORSCHE_FUEL_PMP_ADPT: -3.5
-  response: 7E8056211C9FFDD
-- expected_values:
-    PORSCHE_FUEL_PMP_ADPT: -1.7
-  response: 7E8056211C9FFEF
+    PORSCHE_FUEL_PMP_ADPT: -0.6
+  response: 7E8056211C9FFFA

@@ -4,5 +4,8 @@ test_cases:
     PORSCHE_A_C_COMPRESSOR_TORQUE: 0
   response: 7E80562101A0000
 - expected_values:
+    PORSCHE_A_C_COMPRESSOR_TORQUE: 3
+  response: 7E80562101A001E
+- expected_values:
     PORSCHE_A_C_COMPRESSOR_TORQUE: 25
   response: 7E80562101A00FA

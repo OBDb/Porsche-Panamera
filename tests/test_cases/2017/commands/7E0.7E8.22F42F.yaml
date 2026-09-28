@@ -1,6 +1,15 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
+    PORSCHE_FLI_INPUT: 21.96078
+  response: 7E80462F42F38
+- expected_values:
+    PORSCHE_FLI_INPUT: 22.7451
+  response: 7E80462F42F3A
+- expected_values:
+    PORSCHE_FLI_INPUT: 23.92157
+  response: 7E80462F42F3D
+- expected_values:
     PORSCHE_FLI_INPUT: 24.70588
   response: 7E80462F42F3F
 - expected_values:

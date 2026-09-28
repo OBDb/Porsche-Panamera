@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     PORSCHE_MANUAL_ENG_STARTS: 11450
   response: 7E8056229982CBA
+- expected_values:
+    PORSCHE_MANUAL_ENG_STARTS: 11451
+  response: 7E8056229982CBB

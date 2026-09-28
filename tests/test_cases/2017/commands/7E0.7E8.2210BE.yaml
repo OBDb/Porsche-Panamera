@@ -4,17 +4,8 @@ test_cases:
     PORSCHE_REQ_TQ_AMOUNT: 0
   response: 7E8056210BE0000
 - expected_values:
-    PORSCHE_REQ_TQ_AMOUNT: 7.9
-  response: 7E8056210BE004F
-- expected_values:
-    PORSCHE_REQ_TQ_AMOUNT: 9.4
-  response: 7E8056210BE005E
-- expected_values:
-    PORSCHE_REQ_TQ_AMOUNT: 11.8
-  response: 7E8056210BE0076
-- expected_values:
-    PORSCHE_REQ_TQ_AMOUNT: 12.7
-  response: 7E8056210BE007F
+    PORSCHE_REQ_TQ_AMOUNT: 18.4
+  response: 7E8056210BE00B8
 - expected_values:
     PORSCHE_REQ_TQ_AMOUNT: 28
   response: 7E8056210BE0118

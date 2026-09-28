@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221644
 test_cases:
 - expected_values:
+    PORSCHE_LATERAL_ACCEL: 0
+  response: '7E8056216440000'
+- expected_values:
     PORSCHE_LATERAL_ACCEL: 0.01
   response: '7E8056216440001'
 - expected_values:
@@ -12,3 +15,6 @@ test_cases:
 - expected_values:
     PORSCHE_LATERAL_ACCEL: -0.05
   response: 7E805621644FFFB
+- expected_values:
+    PORSCHE_LATERAL_ACCEL: -0.02
+  response: 7E805621644FFFE

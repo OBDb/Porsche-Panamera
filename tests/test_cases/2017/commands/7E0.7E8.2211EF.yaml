@@ -7,17 +7,8 @@ test_cases:
     PORSCHE_P_BEFORE_THROTTLE: 979.68714
   response: 7E8056211EF61F8
 - expected_values:
-    PORSCHE_P_BEFORE_THROTTLE: 980.93714
-  response: 7E8056211EF6218
-- expected_values:
-    PORSCHE_P_BEFORE_THROTTLE: 982.10902
-  response: 7E8056211EF6236
-- expected_values:
-    PORSCHE_P_BEFORE_THROTTLE: 982.89027
-  response: 7E8056211EF624A
-- expected_values:
-    PORSCHE_P_BEFORE_THROTTLE: 984.45276
-  response: 7E8056211EF6272
-- expected_values:
     PORSCHE_P_BEFORE_THROTTLE: 1010.23401
   response: 7E8056211EF6506
+- expected_values:
+    PORSCHE_P_BEFORE_THROTTLE: 1346.01513
+  response: 7E8056211EF869A

@@ -5,10 +5,10 @@ test_cases:
   response: 7E9056210042DBA
 - expected_values:
     PORSCHE_TIRE_RL_SPD_V2: 255
-  response: 7E90562100432FD
+  response: '7E9056210043704'
 - expected_values:
     PORSCHE_TIRE_RL_SPD_V2: 255
-  response: '7E9056210043704'
+  response: 7E90562100437FF
 - expected_values:
     PORSCHE_TIRE_RL_SPD_V2: 255
   response: 7E9056210043AAF

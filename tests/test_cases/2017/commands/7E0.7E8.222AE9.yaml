@@ -1,23 +1,14 @@
 command_id: 7E0.7E8.222AE9
 test_cases:
 - expected_values:
+    PORSCHE_EXH_GAS_T_CALC_AFTER: 203.59616
+  response: 7E805622AE94F73
+- expected_values:
     PORSCHE_EXH_GAS_T_CALC_AFTER: 266.7904
   response: 7E805622AE959FB
-- expected_values:
-    PORSCHE_EXH_GAS_T_CALC_AFTER: 334.50856
-  response: 7E805622AE96544
-- expected_values:
-    PORSCHE_EXH_GAS_T_CALC_AFTER: 395.31192
-  response: 7E805622AE96F66
 - expected_values:
     PORSCHE_EXH_GAS_T_CALC_AFTER: 519.122
   response: 7E805622AE98408
 - expected_values:
-    PORSCHE_EXH_GAS_T_CALC_AFTER: 544.92944
-  response: 7E805622AE98855
-- expected_values:
-    PORSCHE_EXH_GAS_T_CALC_AFTER: 622.32832
-  response: 7E805622AE9953B
-- expected_values:
-    PORSCHE_EXH_GAS_T_CALC_AFTER: 706.24352
-  response: 7E805622AE9A337
+    PORSCHE_EXH_GAS_T_CALC_AFTER: 809.75456
+  response: 7E805622AE9B477

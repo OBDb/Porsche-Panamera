@@ -4,20 +4,8 @@ test_cases:
     PORSCHE_MAF_THROUGH_THROTTLE: 0
   response: 7E8056211AC0000
 - expected_values:
-    PORSCHE_MAF_THROUGH_THROTTLE: 13.2
-  response: 7E8056211AC0084
-- expected_values:
-    PORSCHE_MAF_THROUGH_THROTTLE: 13.3
-  response: 7E8056211AC0085
-- expected_values:
-    PORSCHE_MAF_THROUGH_THROTTLE: 14.9
-  response: 7E8056211AC0095
-- expected_values:
     PORSCHE_MAF_THROUGH_THROTTLE: 23.7
   response: 7E8056211AC00ED
-- expected_values:
-    PORSCHE_MAF_THROUGH_THROTTLE: 115.8
-  response: 7E8056211AC0486
 - expected_values:
     PORSCHE_MAF_THROUGH_THROTTLE: 155.6
   response: 7E8056211AC0614
