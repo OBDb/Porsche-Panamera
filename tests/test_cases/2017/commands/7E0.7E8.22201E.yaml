@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22201E
+test_cases:
+- expected_values:
+    PORSCHE_CAM_ADJ_INT_ACT: 148.7
+  response: 7E80562201E05CF

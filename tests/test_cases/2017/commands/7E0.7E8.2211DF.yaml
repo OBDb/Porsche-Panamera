@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211DF
+test_cases:
+- expected_values:
+    PORSCHE_POWERTRAIN_OVERALL: 22
+  response: 7E8056211DF0898

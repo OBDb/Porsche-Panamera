@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221175
+test_cases:
+- expected_values:
+    PORSCHE_INTEGRATED_MASS_AIR: 686.94192
+  response: 7E805621175078C

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211CD
+test_cases:
+- expected_values:
+    PORSCHE_TCO_1_SYS: -40
+  response: 7E8056211CD0001

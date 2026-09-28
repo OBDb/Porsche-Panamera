@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221216
+test_cases:
+- expected_values:
+    PORSCHE_REL_LOAD: 63.99204
+  response: 7E8056212160AAA

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211D4
+test_cases:
+- expected_values:
+    PORSCHE_TURBOCHARGER_INLET_P: 338.90625
+  response: 7E8056211D410F2

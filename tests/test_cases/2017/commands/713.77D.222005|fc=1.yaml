@@ -1,0 +1,5 @@
+command_id: 713.77D.222005|fc=1
+test_cases:
+- expected_values:
+    PORSCHE_P_BRAKE_SERVO_UNIT: -882
+  response: 77D05622005C8E0

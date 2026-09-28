@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211E0
+test_cases:
+- expected_values:
+    PORSCHE_CMD_CRANK_TQ: 168.1
+  response: 7E8056211E00691

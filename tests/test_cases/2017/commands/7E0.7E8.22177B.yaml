@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22177B
+test_cases:
+- expected_values:
+    PORSCHE_LONG_TERM_FUEL_TRIM_PORT: 0
+  response: 7E80562177B0000

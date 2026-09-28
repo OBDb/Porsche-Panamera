@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221725
+test_cases:
+- expected_values:
+    PORSCHE_EARLY_IGN_CNT_CYL_2: 13
+  response: 7E805621725000D
