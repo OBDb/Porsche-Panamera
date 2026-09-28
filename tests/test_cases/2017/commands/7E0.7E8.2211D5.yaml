@@ -7,5 +7,5 @@ test_cases:
     PORSCHE_HIGH_FUEL_P: -0.102
   response: 7E8056211D5FF34
 - expected_values:
-    PORSCHE_HIGH_FUEL_P: -0.006
-  response: 7E8056211D5FFF4
+    PORSCHE_HIGH_FUEL_P: -0.002
+  response: 7E8056211D5FFFC

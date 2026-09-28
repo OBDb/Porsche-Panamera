@@ -7,5 +7,5 @@ test_cases:
     PORSCHE_FUEL_PMP_ADPT: -10
   response: 7E8056211C9FF9C
 - expected_values:
-    PORSCHE_FUEL_PMP_ADPT: -0.6
-  response: 7E8056211C9FFFA
+    PORSCHE_FUEL_PMP_ADPT: -0.1
+  response: 7E8056211C9FFFF

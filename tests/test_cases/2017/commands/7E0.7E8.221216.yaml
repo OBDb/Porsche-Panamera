@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221216
 test_cases:
 - expected_values:
-    PORSCHE_REL_LOAD: 18.72881
-  response: 7E805621216031F
-- expected_values:
-    PORSCHE_REL_LOAD: 23.04182
-  response: 7E80562121603D7
+    PORSCHE_REL_LOAD: 16.6895
+  response: 7E80562121602C8
 - expected_values:
     PORSCHE_REL_LOAD: 24.09664
   response: '7E8056212160404'
+- expected_values:
+    PORSCHE_REL_LOAD: 29.93327
+  response: 7E80562121604FD
 - expected_values:
     PORSCHE_REL_LOAD: 126.53078
   response: '7E8056212161516'

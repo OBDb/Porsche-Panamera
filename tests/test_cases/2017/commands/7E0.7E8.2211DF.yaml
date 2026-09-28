@@ -4,6 +4,9 @@ test_cases:
     PORSCHE_POWERTRAIN_OVERALL: 1.79
   response: 7E8056211DF00B3
 - expected_values:
+    PORSCHE_POWERTRAIN_OVERALL: 2.27
+  response: 7E8056211DF00E3
+- expected_values:
     PORSCHE_POWERTRAIN_OVERALL: 2.82
   response: 7E8056211DF011A
 - expected_values:
@@ -12,6 +15,12 @@ test_cases:
 - expected_values:
     PORSCHE_POWERTRAIN_OVERALL: 7
   response: 7E8056211DF02BC
+- expected_values:
+    PORSCHE_POWERTRAIN_OVERALL: 17.56
+  response: 7E8056211DF06DC
+- expected_values:
+    PORSCHE_POWERTRAIN_OVERALL: 20.06
+  response: 7E8056211DF07D6
 - expected_values:
     PORSCHE_POWERTRAIN_OVERALL: 22
   response: 7E8056211DF0898

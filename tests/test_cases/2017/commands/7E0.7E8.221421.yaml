@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221421
 test_cases:
 - expected_values:
-    PORSCHE_EXH_T_BEFORE_CAT: 354.9
-  response: '7E8056214211888'
-- expected_values:
-    PORSCHE_EXH_T_BEFORE_CAT: 391.9
-  response: 7E80562142119FA
+    PORSCHE_EXH_T_BEFORE_CAT: 345.4
+  response: '7E8056214211829'
 - expected_values:
     PORSCHE_EXH_T_BEFORE_CAT: 418.7
   response: 7E8056214211B06
+- expected_values:
+    PORSCHE_EXH_T_BEFORE_CAT: 725.1
+  response: 7E80562142126FE
 - expected_values:
     PORSCHE_EXH_T_BEFORE_CAT: 820
   response: 7E8056214212AB3

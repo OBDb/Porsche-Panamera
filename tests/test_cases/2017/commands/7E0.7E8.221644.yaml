@@ -13,8 +13,14 @@ test_cases:
     PORSCHE_LATERAL_ACCEL: 0.03
   response: '7E8056216440003'
 - expected_values:
+    PORSCHE_LATERAL_ACCEL: -0.07
+  response: 7E805621644FFF9
+- expected_values:
     PORSCHE_LATERAL_ACCEL: -0.05
   response: 7E805621644FFFB
+- expected_values:
+    PORSCHE_LATERAL_ACCEL: -0.04
+  response: 7E805621644FFFC
 - expected_values:
     PORSCHE_LATERAL_ACCEL: -0.02
   response: 7E805621644FFFE

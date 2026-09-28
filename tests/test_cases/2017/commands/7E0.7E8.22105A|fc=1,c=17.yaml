@@ -4,8 +4,8 @@ test_cases:
     PORSCHE_BATTERY_V: 11680
   response: 7E80562105A0248
 - expected_values:
-    PORSCHE_BATTERY_V: 11820
-  response: 7E80562105A024F
+    PORSCHE_BATTERY_V: 11800
+  response: 7E80562105A024E
 - expected_values:
     PORSCHE_BATTERY_V: 14320
   response: 7E80562105A02CC
