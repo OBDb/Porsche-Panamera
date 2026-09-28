@@ -4,5 +4,5 @@ test_cases:
     PORSCHE_SSB_T: 3
   response: 77A04622A0B2B
 - expected_values:
-    PORSCHE_SSB_T: 35
-  response: 77A04622A0B4B
+    PORSCHE_SSB_T: 36
+  response: 77A04622A0B4C
