@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PORSCHE_LONGITUDINAL_ACCEL: 0
   response: '7E8056216330000'
+- expected_values:
+    PORSCHE_LONGITUDINAL_ACCEL: 0.031
+  response: 7E805621633001F

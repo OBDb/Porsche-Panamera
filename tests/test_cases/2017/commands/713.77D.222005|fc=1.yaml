@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PORSCHE_P_BRAKE_SERVO_UNIT: -882
   response: 77D05622005C8E0
+- expected_values:
+    PORSCHE_P_BRAKE_SERVO_UNIT: -858.375
+  response: 77D05622005CA5A

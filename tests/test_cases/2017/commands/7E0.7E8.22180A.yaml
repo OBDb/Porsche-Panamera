@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PORSCHE_FUEL_RATE_DIFF_INJ: 0.15625
   response: 7E80562180A0028
+- expected_values:
+    PORSCHE_FUEL_RATE_DIFF_INJ: -0.05078
+  response: 7E80562180AFFF3

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PORSCHE_GEN_V_ACT: 14.6
   response: 77A04624F0028
+- expected_values:
+    PORSCHE_GEN_V_ACT: 14.7
+  response: 77A04624F0029

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PORSCHE_FUEL_PART_EVAP: 0
   response: '7E80462113700'
+- expected_values:
+    PORSCHE_FUEL_PART_EVAP: 0.06248
+  response: '7E80462113708'

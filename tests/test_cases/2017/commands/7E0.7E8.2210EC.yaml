@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.2210EC
 test_cases:
 - expected_values:
+    PORSCHE_VLV_TIM_DIFF_ACT_SET: 0.17188
+  response: 7E8056210EC000B
+- expected_values:
     PORSCHE_VLV_TIM_DIFF_ACT_SET: -0.70312
   response: 7E8056210ECFFD3

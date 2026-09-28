@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PORSCHE_P_BEFORE_THROTTLE_ACT: 979.375
   response: 7E8056211EE30F8
+- expected_values:
+    PORSCHE_P_BEFORE_THROTTLE_ACT: 982.89062
+  response: 7E8056211EE3125

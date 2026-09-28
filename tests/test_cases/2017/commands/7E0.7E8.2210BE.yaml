@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.2210BE
 test_cases:
 - expected_values:
+    PORSCHE_REQ_TQ_AMOUNT: 7.9
+  response: 7E8056210BE004F
+- expected_values:
     PORSCHE_REQ_TQ_AMOUNT: 12.7
   response: 7E8056210BE007F

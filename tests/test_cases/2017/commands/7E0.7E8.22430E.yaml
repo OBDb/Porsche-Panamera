@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PORSCHE_NUM_INJECTIONS: 758
   response: 7E80562430E02F6
+- expected_values:
+    PORSCHE_NUM_INJECTIONS: 15497
+  response: 7E80562430E3C89

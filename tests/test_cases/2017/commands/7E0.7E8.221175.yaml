@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PORSCHE_INTEGRATED_MASS_AIR: 686.94192
   response: 7E805621175078C
+- expected_values:
+    PORSCHE_INTEGRATED_MASS_AIR: 5179.44252
+  response: 7E80562117538E7
