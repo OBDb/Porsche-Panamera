@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PORSCHE_TURBOCHARGER_INLET_P: 338.90625
   response: 7E8056211D410F2
+- expected_values:
+    PORSCHE_TURBOCHARGER_INLET_P: 832.42188
+  response: 7E8056211D4299F

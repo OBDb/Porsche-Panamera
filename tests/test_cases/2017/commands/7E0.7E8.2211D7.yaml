@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PORSCHE_HIGH_FUEL_P_CMD: 21.032
   response: 7E8056211D7A450
+- expected_values:
+    PORSCHE_HIGH_FUEL_P_CMD: 24.362
+  response: 7E8056211D7BE54

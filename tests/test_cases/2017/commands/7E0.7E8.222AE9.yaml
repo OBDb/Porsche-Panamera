@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PORSCHE_EXH_GAS_T_CALC_AFTER: 544.92944
   response: 7E805622AE98855
+- expected_values:
+    PORSCHE_EXH_GAS_T_CALC_AFTER: 622.32832
+  response: 7E805622AE9953B

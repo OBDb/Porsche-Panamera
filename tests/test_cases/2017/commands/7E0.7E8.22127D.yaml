@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PORSCHE_VARIABLE_VLV_TIM_INT_1_ON: 6.24999
   response: 7E80562127D0800
+- expected_values:
+    PORSCHE_VARIABLE_VLV_TIM_INT_1_ON: 38.28732
+  response: 7E80562127D3102

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PORSCHE_THROTTLE_REGULATOR: 0
   response: 7E8056216C50000
+- expected_values:
+    PORSCHE_THROTTLE_REGULATOR: 13.42188
+  response: 7E8056216C506B6

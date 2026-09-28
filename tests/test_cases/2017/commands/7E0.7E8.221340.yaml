@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PORSCHE_TQ_INCREASE_REQ_ESP: -33914.8
   response: 7E807621340FFFAD334
+- expected_values:
+    PORSCHE_TQ_INCREASE_REQ_ESP: -15630.3
+  response: 7E807621340FFFD9D71
