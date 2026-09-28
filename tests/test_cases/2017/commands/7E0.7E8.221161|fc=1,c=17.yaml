@@ -4,6 +4,9 @@ test_cases:
     PORSCHE_ENGINE_RPM_AT_IDLE_REQUIRED: 630
   response: 7E80562116104EC
 - expected_values:
+    PORSCHE_ENGINE_RPM_AT_IDLE_REQUIRED: 650
+  response: '7E8056211610514'
+- expected_values:
     PORSCHE_ENGINE_RPM_AT_IDLE_REQUIRED: 700
   response: '7E8056211610578'
 - expected_values:

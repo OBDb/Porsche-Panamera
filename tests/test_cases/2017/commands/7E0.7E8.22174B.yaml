@@ -4,23 +4,5 @@ test_cases:
     PORSCHE_INT_CAM_ADPT_BIAS: 4.83406
   response: 7E80562174B00DC
 - expected_values:
-    PORSCHE_INT_CAM_ADPT_BIAS: 4.87801
-  response: 7E80562174B00DE
-- expected_values:
-    PORSCHE_INT_CAM_ADPT_BIAS: 4.94392
-  response: 7E80562174B00E1
-- expected_values:
-    PORSCHE_INT_CAM_ADPT_BIAS: 5.03182
-  response: 7E80562174B00E5
-- expected_values:
-    PORSCHE_INT_CAM_ADPT_BIAS: 5.05379
-  response: 7E80562174B00E6
-- expected_values:
-    PORSCHE_INT_CAM_ADPT_BIAS: 5.07576
-  response: 7E80562174B00E7
-- expected_values:
-    PORSCHE_INT_CAM_ADPT_BIAS: 5.14168
-  response: 7E80562174B00EA
-- expected_values:
-    PORSCHE_INT_CAM_ADPT_BIAS: 5.18563
-  response: 7E80562174B00EC
+    PORSCHE_INT_CAM_ADPT_BIAS: 5.31747
+  response: 7E80562174B00F2

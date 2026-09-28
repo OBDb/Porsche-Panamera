@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PORSCHE_OIL_P_SENS_PISTON: 0
   response: 7E8046215BD00
+- expected_values:
+    PORSCHE_OIL_P_SENS_PISTON: 1
+  response: 7E8046215BD01

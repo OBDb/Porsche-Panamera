@@ -4,11 +4,11 @@ test_cases:
     PORSCHE_EXH_GAS_T: 350.3
   response: 7E80562F43C0F3F
 - expected_values:
-    PORSCHE_EXH_GAS_T: 366.1
-  response: 7E80562F43C0FDD
+    PORSCHE_EXH_GAS_T: 804.3
+  response: 7E80562F43C20FB
 - expected_values:
-    PORSCHE_EXH_GAS_T: 755.2
-  response: 7E80562F43C1F10
+    PORSCHE_EXH_GAS_T: 831.4
+  response: 7E80562F43C220A
 - expected_values:
-    PORSCHE_EXH_GAS_T: 815.1
-  response: 7E80562F43C2167
+    PORSCHE_EXH_GAS_T: 881
+  response: 7E80562F43C23FA
