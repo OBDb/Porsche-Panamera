@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221509
 test_cases:
 - expected_values:
-    PORSCHE_AMBIENT_AIR_P: 977.262
-  response: 7E80562150961E2
+    PORSCHE_AMBIENT_AIR_P: 976.677
+  response: 7E80562150961D3
 - expected_values:
     PORSCHE_AMBIENT_AIR_P: 978.237
   response: 7E80562150961FB

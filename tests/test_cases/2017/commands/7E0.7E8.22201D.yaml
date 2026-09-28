@@ -4,11 +4,11 @@ test_cases:
     PORSCHE_CAM_ADJ_INT_SPEC: 4.5
   response: 7E80562201D002D
 - expected_values:
+    PORSCHE_CAM_ADJ_INT_SPEC: 25
+  response: 7E80562201D00FA
+- expected_values:
     PORSCHE_CAM_ADJ_INT_SPEC: -76.6
   response: 7E80562201DFD02
-- expected_values:
-    PORSCHE_CAM_ADJ_INT_SPEC: -53.8
-  response: 7E80562201DFDE6
 - expected_values:
     PORSCHE_CAM_ADJ_INT_SPEC: -38.3
   response: 7E80562201DFE81

@@ -7,8 +7,5 @@ test_cases:
     PORSCHE_MAF_CMD: 25.2
   response: 7E8056211AD00FC
 - expected_values:
-    PORSCHE_MAF_CMD: 30
-  response: 7E8056211AD012C
-- expected_values:
-    PORSCHE_MAF_CMD: 132.4
-  response: 7E8056211AD052C
+    PORSCHE_MAF_CMD: 156.2
+  response: 7E8056211AD061A

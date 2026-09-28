@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     PORSCHE_EXH_CAM_ADPT_BIAS: 1.09865
   response: 7E80562174A0032
+- expected_values:
+    PORSCHE_EXH_CAM_ADPT_BIAS: 1.12062
+  response: 7E80562174A0033

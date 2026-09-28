@@ -4,8 +4,8 @@ test_cases:
     PORSCHE_CMD_CRANK_TQ: 0
   response: 7E8056211E00000
 - expected_values:
-    PORSCHE_CMD_CRANK_TQ: 50.3
-  response: 7E8056211E001F7
+    PORSCHE_CMD_CRANK_TQ: 358.1
+  response: 7E8056211E00DFD
 - expected_values:
     PORSCHE_CMD_CRANK_TQ: -9.8
   response: 7E8056211E0FF9E
