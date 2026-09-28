@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2216C5
+test_cases:
+- expected_values:
+    PORSCHE_THROTTLE_REGULATOR: 0
+  response: 7E8056216C50000

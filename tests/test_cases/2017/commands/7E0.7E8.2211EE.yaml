@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211EE
+test_cases:
+- expected_values:
+    PORSCHE_P_BEFORE_THROTTLE_ACT: 979.375
+  response: 7E8056211EE30F8

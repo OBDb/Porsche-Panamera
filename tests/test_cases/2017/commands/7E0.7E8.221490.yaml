@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.221490
+test_cases:
+- expected_values:
+    PORSCHE_BRAKE_BOOSTER_ACT: 836.39554
+    PORSCHE_BRAKE_BOOSTER_LOW_P_ACT: 836.41696
+  response: 7E80562149053A4

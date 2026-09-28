@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211AC
+test_cases:
+- expected_values:
+    PORSCHE_MAF_THROUGH_THROTTLE: 23.7
+  response: 7E8056211AC00ED

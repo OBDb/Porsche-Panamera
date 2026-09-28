@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.224FF5
+test_cases:
+- expected_values:
+    PORSCHE_CAM_ADPT_INT_DEV: -1.65625
+  response: 7E805624FF5FF2C
