@@ -7,17 +7,5 @@ test_cases:
     PORSCHE_NUM_INJECTIONS: 758
   response: 7E80562430E02F6
 - expected_values:
-    PORSCHE_NUM_INJECTIONS: 4354
-  response: 7E80562430E1102
-- expected_values:
-    PORSCHE_NUM_INJECTIONS: 7037
-  response: 7E80562430E1B7D
-- expected_values:
-    PORSCHE_NUM_INJECTIONS: 15497
-  response: 7E80562430E3C89
-- expected_values:
-    PORSCHE_NUM_INJECTIONS: 33608
-  response: 7E80562430E8348
-- expected_values:
-    PORSCHE_NUM_INJECTIONS: 51021
-  response: 7E80562430EC74D
+    PORSCHE_NUM_INJECTIONS: 60093
+  response: 7E80562430EEABD

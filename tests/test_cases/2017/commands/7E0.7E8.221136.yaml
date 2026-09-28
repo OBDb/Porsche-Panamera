@@ -7,17 +7,5 @@ test_cases:
     PORSCHE_HEIGHT_CORR: 0.96844
   response: 7E8056211363DFB
 - expected_values:
-    PORSCHE_HEIGHT_CORR: 0.96972
-  response: 7E8056211363E10
-- expected_values:
-    PORSCHE_HEIGHT_CORR: 0.97015
-  response: 7E8056211363E17
-- expected_values:
-    PORSCHE_HEIGHT_CORR: 0.97021
-  response: 7E8056211363E18
-- expected_values:
-    PORSCHE_HEIGHT_CORR: 0.97027
-  response: 7E8056211363E19
-- expected_values:
-    PORSCHE_HEIGHT_CORR: 0.97436
-  response: 7E8056211363E5C
+    PORSCHE_HEIGHT_CORR: 0.96887
+  response: 7E8056211363E02

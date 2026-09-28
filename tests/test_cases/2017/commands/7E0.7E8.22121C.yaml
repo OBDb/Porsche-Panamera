@@ -4,20 +4,11 @@ test_cases:
     PORSCHE_AIR_FILLING: 15.39877
   response: 7E80562121C0291
 - expected_values:
-    PORSCHE_AIR_FILLING: 16.38316
-  response: 7E80562121C02BB
+    PORSCHE_AIR_FILLING: 19.28947
+  response: 7E80562121C0337
 - expected_values:
-    PORSCHE_AIR_FILLING: 16.61754
-  response: 7E80562121C02C5
-- expected_values:
-    PORSCHE_AIR_FILLING: 20.43794
-  response: 7E80562121C0368
-- expected_values:
-    PORSCHE_AIR_FILLING: 20.85982
-  response: 7E80562121C037A
-- expected_values:
-    PORSCHE_AIR_FILLING: 23.08643
-  response: 7E80562121C03D9
+    PORSCHE_AIR_FILLING: 29.74282
+  response: 7E80562121C04F5
 - expected_values:
     PORSCHE_AIR_FILLING: 77.48603
   response: 7E80562121C0CEA

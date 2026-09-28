@@ -7,6 +7,9 @@ test_cases:
     PORSCHE_IGA_IGC_3: -35.25025
   response: 7E80462138D01
 - expected_values:
+    PORSCHE_IGA_IGC_3: -34.8755
+  response: 7E80462138D02
+- expected_values:
     PORSCHE_IGA_IGC_3: -34.50075
   response: 7E80462138D03
 - expected_values:
@@ -18,3 +21,9 @@ test_cases:
 - expected_values:
     PORSCHE_IGA_IGC_3: -28.8795
   response: 7E80462138D12
+- expected_values:
+    PORSCHE_IGA_IGC_3: -23.633
+  response: 7E80462138D20
+- expected_values:
+    PORSCHE_IGA_IGC_3: -22.50875
+  response: 7E80462138D23

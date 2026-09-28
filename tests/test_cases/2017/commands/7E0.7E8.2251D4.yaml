@@ -4,20 +4,5 @@ test_cases:
     PORSCHE_CYL_BLOCK_T_SENS: 92.5
   response: 7E8056251D40E48
 - expected_values:
-    PORSCHE_CYL_BLOCK_T_SENS: 96
-  response: 7E8056251D40E6B
-- expected_values:
-    PORSCHE_CYL_BLOCK_T_SENS: 96.5
-  response: 7E8056251D40E70
-- expected_values:
-    PORSCHE_CYL_BLOCK_T_SENS: 101.3
-  response: 7E8056251D40EA0
-- expected_values:
-    PORSCHE_CYL_BLOCK_T_SENS: 103.8
-  response: 7E8056251D40EB9
-- expected_values:
-    PORSCHE_CYL_BLOCK_T_SENS: 104.3
-  response: 7E8056251D40EBE
-- expected_values:
-    PORSCHE_CYL_BLOCK_T_SENS: 104.8
-  response: 7E8056251D40EC3
+    PORSCHE_CYL_BLOCK_T_SENS: 106.6
+  response: 7E8056251D40ED5

@@ -4,14 +4,8 @@ test_cases:
     PORSCHE_AMBIENT_AIR_P: 977.457
   response: 7E80562150961E7
 - expected_values:
-    PORSCHE_AMBIENT_AIR_P: 979.758
-  response: '7E8056215096222'
+    PORSCHE_AMBIENT_AIR_P: 978.237
+  response: 7E80562150961FB
 - expected_values:
-    PORSCHE_AMBIENT_AIR_P: 980.928
-  response: '7E8056215096240'
-- expected_values:
-    PORSCHE_AMBIENT_AIR_P: 981.318
-  response: 7E805621509624A
-- expected_values:
-    PORSCHE_AMBIENT_AIR_P: 981.513
-  response: 7E805621509624F
+    PORSCHE_AMBIENT_AIR_P: 978.627
+  response: '7E8056215096205'

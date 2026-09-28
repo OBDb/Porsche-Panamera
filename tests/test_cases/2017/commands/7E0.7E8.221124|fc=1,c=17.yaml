@@ -4,8 +4,8 @@ test_cases:
     PORSCHE_CAMSHAFT_VSS: 122.25
   response: 7E80562112401E9
 - expected_values:
-    PORSCHE_CAMSHAFT_VSS: 1277.75
-  response: 7E80562112413F7
+    PORSCHE_CAMSHAFT_VSS: 319.5
+  response: 7E80562112404FE
 - expected_values:
     PORSCHE_CAMSHAFT_VSS: 2176
   response: '7E8056211242200'

@@ -1,6 +1,18 @@
 command_id: 710.77A.224F00|fc=1
 test_cases:
 - expected_values:
+    PORSCHE_GEN_V_ACT: 11.6
+  response: 77A04624F000A
+- expected_values:
+    PORSCHE_GEN_V_ACT: 11.7
+  response: 77A04624F000B
+- expected_values:
+    PORSCHE_GEN_V_ACT: 12.1
+  response: 77A04624F000F
+- expected_values:
+    PORSCHE_GEN_V_ACT: 12.2
+  response: 77A04624F0010
+- expected_values:
     PORSCHE_GEN_V_ACT: 14.4
   response: 77A04624F0026
 - expected_values:
