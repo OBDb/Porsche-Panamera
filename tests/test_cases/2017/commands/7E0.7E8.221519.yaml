@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     PORSCHE_FUEL_CONS_ACT_DRIVE: 2.62
   response: '7E8056215190106'
+- expected_values:
+    PORSCHE_FUEL_CONS_ACT_DRIVE: 5.66
+  response: '7E8056215190236'

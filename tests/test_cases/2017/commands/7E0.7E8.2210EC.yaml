@@ -4,8 +4,8 @@ test_cases:
     PORSCHE_VLV_TIM_DIFF_ACT_SET: 0.03125
   response: 7E8056210EC0002
 - expected_values:
-    PORSCHE_VLV_TIM_DIFF_ACT_SET: -0.75
-  response: 7E8056210ECFFD0
+    PORSCHE_VLV_TIM_DIFF_ACT_SET: -1.48438
+  response: 7E8056210ECFFA1
 - expected_values:
     PORSCHE_VLV_TIM_DIFF_ACT_SET: -0.04688
   response: 7E8056210ECFFFD

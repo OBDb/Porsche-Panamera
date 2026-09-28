@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221124|fc=1,c=17
 test_cases:
 - expected_values:
-    PORSCHE_CAMSHAFT_VSS: 122.25
-  response: 7E80562112401E9
+    PORSCHE_CAMSHAFT_VSS: 113.5
+  response: 7E80562112401C6
 - expected_values:
     PORSCHE_CAMSHAFT_VSS: 319.5
   response: 7E80562112404FE
 - expected_values:
-    PORSCHE_CAMSHAFT_VSS: 2176
-  response: '7E8056211242200'
+    PORSCHE_CAMSHAFT_VSS: 320
+  response: '7E8056211240500'
 - expected_values:
     PORSCHE_CAMSHAFT_VSS: 2918.25
   response: 7E8056211242D99

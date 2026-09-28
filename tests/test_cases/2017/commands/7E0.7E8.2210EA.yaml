@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2210EA
 test_cases:
 - expected_values:
-    PORSCHE_OPEN_CAM_SHFT_ANG: 1
-  response: 7E8056210EA000A
+    PORSCHE_OPEN_CAM_SHFT_ANG: 0.1
+  response: 7E8056210EA0001
 - expected_values:
-    PORSCHE_OPEN_CAM_SHFT_ANG: -20.9
-  response: 7E8056210EAFF2F
+    PORSCHE_OPEN_CAM_SHFT_ANG: -23.8
+  response: 7E8056210EAFF12
 - expected_values:
-    PORSCHE_OPEN_CAM_SHFT_ANG: -0.8
-  response: 7E8056210EAFFF8
+    PORSCHE_OPEN_CAM_SHFT_ANG: -0.7
+  response: 7E8056210EAFFF9

@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.22121C
 test_cases:
 - expected_values:
-    PORSCHE_AIR_FILLING: 15.39877
-  response: 7E80562121C0291
+    PORSCHE_AIR_FILLING: 13.40654
+  response: 7E80562121C023C
 - expected_values:
-    PORSCHE_AIR_FILLING: 19.28947
-  response: 7E80562121C0337
+    PORSCHE_AIR_FILLING: 29.93033
+  response: 7E80562121C04FD
 - expected_values:
-    PORSCHE_AIR_FILLING: 29.74282
-  response: 7E80562121C04F5
-- expected_values:
-    PORSCHE_AIR_FILLING: 77.48603
-  response: 7E80562121C0CEA
+    PORSCHE_AIR_FILLING: 100
+  response: 7E80562121C1106
