@@ -1,8 +1,20 @@
 command_id: 7E0.7E8.2211AD
 test_cases:
 - expected_values:
+    PORSCHE_MAF_CMD: 6.8
+  response: 7E8056211AD0044
+- expected_values:
+    PORSCHE_MAF_CMD: 13.6
+  response: 7E8056211AD0088
+- expected_values:
     PORSCHE_MAF_CMD: 23.6
   response: 7E8056211AD00EC
 - expected_values:
+    PORSCHE_MAF_CMD: 30.6
+  response: 7E8056211AD0132
+- expected_values:
     PORSCHE_MAF_CMD: 32.3
   response: 7E8056211AD0143
+- expected_values:
+    PORSCHE_MAF_CMD: 61.2
+  response: 7E8056211AD0264

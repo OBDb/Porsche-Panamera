@@ -6,3 +6,18 @@ test_cases:
 - expected_values:
     PORSCHE_SEG_AD_MMV_ER_MID_2: 0.72813
   response: 7E8056211340BEE
+- expected_values:
+    PORSCHE_SEG_AD_MMV_ER_MID_2: 0.73696
+  response: 7E8056211340C13
+- expected_values:
+    PORSCHE_SEG_AD_MMV_ER_MID_2: 0.74244
+  response: 7E8056211340C2A
+- expected_values:
+    PORSCHE_SEG_AD_MMV_ER_MID_2: 0.76032
+  response: 7E8056211340C75
+- expected_values:
+    PORSCHE_SEG_AD_MMV_ER_MID_2: 0.78535
+  response: 7E8056211340CDE
+- expected_values:
+    PORSCHE_SEG_AD_MMV_ER_MID_2: 0.82279
+  response: 7E8056211340D7B

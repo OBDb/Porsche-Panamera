@@ -4,5 +4,20 @@ test_cases:
     PORSCHE_TCO_1_SYS: -40
   response: 7E8056211CD0001
 - expected_values:
+    PORSCHE_TCO_1_SYS: -40
+  response: 7E8056211CD00B8
+- expected_values:
+    PORSCHE_TCO_1_SYS: -39
+  response: 7E8056211CD0122
+- expected_values:
+    PORSCHE_TCO_1_SYS: -39
+  response: 7E8056211CD0195
+- expected_values:
+    PORSCHE_TCO_1_SYS: 215
+  response: 7E8056211CDFF1A
+- expected_values:
     PORSCHE_TCO_1_SYS: 215
   response: 7E8056211CDFF2B
+- expected_values:
+    PORSCHE_TCO_1_SYS: 215
+  response: 7E8056211CDFF89

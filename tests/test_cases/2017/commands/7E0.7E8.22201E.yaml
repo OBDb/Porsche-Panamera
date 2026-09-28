@@ -1,8 +1,23 @@
 command_id: 7E0.7E8.22201E
 test_cases:
 - expected_values:
+    PORSCHE_CAM_ADJ_INT_ACT: 85.8
+  response: 7E80562201E035A
+- expected_values:
+    PORSCHE_CAM_ADJ_INT_ACT: 87.2
+  response: 7E80562201E0368
+- expected_values:
+    PORSCHE_CAM_ADJ_INT_ACT: 88.2
+  response: 7E80562201E0372
+- expected_values:
     PORSCHE_CAM_ADJ_INT_ACT: 148.7
   response: 7E80562201E05CF
 - expected_values:
+    PORSCHE_CAM_ADJ_INT_ACT: -181.1
+  response: 7E80562201EF8ED
+- expected_values:
     PORSCHE_CAM_ADJ_INT_ACT: -91.1
   response: 7E80562201EFC71
+- expected_values:
+    PORSCHE_CAM_ADJ_INT_ACT: -59.6
+  response: 7E80562201EFDAC

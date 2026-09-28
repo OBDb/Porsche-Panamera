@@ -1,8 +1,20 @@
 command_id: 7E0.7E8.22F40C
 test_cases:
 - expected_values:
+    PORSCHE_RPM: 0
+  response: 7E80562F40C0000
+- expected_values:
+    PORSCHE_RPM: 631.5
+  response: 7E80562F40C09DE
+- expected_values:
     PORSCHE_RPM: 793.5
   response: 7E80562F40C0C66
+- expected_values:
+    PORSCHE_RPM: 1502
+  response: 7E80562F40C1778
+- expected_values:
+    PORSCHE_RPM: 1815.5
+  response: 7E80562F40C1C5E
 - expected_values:
     PORSCHE_RPM: 2130.5
   response: 7E80562F40C214A

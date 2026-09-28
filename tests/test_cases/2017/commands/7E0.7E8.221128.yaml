@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     PORSCHE_CAM_ADPT_EXH_BANK_1: 0
   response: '7E8056211280000'
+- expected_values:
+    PORSCHE_CAM_ADPT_EXH_BANK_1: -1.1
+  response: 7E805621128FFC9
+- expected_values:
+    PORSCHE_CAM_ADPT_EXH_BANK_1: -0.96
+  response: 7E805621128FFD0

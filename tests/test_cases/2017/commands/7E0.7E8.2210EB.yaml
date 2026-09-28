@@ -1,8 +1,23 @@
 command_id: 7E0.7E8.2210EB
 test_cases:
 - expected_values:
+    PORSCHE_CRANK_ROT_ANG: 36.8
+  response: 7E8056210EB0170
+- expected_values:
+    PORSCHE_CRANK_ROT_ANG: 45.5
+  response: 7E8056210EB01C7
+- expected_values:
     PORSCHE_CRANK_ROT_ANG: 53.1
   response: 7E8056210EB0213
 - expected_values:
     PORSCHE_CRANK_ROT_ANG: 72.7
   response: 7E8056210EB02D7
+- expected_values:
+    PORSCHE_CRANK_ROT_ANG: 86.2
+  response: 7E8056210EB035E
+- expected_values:
+    PORSCHE_CRANK_ROT_ANG: 91.9
+  response: 7E8056210EB0397
+- expected_values:
+    PORSCHE_CRANK_ROT_ANG: 92.3
+  response: 7E8056210EB039B

@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.2251D8
 test_cases:
 - expected_values:
+    PORSCHE_TANK_FILL_LEVEL: 614.4
+  response: 7E8056251D81800
+- expected_values:
+    PORSCHE_TANK_FILL_LEVEL: 665.6
+  response: 7E8056251D81A00
+- expected_values:
     PORSCHE_TANK_FILL_LEVEL: 1024
   response: 7E8056251D82800
