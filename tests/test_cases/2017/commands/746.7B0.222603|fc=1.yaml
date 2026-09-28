@@ -1,11 +1,11 @@
-command_id: 746.7B0.222603|fc=1,din=03
+command_id: 746.7B0.222603|fc=1
 test_cases:
 - expected_values:
-    PORSCHE_PQ35_AC_COMP_SPD: 0
+    PORSCHE_A_C_CMPR_SPEED: 0
   response: 7B0056226030000
 - expected_values:
-    PORSCHE_PQ35_AC_COMP_SPD: 200
+    PORSCHE_A_C_CMPR_SPEED: 200
   response: 7B00562260302FF
 - expected_values:
-    PORSCHE_PQ35_AC_COMP_SPD: 3300
+    PORSCHE_A_C_CMPR_SPEED: 3300
   response: 7B005622603216E

@@ -4,17 +4,11 @@ test_cases:
     PORSCHE_FUEL_PMP_CMD_DUTY: 10.00058
   response: 7E8056211A4199A
 - expected_values:
-    PORSCHE_FUEL_PMP_CMD_DUTY: 32.33938
-  response: 7E8056211A452CA
-- expected_values:
-    PORSCHE_FUEL_PMP_CMD_DUTY: 33.02145
-  response: 7E8056211A45489
+    PORSCHE_FUEL_PMP_CMD_DUTY: 30.94626
+  response: 7E8056211A44F39
 - expected_values:
     PORSCHE_FUEL_PMP_CMD_DUTY: 33.56161
   response: 7E8056211A455EB
-- expected_values:
-    PORSCHE_FUEL_PMP_CMD_DUTY: 33.70504
-  response: 7E8056211A45649
 - expected_values:
     PORSCHE_FUEL_PMP_CMD_DUTY: 35.84279
   response: 7E8056211A45BC2

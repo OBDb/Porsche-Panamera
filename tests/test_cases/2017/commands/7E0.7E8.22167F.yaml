@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.22167F
 test_cases:
 - expected_values:
+    PORSCHE_HEATER_CIRCULATION: 0
+  response: 7E80562167F0000
+- expected_values:
     PORSCHE_HEATER_CIRCULATION: 94.11
   response: 7E80562167F24C3

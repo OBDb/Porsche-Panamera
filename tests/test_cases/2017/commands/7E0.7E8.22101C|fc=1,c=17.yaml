@@ -4,26 +4,8 @@ test_cases:
     PORSCHE_GENERATOR_LOAD_SIG: 0
   response: 7E80562101C0000
 - expected_values:
-    PORSCHE_GENERATOR_LOAD_SIG: 19.32
-  response: 7E80562101C078C
+    PORSCHE_GENERATOR_LOAD_SIG: 61.21
+  response: 7E80562101C17E9
 - expected_values:
-    PORSCHE_GENERATOR_LOAD_SIG: 22.54
-  response: 7E80562101C08CE
-- expected_values:
-    PORSCHE_GENERATOR_LOAD_SIG: 25.78
-  response: 7E80562101C0A12
-- expected_values:
-    PORSCHE_GENERATOR_LOAD_SIG: 29
-  response: 7E80562101C0B54
-- expected_values:
-    PORSCHE_GENERATOR_LOAD_SIG: 35.43
-  response: 7E80562101C0DD7
-- expected_values:
-    PORSCHE_GENERATOR_LOAD_SIG: 38.65
-  response: 7E80562101C0F19
-- expected_values:
-    PORSCHE_GENERATOR_LOAD_SIG: 48.32
-  response: 7E80562101C12E0
-- expected_values:
-    PORSCHE_GENERATOR_LOAD_SIG: 51.54
-  response: 7E80562101C1422
+    PORSCHE_GENERATOR_LOAD_SIG: 67.65
+  response: 7E80562101C1A6D

@@ -4,6 +4,9 @@ test_cases:
     PORSCHE_LOW_FUEL_P_CMD: 547.6
   response: 7E8056211CE1564
 - expected_values:
+    PORSCHE_LOW_FUEL_P_CMD: 560.9
+  response: 7E8056211CE15E9
+- expected_values:
     PORSCHE_LOW_FUEL_P_CMD: 561.8
   response: 7E8056211CE15F2
 - expected_values:
@@ -12,6 +15,9 @@ test_cases:
 - expected_values:
     PORSCHE_LOW_FUEL_P_CMD: 565.7
   response: 7E8056211CE1619
+- expected_values:
+    PORSCHE_LOW_FUEL_P_CMD: 580
+  response: 7E8056211CE16A8
 - expected_values:
     PORSCHE_LOW_FUEL_P_CMD: 650
   response: 7E8056211CE1964

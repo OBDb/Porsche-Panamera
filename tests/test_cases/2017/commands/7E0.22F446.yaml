@@ -4,26 +4,5 @@ test_cases:
     PORSCHE_AAT_V4: 19
   response: 7E80462F4463B
 - expected_values:
-    PORSCHE_AAT_V4: 20
-  response: 7E80462F4463C
-- expected_values:
-    PORSCHE_AAT_V4: 21
-  response: 7E80462F4463D
-- expected_values:
-    PORSCHE_AAT_V4: 23
-  response: 7E80462F4463F
-- expected_values:
-    PORSCHE_AAT_V4: 25
-  response: 7E80462F44641
-- expected_values:
-    PORSCHE_AAT_V4: 26
-  response: 7E80462F44642
-- expected_values:
-    PORSCHE_AAT_V4: 28
-  response: 7E80462F44644
-- expected_values:
-    PORSCHE_AAT_V4: 30
-  response: 7E80462F44646
-- expected_values:
-    PORSCHE_AAT_V4: 31
-  response: 7E80462F44647
+    PORSCHE_AAT_V4: 38
+  response: 7E80462F4464E

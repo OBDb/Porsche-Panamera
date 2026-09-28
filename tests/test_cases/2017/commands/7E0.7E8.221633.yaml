@@ -4,20 +4,8 @@ test_cases:
     PORSCHE_LONGITUDINAL_ACCEL: 0
   response: '7E8056216330000'
 - expected_values:
-    PORSCHE_LONGITUDINAL_ACCEL: 0.001
-  response: '7E8056216330001'
-- expected_values:
-    PORSCHE_LONGITUDINAL_ACCEL: 0.031
-  response: 7E805621633001F
-- expected_values:
-    PORSCHE_LONGITUDINAL_ACCEL: 0.175
-  response: 7E80562163300AF
-- expected_values:
     PORSCHE_LONGITUDINAL_ACCEL: -0.26
   response: 7E805621633FEFC
 - expected_values:
-    PORSCHE_LONGITUDINAL_ACCEL: -0.043
-  response: 7E805621633FFD5
-- expected_values:
-    PORSCHE_LONGITUDINAL_ACCEL: -0.036
-  response: 7E805621633FFDC
+    PORSCHE_LONGITUDINAL_ACCEL: -0.182
+  response: 7E805621633FF4A

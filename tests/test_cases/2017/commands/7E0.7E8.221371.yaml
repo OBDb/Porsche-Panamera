@@ -13,8 +13,20 @@ test_cases:
     PORSCHE_CAM_ADJ_EXH_BANK_1_SPEC: -12.256
   response: 7E805621371FA04
 - expected_values:
+    PORSCHE_CAM_ADJ_EXH_BANK_1_SPEC: -11.992
+  response: 7E805621371FA25
+- expected_values:
+    PORSCHE_CAM_ADJ_EXH_BANK_1_SPEC: -11.648
+  response: 7E805621371FA50
+- expected_values:
+    PORSCHE_CAM_ADJ_EXH_BANK_1_SPEC: -8.768
+  response: 7E805621371FBB8
+- expected_values:
     PORSCHE_CAM_ADJ_EXH_BANK_1_SPEC: -5.992
   response: 7E805621371FD13
+- expected_values:
+    PORSCHE_CAM_ADJ_EXH_BANK_1_SPEC: -1.912
+  response: 7E805621371FF11
 - expected_values:
     PORSCHE_CAM_ADJ_EXH_BANK_1_SPEC: -0.704
   response: 7E805621371FFA8

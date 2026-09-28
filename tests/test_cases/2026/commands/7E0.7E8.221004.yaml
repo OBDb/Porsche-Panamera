@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221004
 test_cases:
 - expected_values:
-    PORSCHE_AAT_V2: 0.19531
+    PORSCHE_AAT_V3: 0.19531
   response: '7E8056210040019'
 - expected_values:
-    PORSCHE_AAT_V2: 1.97656
+    PORSCHE_AAT_V3: 1.97656
   response: 7E80562100400FD
 - expected_values:
-    PORSCHE_AAT_V2: 2.03906
+    PORSCHE_AAT_V3: 2.03906
   response: '7E8056210040105'
 - expected_values:
-    PORSCHE_AAT_V2: -1.53125
+    PORSCHE_AAT_V3: -1.53125
   response: 7E805621004FF3C
