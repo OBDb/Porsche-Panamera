@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22102A
+test_cases:
+- expected_values:
+    PORSCHE_CLU_CENTER_CENTRAL_T: 23552
+  response: 7E90762102A005C0008

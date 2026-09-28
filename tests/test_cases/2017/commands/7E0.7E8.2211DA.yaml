@@ -4,5 +4,20 @@ test_cases:
     PORSCHE_INT_MANIFOLD_P: 355.23438
   response: 7E8056211DA11C3
 - expected_values:
+    PORSCHE_INT_MANIFOLD_P: 376.875
+  response: 7E8056211DA12D8
+- expected_values:
+    PORSCHE_INT_MANIFOLD_P: 424.60938
+  response: 7E8056211DA153B
+- expected_values:
     PORSCHE_INT_MANIFOLD_P: 852.5
   response: 7E8056211DA2AA0
+- expected_values:
+    PORSCHE_INT_MANIFOLD_P: 983.125
+  response: 7E8056211DA3128
+- expected_values:
+    PORSCHE_INT_MANIFOLD_P: 997.73438
+  response: 7E8056211DA31E3
+- expected_values:
+    PORSCHE_INT_MANIFOLD_P: 1510.85938
+  response: 7E8056211DA4B8B

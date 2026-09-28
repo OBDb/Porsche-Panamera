@@ -4,6 +4,9 @@ test_cases:
     PORSCHE_KNOCK_SNS_C3_V_MS: 0.02049
   response: 7E80762120F000068E9
 - expected_values:
+    PORSCHE_KNOCK_SNS_C3_V_MS: 0.02441
+  response: 7E80762120F00007CFD
+- expected_values:
     PORSCHE_KNOCK_SNS_C3_V_MS: 0.03223
   response: 7E80762120F0000A501
 - expected_values:

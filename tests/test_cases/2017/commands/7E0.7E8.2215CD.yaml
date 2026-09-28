@@ -6,3 +6,15 @@ test_cases:
 - expected_values:
     PORSCHE_ECT_RADIATOR_OUTLET_V_1: 32.2
   response: 7E8056215CD0BED
+- expected_values:
+    PORSCHE_ECT_RADIATOR_OUTLET_V_1: 37.2
+  response: 7E8056215CD0C1F
+- expected_values:
+    PORSCHE_ECT_RADIATOR_OUTLET_V_1: 39
+  response: 7E8056215CD0C31
+- expected_values:
+    PORSCHE_ECT_RADIATOR_OUTLET_V_1: 45.8
+  response: 7E8056215CD0C75
+- expected_values:
+    PORSCHE_ECT_RADIATOR_OUTLET_V_1: 73.1
+  response: 7E8056215CD0D86

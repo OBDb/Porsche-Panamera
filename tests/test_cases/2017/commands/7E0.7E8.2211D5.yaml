@@ -1,8 +1,23 @@
 command_id: 7E0.7E8.2211D5
 test_cases:
 - expected_values:
+    PORSCHE_HIGH_FUEL_P: 0.012
+  response: 7E8056211D50018
+- expected_values:
+    PORSCHE_HIGH_FUEL_P: 0.03
+  response: 7E8056211D5003C
+- expected_values:
+    PORSCHE_HIGH_FUEL_P: 0.046
+  response: 7E8056211D5005C
+- expected_values:
+    PORSCHE_HIGH_FUEL_P: 0.064
+  response: 7E8056211D50080
+- expected_values:
     PORSCHE_HIGH_FUEL_P: 0.362
   response: 7E8056211D502D4
+- expected_values:
+    PORSCHE_HIGH_FUEL_P: 6.772
+  response: 7E8056211D534E8
 - expected_values:
     PORSCHE_HIGH_FUEL_P: -0.078
   response: 7E8056211D5FF64

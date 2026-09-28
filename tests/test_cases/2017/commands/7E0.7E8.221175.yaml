@@ -1,8 +1,20 @@
 command_id: 7E0.7E8.221175
 test_cases:
 - expected_values:
+    PORSCHE_INTEGRATED_MASS_AIR: 0
+  response: '7E8056211750000'
+- expected_values:
+    PORSCHE_INTEGRATED_MASS_AIR: 628.27452
+  response: 7E80562117506E7
+- expected_values:
     PORSCHE_INTEGRATED_MASS_AIR: 686.94192
   response: 7E805621175078C
 - expected_values:
+    PORSCHE_INTEGRATED_MASS_AIR: 2635.76628
+  response: 7E8056211751CF5
+- expected_values:
     PORSCHE_INTEGRATED_MASS_AIR: 5179.44252
   response: 7E80562117538E7
+- expected_values:
+    PORSCHE_INTEGRATED_MASS_AIR: 16144.91292
+  response: 7E805621175B15F

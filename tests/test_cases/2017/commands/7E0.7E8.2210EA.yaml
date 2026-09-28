@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     PORSCHE_OPEN_CAM_SHFT_ANG: 1
   response: 7E8056210EA000A
+- expected_values:
+    PORSCHE_OPEN_CAM_SHFT_ANG: -74.6
+  response: 7E8056210EAFD16
+- expected_values:
+    PORSCHE_OPEN_CAM_SHFT_ANG: -42.1
+  response: 7E8056210EAFE5B
+- expected_values:
+    PORSCHE_OPEN_CAM_SHFT_ANG: -30.9
+  response: 7E8056210EAFECB
+- expected_values:
+    PORSCHE_OPEN_CAM_SHFT_ANG: -20.9
+  response: 7E8056210EAFF2F

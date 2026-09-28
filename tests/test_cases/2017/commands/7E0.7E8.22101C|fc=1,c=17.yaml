@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     PORSCHE_GENERATOR_LOAD_SIG: 48.32
   response: 7E80562101C12E0
+- expected_values:
+    PORSCHE_GENERATOR_LOAD_SIG: 51.54
+  response: 7E80562101C1422

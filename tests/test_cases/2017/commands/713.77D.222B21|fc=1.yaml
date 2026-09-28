@@ -5,3 +5,8 @@ test_cases:
   response: |-
     77D1009622B210ADAFF
     77D21FEFFFE00000000
+- expected_values:
+    PORSCHE_BRAKE_P_V2: 6.45668
+  response: |-
+    77D1009622B210C80FF
+    77D21FEFFFE00000000

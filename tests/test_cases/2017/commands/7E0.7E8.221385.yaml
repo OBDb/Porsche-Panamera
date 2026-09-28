@@ -4,5 +4,14 @@ test_cases:
     PORSCHE_CAM_POS_DEV_BASE_POS: 0
   response: '7E8056213850000'
 - expected_values:
+    PORSCHE_CAM_POS_DEV_BASE_POS: 0.04395
+  response: '7E8056213850002'
+- expected_values:
+    PORSCHE_CAM_POS_DEV_BASE_POS: 0.08789
+  response: '7E8056213850004'
+- expected_values:
+    PORSCHE_CAM_POS_DEV_BASE_POS: 0.28565
+  response: 7E805621385000D
+- expected_values:
     PORSCHE_CAM_POS_DEV_BASE_POS: -0.02197
   response: 7E805621385FFFF

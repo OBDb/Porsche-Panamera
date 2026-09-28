@@ -1,8 +1,23 @@
 command_id: 7E0.7E8.22128C
 test_cases:
 - expected_values:
+    PORSCHE_AVG_INJ_TIME: 0.6248
+  response: 7E80762128C0000061A
+- expected_values:
     PORSCHE_AVG_INJ_TIME: 0.6664
   response: 7E80762128C00000682
 - expected_values:
+    PORSCHE_AVG_INJ_TIME: 0.8828
+  response: 7E80762128C0000089F
+- expected_values:
+    PORSCHE_AVG_INJ_TIME: 0.8952
+  response: 7E80762128C000008BE
+- expected_values:
     PORSCHE_AVG_INJ_TIME: 1.6328
   response: 7E80762128C00000FF2
+- expected_values:
+    PORSCHE_AVG_INJ_TIME: 2.1388
+  response: 7E80762128C000014E3
+- expected_values:
+    PORSCHE_AVG_INJ_TIME: 4.2152
+  response: 7E80762128C0000292A
