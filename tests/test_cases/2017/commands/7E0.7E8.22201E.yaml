@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PORSCHE_CAM_ADJ_INT_ACT: 148.7
   response: 7E80562201E05CF
+- expected_values:
+    PORSCHE_CAM_ADJ_INT_ACT: -91.1
+  response: 7E80562201EFC71

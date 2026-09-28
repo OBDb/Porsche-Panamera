@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PORSCHE_INT_MODEL_AIR_MASS: 8.9
   response: 7E8056211AB0059
+- expected_values:
+    PORSCHE_INT_MODEL_AIR_MASS: 39.1
+  response: 7E8056211AB0187

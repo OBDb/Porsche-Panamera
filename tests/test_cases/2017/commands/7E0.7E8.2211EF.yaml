@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.2211EF
 test_cases:
 - expected_values:
+    PORSCHE_P_BEFORE_THROTTLE: 977.49964
+  response: 7E8056211EF61C0
+- expected_values:
     PORSCHE_P_BEFORE_THROTTLE: 980.93714
   response: 7E8056211EF6218

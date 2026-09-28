@@ -1,6 +1,10 @@
 command_id: 7E0.7E8.22127B
 test_cases:
 - expected_values:
+    PORSCHE_CAM_ADJ_EXH: 16.30579
+    PORSCHE_VARIABLE_VLV_TIM_INT_1: 32.61105
+  response: 7E80562127B29BE
+- expected_values:
     PORSCHE_CAM_ADJ_EXH: 23.30205
     PORSCHE_VARIABLE_VLV_TIM_INT_1: 46.60335
   response: 7E80562127B3BA7
