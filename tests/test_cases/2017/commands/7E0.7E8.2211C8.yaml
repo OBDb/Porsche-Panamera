@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2211C8
 test_cases:
 - expected_values:
-    PORSCHE_LOW_FUEL_P_ACT: 522.5
-  response: 7E8056211C81469
+    PORSCHE_LOW_FUEL_P_ACT: 457.2
+  response: 7E8056211C811DC
 - expected_values:
     PORSCHE_LOW_FUEL_P_ACT: 562.2
   response: 7E8056211C815F6

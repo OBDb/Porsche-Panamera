@@ -4,9 +4,6 @@ test_cases:
     PORSCHE_KNOCK_SNS_C4_V_MS: 0.01666
   response: 7E8076212100000554B
 - expected_values:
-    PORSCHE_KNOCK_SNS_C4_V_MS: 0.02715
-  response: 7E80762121000008B03
-- expected_values:
     PORSCHE_KNOCK_SNS_C4_V_MS: 0.03848
   response: 7E8076212100000C4FE
 - expected_values:
@@ -15,3 +12,9 @@ test_cases:
 - expected_values:
     PORSCHE_KNOCK_SNS_C4_V_MS: 0.05101
   response: '7E80762121000010527'
+- expected_values:
+    PORSCHE_KNOCK_SNS_C4_V_MS: 0.07285
+  response: '7E80762121000017500'
+- expected_values:
+    PORSCHE_KNOCK_SNS_C4_V_MS: 0.10295
+  response: 7E80762121000020F1E
