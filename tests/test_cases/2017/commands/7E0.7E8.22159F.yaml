@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22159F
 test_cases:
 - expected_values:
-    PORSCHE_HIGH_FUEL_P_ACT: 7.146
-  response: 7E80562159F37D4
+    PORSCHE_HIGH_FUEL_P_ACT: 7.062
+  response: 7E80562159F372C
 - expected_values:
-    PORSCHE_HIGH_FUEL_P_ACT: 7.416
-  response: 7E80562159F39F0
+    PORSCHE_HIGH_FUEL_P_ACT: 7.93
+  response: 7E80562159F3DF4
 - expected_values:
     PORSCHE_HIGH_FUEL_P_ACT: 8.96
   response: 7E80562159F4600
