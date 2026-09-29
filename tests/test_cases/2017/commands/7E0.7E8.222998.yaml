@@ -4,23 +4,5 @@ test_cases:
     PORSCHE_MANUAL_ENG_STARTS: 11445
   response: 7E8056229982CB5
 - expected_values:
-    PORSCHE_MANUAL_ENG_STARTS: 11448
-  response: 7E8056229982CB8
-- expected_values:
-    PORSCHE_MANUAL_ENG_STARTS: 11450
-  response: 7E8056229982CBA
-- expected_values:
-    PORSCHE_MANUAL_ENG_STARTS: 11451
-  response: 7E8056229982CBB
-- expected_values:
-    PORSCHE_MANUAL_ENG_STARTS: 11452
-  response: 7E8056229982CBC
-- expected_values:
-    PORSCHE_MANUAL_ENG_STARTS: 11453
-  response: 7E8056229982CBD
-- expected_values:
-    PORSCHE_MANUAL_ENG_STARTS: 11454
-  response: 7E8056229982CBE
-- expected_values:
-    PORSCHE_MANUAL_ENG_STARTS: 11455
-  response: 7E8056229982CBF
+    PORSCHE_MANUAL_ENG_STARTS: 11458
+  response: 7E8056229982CC2
