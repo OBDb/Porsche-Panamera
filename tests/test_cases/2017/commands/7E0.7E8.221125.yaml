@@ -7,5 +7,5 @@ test_cases:
     PORSCHE_CAM_ADPT_INT_BANK_1: -4.92
   response: 7E805621125FF0A
 - expected_values:
-    PORSCHE_CAM_ADPT_INT_BANK_1: -4.38
-  response: 7E805621125FF25
+    PORSCHE_CAM_ADPT_INT_BANK_1: -4.34
+  response: 7E805621125FF27

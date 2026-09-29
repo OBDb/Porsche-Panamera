@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     PORSCHE_TANK_FILL_LEVEL: 1024
   response: 7E8056251D82800
+- expected_values:
+    PORSCHE_TANK_FILL_LEVEL: 2329.6
+  response: 7E8056251D85B00
