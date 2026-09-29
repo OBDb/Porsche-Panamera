@@ -1,8 +1,8 @@
 command_id: 710.77A.222A0F
 test_cases:
 - expected_values:
-    PORSCHE_SSB_AH: 20
-  response: 77A04622A0F14
+    PORSCHE_SSB_AH: 17
+  response: 77A04622A0F11
 - expected_values:
     PORSCHE_SSB_AH: 75
   response: 77A04622A0F4B
