@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22102B
 test_cases:
 - expected_values:
-    PORSCHE_ACCEL_PEDAL_SENS_2_V: 375.8
-  response: 7E80562102B0757
+    PORSCHE_ACCEL_PEDAL_SENS_2_V: 374.6
+  response: 7E80562102B0751
 - expected_values:
     PORSCHE_ACCEL_PEDAL_SENS_2_V: 758.2
   response: 7E80562102B0ECF
