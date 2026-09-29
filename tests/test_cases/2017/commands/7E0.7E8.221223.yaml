@@ -7,5 +7,5 @@ test_cases:
     PORSCHE_TQ_LOSS_ADPT_AC_COMP_7E0: -10.3
   response: 7E805621223FF99
 - expected_values:
-    PORSCHE_TQ_LOSS_ADPT_AC_COMP_7E0: -5
-  response: 7E805621223FFCE
+    PORSCHE_TQ_LOSS_ADPT_AC_COMP_7E0: -4.1
+  response: 7E805621223FFD7

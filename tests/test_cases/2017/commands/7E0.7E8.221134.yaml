@@ -7,5 +7,8 @@ test_cases:
     PORSCHE_SEG_AD_MMV_ER_MID_2: 0.73171
   response: 7E8056211340BFD
 - expected_values:
+    PORSCHE_SEG_AD_MMV_ER_MID_2: 0.73338
+  response: 7E8056211340C04
+- expected_values:
     PORSCHE_SEG_AD_MMV_ER_MID_2: 0.79608
   response: 7E8056211340D0B

@@ -7,23 +7,5 @@ test_cases:
     PORSCHE_CAM_ADPT_INT_BANK_1: -4.92
   response: 7E805621125FF0A
 - expected_values:
-    PORSCHE_CAM_ADPT_INT_BANK_1: -4.78
-  response: 7E805621125FF11
-- expected_values:
-    PORSCHE_CAM_ADPT_INT_BANK_1: -4.76
-  response: 7E805621125FF12
-- expected_values:
-    PORSCHE_CAM_ADPT_INT_BANK_1: -4.7
-  response: 7E805621125FF15
-- expected_values:
-    PORSCHE_CAM_ADPT_INT_BANK_1: -4.58
-  response: 7E805621125FF1B
-- expected_values:
-    PORSCHE_CAM_ADPT_INT_BANK_1: -4.56
-  response: 7E805621125FF1C
-- expected_values:
-    PORSCHE_CAM_ADPT_INT_BANK_1: -4.52
-  response: 7E805621125FF1E
-- expected_values:
-    PORSCHE_CAM_ADPT_INT_BANK_1: -4.5
-  response: 7E805621125FF1F
+    PORSCHE_CAM_ADPT_INT_BANK_1: -4.38
+  response: 7E805621125FF25

@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     PORSCHE_BRAKE_BOOSTER_RAW_P: 255
   response: 7E8056211D100FF
+- expected_values:
+    PORSCHE_BRAKE_BOOSTER_RAW_P: 443
+  response: 7E8056211D101BB

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2213F6
 test_cases:
 - expected_values:
-    PORSCHE_NL_PRE_0: 2.43065
-  response: 7E8056213F67C73
+    PORSCHE_NL_PRE_0: 2.42737
+  response: 7E8056213F67C48
 - expected_values:
     PORSCHE_NL_PRE_0: 2.4411
   response: 7E8056213F67CFC

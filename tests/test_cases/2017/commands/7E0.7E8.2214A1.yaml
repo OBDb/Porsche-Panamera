@@ -7,8 +7,8 @@ test_cases:
     PORSCHE_RATED_DRIVE_TQ: -447
   response: 7E8076214A1FFFFEE8A
 - expected_values:
-    PORSCHE_RATED_DRIVE_TQ: -128
-  response: 7E8076214A1FFFFFB00
-- expected_values:
     PORSCHE_RATED_DRIVE_TQ: -103
   response: 7E8076214A1FFFFFBFA
+- expected_values:
+    PORSCHE_RATED_DRIVE_TQ: -41
+  response: 7E8076214A1FFFFFE66

@@ -7,8 +7,8 @@ test_cases:
     PORSCHE_CAM_ADJ_EXH_BANK_1_ACT: -12.312
   response: 7E80562136CF9FD
 - expected_values:
-    PORSCHE_CAM_ADJ_EXH_BANK_1_ACT: -12.272
-  response: 7E80562136CFA02
+    PORSCHE_CAM_ADJ_EXH_BANK_1_ACT: -12.288
+  response: 7E80562136CFA00
 - expected_values:
     PORSCHE_CAM_ADJ_EXH_BANK_1_ACT: -1.512
   response: 7E80562136CFF43

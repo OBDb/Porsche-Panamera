@@ -7,8 +7,8 @@ test_cases:
     PORSCHE_LOW_FUEL_P_ACT: 562.2
   response: 7E8056211C815F6
 - expected_values:
-    PORSCHE_LOW_FUEL_P_ACT: 564.6
-  response: 7E8056211C8160E
+    PORSCHE_LOW_FUEL_P_ACT: 615.7
+  response: 7E8056211C8180D
 - expected_values:
     PORSCHE_LOW_FUEL_P_ACT: 778.5
   response: 7E8056211C81E69

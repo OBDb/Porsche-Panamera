@@ -8,4 +8,4 @@ test_cases:
   response: 7E8056215C10BFF
 - expected_values:
     PORSCHE_IAT_BEFORE_THROTTLE: -39
-  response: 7E8056215C10C0D
+  response: 7E8056215C10C09
