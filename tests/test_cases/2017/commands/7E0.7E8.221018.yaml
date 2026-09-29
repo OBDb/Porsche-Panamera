@@ -4,8 +4,8 @@ test_cases:
     PORSCHE_CLT_FAN_REQ_AC: 0
   response: '7E8056210180000'
 - expected_values:
-    PORSCHE_CLT_FAN_REQ_AC: 21.59418
-  response: 7E80562101806E9
+    PORSCHE_CLT_FAN_REQ_AC: 40.40517
+  response: 7E8056210180CEE
 - expected_values:
     PORSCHE_CLT_FAN_REQ_AC: 99.19408
   response: 7E8056210181FBE

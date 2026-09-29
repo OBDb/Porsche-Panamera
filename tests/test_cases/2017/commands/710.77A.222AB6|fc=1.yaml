@@ -6,15 +6,15 @@ test_cases:
     77A100A622AB6001300
     77A211307FD01AAAAAA
 - expected_values:
+    PORSCHE_RANGE: 32
+  response: |-
+    77A100A622AB6002000
+    77A212007FD01AAAAAA
+- expected_values:
     PORSCHE_RANGE: 47
   response: |-
     77A100A622AB6002F00
     77A212F07FD01AAAAAA
-- expected_values:
-    PORSCHE_RANGE: 48
-  response: |-
-    77A100A622AB6003000
-    77A213007FD01AAAAAA
 - expected_values:
     PORSCHE_RANGE: 244
   response: |-
