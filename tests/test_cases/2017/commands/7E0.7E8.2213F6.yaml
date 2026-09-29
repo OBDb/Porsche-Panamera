@@ -7,8 +7,8 @@ test_cases:
     PORSCHE_NL_PRE_0: 2.4411
   response: 7E8056213F67CFC
 - expected_values:
-    PORSCHE_NL_PRE_0: 2.44515
-  response: 7E8056213F67D31
+    PORSCHE_NL_PRE_0: 2.44415
+  response: 7E8056213F67D24
 - expected_values:
     PORSCHE_NL_PRE_0: 2.4672
   response: 7E8056213F67E52

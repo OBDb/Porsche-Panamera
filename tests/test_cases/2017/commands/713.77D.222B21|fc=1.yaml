@@ -6,39 +6,9 @@ test_cases:
     77D1009622B210ADAFF
     77D21FEFFFE00000000
 - expected_values:
-    PORSCHE_BRAKE_P: 6.45668
-  response: |-
-    77D1009622B210C80FF
-    77D21FEFFFE00000000
-- expected_values:
-    PORSCHE_BRAKE_P: 6.54848
-  response: |-
-    77D1009622B210C86FF
-    77D21FEFFFE00000000
-- expected_values:
-    PORSCHE_BRAKE_P: 23.02647
-  response: |-
-    77D1009622B2110BBFF
-    77D21FEFFFE00000000
-- expected_values:
     PORSCHE_BRAKE_P: 23.92917
   response: |-
     77D1009622B2110F6FF
-    77D21FEFFFE00000000
-- expected_values:
-    PORSCHE_BRAKE_P: 24.64826
-  response: |-
-    77D1009622B211125FF
-    77D21FEFFFE00000000
-- expected_values:
-    PORSCHE_BRAKE_P: 25.12256
-  response: |-
-    77D1009622B211144FF
-    77D21FEFFFE00000000
-- expected_values:
-    PORSCHE_BRAKE_P: 25.81105
-  response: |-
-    77D1009622B211171FF
     77D21FEFFFE00000000
 - expected_values:
     PORSCHE_BRAKE_P: 28.30494

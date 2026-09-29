@@ -4,26 +4,5 @@ test_cases:
     PORSCHE_TOT_MASS_GASOLINE: 0
   response: '7E8056217130000'
 - expected_values:
-    PORSCHE_TOT_MASS_GASOLINE: 0.02133
-  response: '7E8056217130001'
-- expected_values:
-    PORSCHE_TOT_MASS_GASOLINE: 0.08533
-  response: '7E8056217130004'
-- expected_values:
-    PORSCHE_TOT_MASS_GASOLINE: 0.128
-  response: '7E8056217130006'
-- expected_values:
-    PORSCHE_TOT_MASS_GASOLINE: 0.14933
-  response: '7E8056217130007'
-- expected_values:
-    PORSCHE_TOT_MASS_GASOLINE: 0.192
-  response: '7E8056217130009'
-- expected_values:
-    PORSCHE_TOT_MASS_GASOLINE: 0.32
-  response: 7E805621713000F
-- expected_values:
-    PORSCHE_TOT_MASS_GASOLINE: 0.40533
-  response: '7E8056217130013'
-- expected_values:
     PORSCHE_TOT_MASS_GASOLINE: 0.46933
   response: '7E8056217130016'

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2215CD
 test_cases:
 - expected_values:
-    PORSCHE_ECT_RADIATOR_OUTLET_V_1: 26.8
-  response: 7E8056215CD0BB7
+    PORSCHE_ECT_RADIATOR_OUTLET_V_1: 22.5
+  response: 7E8056215CD0B8C
 - expected_values:
     PORSCHE_ECT_RADIATOR_OUTLET_V_1: 34
   response: 7E8056215CD0BFF

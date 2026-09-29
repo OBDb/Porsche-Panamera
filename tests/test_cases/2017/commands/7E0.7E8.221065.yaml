@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221065
 test_cases:
 - expected_values:
+    PORSCHE_CYL_HEAD_T: 159.02
+  response: 7E8056210650D6F
+- expected_values:
     PORSCHE_CYL_HEAD_T: 180.8
   response: 7E8056210650DE8
 - expected_values:
