@@ -13,6 +13,9 @@ test_cases:
     PORSCHE_ACCEL_PEDAL_TQ_LIM: 73.7
   response: 7E80562105902E1
 - expected_values:
+    PORSCHE_ACCEL_PEDAL_TQ_LIM: 102.2
+  response: 7E80562105903FE
+- expected_values:
     PORSCHE_ACCEL_PEDAL_TQ_LIM: 169.4
   response: 7E805621059069E
 - expected_values:

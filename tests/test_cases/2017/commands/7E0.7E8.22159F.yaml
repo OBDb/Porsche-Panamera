@@ -10,5 +10,5 @@ test_cases:
     PORSCHE_HIGH_FUEL_P_ACT: 9.208
   response: 7E80562159F47F0
 - expected_values:
-    PORSCHE_HIGH_FUEL_P_ACT: 24.986
-  response: 7E80562159FC334
+    PORSCHE_HIGH_FUEL_P_ACT: 24.968
+  response: 7E80562159FC310
