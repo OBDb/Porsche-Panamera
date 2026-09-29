@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.222AE9
 test_cases:
 - expected_values:
-    PORSCHE_EXH_GAS_T_CALC_AFTER: 182.19544
-  response: 7E805622AE94BE2
+    PORSCHE_EXH_GAS_T_CALC_AFTER: 154.79408
+  response: 7E805622AE94751
 - expected_values:
     PORSCHE_EXH_GAS_T_CALC_AFTER: 266.7904
   response: 7E805622AE959FB

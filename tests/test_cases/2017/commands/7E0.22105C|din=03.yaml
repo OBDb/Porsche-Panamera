@@ -5,9 +5,9 @@ test_cases:
     PORSCHE_PQ35_GEN_LOAD: 0
   response: 7E80562105C0000
 - expected_values:
-    PORSCHE_BRAKE_P_V2: 24.6
-    PORSCHE_PQ35_GEN_LOAD: 2.46
-  response: 7E80562105C00F6
+    PORSCHE_BRAKE_P_V2: 24.9
+    PORSCHE_PQ35_GEN_LOAD: 2.49
+  response: 7E80562105C00F9
 - expected_values:
     PORSCHE_BRAKE_P_V2: 25.8
     PORSCHE_PQ35_GEN_LOAD: 2.58

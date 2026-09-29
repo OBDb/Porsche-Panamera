@@ -4,6 +4,9 @@ test_cases:
     PORSCHE_ENG_OIL_SUMP_T: 113.84
   response: 7E8056215B70C74
 - expected_values:
+    PORSCHE_ENG_OIL_SUMP_T: 142.1
+  response: 7E8056215B70D11
+- expected_values:
     PORSCHE_ENG_OIL_SUMP_T: 189.26
   response: 7E8056215B70E17
 - expected_values:

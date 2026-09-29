@@ -4,8 +4,8 @@ test_cases:
     PORSCHE_ACCELERATION_29BIT: 0
   response: 7E8056212B00000
 - expected_values:
-    PORSCHE_ACCELERATION_29BIT: -0.263
-  response: 7E8056212B0FEF9
-- expected_values:
     PORSCHE_ACCELERATION_29BIT: -0.165
   response: 7E8056212B0FF5B
+- expected_values:
+    PORSCHE_ACCELERATION_29BIT: -0.003
+  response: 7E8056212B0FFFD
