@@ -1,8 +1,8 @@
 command_id: 713.77D.222005|fc=1
 test_cases:
 - expected_values:
-    PORSCHE_P_BRAKE_SERVO_UNIT: -903.9375
-  response: 77D05622005C781
+    PORSCHE_P_BRAKE_SERVO_UNIT: -907.3125
+  response: 77D05622005C74B
 - expected_values:
     PORSCHE_P_BRAKE_SERVO_UNIT: -896.3125
   response: 77D05622005C7FB
@@ -10,5 +10,5 @@ test_cases:
     PORSCHE_P_BRAKE_SERVO_UNIT: -863.6875
   response: 77D05622005CA05
 - expected_values:
-    PORSCHE_P_BRAKE_SERVO_UNIT: -727
-  response: 77D05622005D290
+    PORSCHE_P_BRAKE_SERVO_UNIT: -468.3125
+  response: 77D05622005E2BB

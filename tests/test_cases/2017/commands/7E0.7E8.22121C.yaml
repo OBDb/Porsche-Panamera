@@ -11,4 +11,4 @@ test_cases:
   response: 7E80562121C1106
 - expected_values:
     PORSCHE_AIR_FILLING: 100
-  response: 7E80562121C1508
+  response: 7E80562121C1EE5

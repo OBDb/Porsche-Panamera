@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2215B7
 test_cases:
 - expected_values:
-    PORSCHE_ENG_OIL_SUMP_T: 129.86
-  response: 7E8056215B70CCD
+    PORSCHE_ENG_OIL_SUMP_T: 113.84
+  response: 7E8056215B70C74
 - expected_values:
     PORSCHE_ENG_OIL_SUMP_T: 200.06
   response: 7E8056215B70E53

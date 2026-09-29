@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221141
 test_cases:
 - expected_values:
-    PORSCHE_SEG_AD_MMV_ER_L_3: 7.41748
-  response: '7E8056211417987'
+    PORSCHE_SEG_AD_MMV_ER_L_3: 7.33904
+  response: 7E805621141783E
 - expected_values:
     PORSCHE_SEG_AD_MMV_ER_L_3: 7.68951
   response: 7E8056211417DFC
@@ -10,5 +10,5 @@ test_cases:
     PORSCHE_SEG_AD_MMV_ER_L_3: -7.8125
   response: '7E8056211418000'
 - expected_values:
-    PORSCHE_SEG_AD_MMV_ER_L_3: -7.69047
-  response: '7E8056211418200'
+    PORSCHE_SEG_AD_MMV_ER_L_3: -7.50045
+  response: 7E805621141851D

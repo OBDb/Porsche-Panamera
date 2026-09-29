@@ -10,5 +10,5 @@ test_cases:
     PORSCHE_EXH_T_BEFORE_CAT: 751.4
   response: '7E8056214212805'
 - expected_values:
-    PORSCHE_EXH_T_BEFORE_CAT: 851
-  response: 7E8056214212BE9
+    PORSCHE_EXH_T_BEFORE_CAT: 891.8
+  response: 7E8056214212D81

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2211D1
 test_cases:
 - expected_values:
-    PORSCHE_BRAKE_BOOSTER_RAW_P: 75
-  response: 7E8056211D1004B
+    PORSCHE_BRAKE_BOOSTER_RAW_P: 71
+  response: 7E8056211D10047
 - expected_values:
     PORSCHE_BRAKE_BOOSTER_RAW_P: 255
   response: 7E8056211D100FF
