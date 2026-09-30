@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22121C
 test_cases:
 - expected_values:
-    PANAMERA_AIR_FILLING: 13.40654
+    PORSCHE_AIR_FILLING: 13.40654
   response: 7E80562121C023C
 - expected_values:
-    PANAMERA_AIR_FILLING: 29.93033
+    PORSCHE_AIR_FILLING: 29.93033
   response: 7E80562121C04FD
 - expected_values:
-    PANAMERA_AIR_FILLING: 100
+    PORSCHE_AIR_FILLING: 100
   response: 7E80562121C1106
 - expected_values:
-    PANAMERA_AIR_FILLING: 100
+    PORSCHE_AIR_FILLING: 100
   response: 7E80562121C2011

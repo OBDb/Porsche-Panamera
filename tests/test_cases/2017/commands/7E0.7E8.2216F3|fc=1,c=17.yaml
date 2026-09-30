@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2216F3|fc=1,c=17
 test_cases:
 - expected_values:
-    PANAMERA_CRANKSHAFT_VSS: 0
+    PORSCHE_CRANKSHAFT_VSS: 0
   response: 7E8056216F30000
 - expected_values:
-    PANAMERA_CRANKSHAFT_VSS: 638
+    PORSCHE_CRANKSHAFT_VSS: 638
   response: 7E8056216F304FC
 - expected_values:
-    PANAMERA_CRANKSHAFT_VSS: 4871.5
+    PORSCHE_CRANKSHAFT_VSS: 4871.5
   response: 7E8056216F3260F

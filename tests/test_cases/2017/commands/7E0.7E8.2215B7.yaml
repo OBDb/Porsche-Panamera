@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2215B7
 test_cases:
 - expected_values:
-    PANAMERA_ENG_OIL_SUMP_T: 91.7
+    PORSCHE_ENG_OIL_SUMP_T: 91.7
   response: 7E8056215B70BF9
 - expected_values:
-    PANAMERA_ENG_OIL_SUMP_T: 142.1
+    PORSCHE_ENG_OIL_SUMP_T: 142.1
   response: 7E8056215B70D11
 - expected_values:
-    PANAMERA_ENG_OIL_SUMP_T: 189.26
+    PORSCHE_ENG_OIL_SUMP_T: 189.26
   response: 7E8056215B70E17

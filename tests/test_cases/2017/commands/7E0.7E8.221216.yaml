@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221216
 test_cases:
 - expected_values:
-    PANAMERA_REL_LOAD: 14.97836
+    PORSCHE_REL_LOAD: 14.97836
   response: 7E805621216027F
 - expected_values:
-    PANAMERA_REL_LOAD: 24.09664
+    PORSCHE_REL_LOAD: 24.09664
   response: '7E8056212160404'
 - expected_values:
-    PANAMERA_REL_LOAD: 29.93327
+    PORSCHE_REL_LOAD: 29.93327
   response: 7E80562121604FD
 - expected_values:
-    PANAMERA_REL_LOAD: 169.75471
+    PORSCHE_REL_LOAD: 169.75471
   response: 7E8056212161C4A

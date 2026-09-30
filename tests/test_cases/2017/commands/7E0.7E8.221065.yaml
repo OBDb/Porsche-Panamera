@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221065
 test_cases:
 - expected_values:
-    PANAMERA_CYL_HEAD_T: 143.9
+    PORSCHE_CYL_HEAD_T: 143.9
   response: 7E8056210650D1B
 - expected_values:
-    PANAMERA_CYL_HEAD_T: 180.8
+    PORSCHE_CYL_HEAD_T: 180.8
   response: 7E8056210650DE8
 - expected_values:
-    PANAMERA_CYL_HEAD_T: 186.2
+    PORSCHE_CYL_HEAD_T: 186.2
   response: 7E8056210650E06
