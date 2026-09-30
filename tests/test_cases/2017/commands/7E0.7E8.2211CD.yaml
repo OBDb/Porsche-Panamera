@@ -8,4 +8,4 @@ test_cases:
   response: 7E8056211CDFDFF
 - expected_values:
     PORSCHE_TCO_1_SYS: 215
-  response: 7E8056211CDFF1A
+  response: 7E8056211CDFF0F
