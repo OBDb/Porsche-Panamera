@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221004
 test_cases:
 - expected_values:
-    PORSCHE_AAT_V3: 0
+    PANAMERA_AAT_V2: 0
   response: '7E8056210040000'
 - expected_values:
-    PORSCHE_AAT_V3: -2.00781
+    PANAMERA_AAT_V2: -2.00781
   response: 7E805621004FEFF
 - expected_values:
-    PORSCHE_AAT_V3: -1.85156
+    PANAMERA_AAT_V2: -1.85156
   response: 7E805621004FF13

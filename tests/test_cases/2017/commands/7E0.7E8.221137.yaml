@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221137
 test_cases:
 - expected_values:
-    PORSCHE_FUEL_PART_EVAP: 0
+    PANAMERA_FUEL_PART_EVAP: 0
   response: '7E80462113700'
 - expected_values:
-    PORSCHE_FUEL_PART_EVAP: -0.00781
+    PANAMERA_FUEL_PART_EVAP: -0.00781
   response: 7E804621137FF

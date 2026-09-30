@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2210EB
 test_cases:
 - expected_values:
-    PORSCHE_CRANK_ROT_ANG: 5
+    PANAMERA_CRANK_ROT_ANG: 5
   response: 7E8056210EB0032
 - expected_values:
-    PORSCHE_CRANK_ROT_ANG: 51
+    PANAMERA_CRANK_ROT_ANG: 51
   response: 7E8056210EB01FE
 - expected_values:
-    PORSCHE_CRANK_ROT_ANG: 51.2
+    PANAMERA_CRANK_ROT_ANG: 51.2
   response: 7E8056210EB0200
 - expected_values:
-    PORSCHE_CRANK_ROT_ANG: 145.9
+    PANAMERA_CRANK_ROT_ANG: 145.9
   response: 7E8056210EB05B3

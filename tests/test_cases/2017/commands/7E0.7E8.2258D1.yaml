@@ -1,7 +1,7 @@
 command_id: 7E0.7E8.2258D1
 test_cases:
 - expected_values:
-    PORSCHE_ENG_OIL_LEVEL: 2.96
+    PANAMERA_ENG_OIL_LEVEL: 2.96
   response: |-
     7E810116258D1000292
     7E821880002927A0128

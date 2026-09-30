@@ -1,32 +1,32 @@
 command_id: 710.77A.222AB6|fc=1
 test_cases:
 - expected_values:
-    PORSCHE_RANGE: 17
+    PANAMERA_RANGE_V2: 17
   response: |-
     77A100A622AB6001100
     77A211107FD01AAAAAA
 - expected_values:
-    PORSCHE_RANGE: 32
+    PANAMERA_RANGE_V2: 32
   response: |-
     77A100A622AB6002000
     77A212007FD01AAAAAA
 - expected_values:
-    PORSCHE_RANGE: 47
+    PANAMERA_RANGE_V2: 47
   response: |-
     77A100A622AB6002F00
     77A212F07FD01AAAAAA
 - expected_values:
-    PORSCHE_RANGE: 244
+    PANAMERA_RANGE_V2: 244
   response: |-
     77A100A622AB600F400
     77A21F407FD01AAAAAA
 - expected_values:
-    PORSCHE_RANGE: 249
+    PANAMERA_RANGE_V2: 249
   response: |-
     77A100A622AB600F900
     77A21F907FD01AAAAAA
 - expected_values:
-    PORSCHE_RANGE: 307
+    PANAMERA_RANGE_V2: 307
   response: |-
     77A100A622AB6013301
     77A213307FD01AAAAAA

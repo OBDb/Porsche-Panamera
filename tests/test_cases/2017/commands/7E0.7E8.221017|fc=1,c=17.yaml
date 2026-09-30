@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221017|fc=1,c=17
 test_cases:
 - expected_values:
-    PORSCHE_A_C_REFRIGERANT_PRES: 0
+    PANAMERA_A_C_REFRIGERANT_PRES: 0
   response: '7E8056210170000'
 - expected_values:
-    PORSCHE_A_C_REFRIGERANT_PRES: 50
+    PANAMERA_A_C_REFRIGERANT_PRES: 50
   response: '7E8056210170019'

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22174B
 test_cases:
 - expected_values:
-    PORSCHE_INT_CAM_ADPT_BIAS: 4.83406
+    PANAMERA_INT_CAM_ADPT_BIAS: 4.83406
   response: 7E80562174B00DC
 - expected_values:
-    PORSCHE_INT_CAM_ADPT_BIAS: 5.31747
+    PANAMERA_INT_CAM_ADPT_BIAS: 5.31747
   response: 7E80562174B00F2

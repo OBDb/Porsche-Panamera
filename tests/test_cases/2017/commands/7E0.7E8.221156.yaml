@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221156
 test_cases:
 - expected_values:
-    PORSCHE_HVBAT_SOC: 10
+    PANAMERA_HVBAT_SOC: 10
   response: '7E8056211561409'
 - expected_values:
-    PORSCHE_HVBAT_SOC: 10
+    PANAMERA_HVBAT_SOC: 10
   response: 7E805621156143A

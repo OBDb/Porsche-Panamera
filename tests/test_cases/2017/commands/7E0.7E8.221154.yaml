@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221154
 test_cases:
 - expected_values:
-    PORSCHE_EM_TORQ_2: 308.375
+    PANAMERA_EM_TORQ_2: 308.375
   response: 7E805621154268C
 - expected_values:
-    PORSCHE_EM_TORQ_2: 311.96875
+    PANAMERA_EM_TORQ_2: 311.96875
   response: 7E80562115426FF
 - expected_values:
-    PORSCHE_EM_TORQ_2: 312
+    PANAMERA_EM_TORQ_2: 312
   response: '7E8056211542700'
 - expected_values:
-    PORSCHE_EM_TORQ_2: -936
+    PANAMERA_EM_TORQ_2: -936
   response: 7E8056211548B00

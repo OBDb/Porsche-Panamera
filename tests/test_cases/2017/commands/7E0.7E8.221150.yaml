@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221150
 test_cases:
 - expected_values:
-    PORSCHE_MISFIRES_C3: 5699
+    PANAMERA_MISFIRES_C3_ECM: 5699
   response: '7E8056211501643'
 - expected_values:
-    PORSCHE_MISFIRES_C3: 36863
+    PANAMERA_MISFIRES_C3_ECM: 36863
   response: 7E8056211508FFF
 - expected_values:
-    PORSCHE_MISFIRES_C3: 36864
+    PANAMERA_MISFIRES_C3_ECM: 36864
   response: '7E8056211509000'

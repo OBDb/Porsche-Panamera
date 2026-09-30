@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2211E6
 test_cases:
 - expected_values:
-    PORSCHE_MQB_DPF_EXH_VOL: 0
+    PANAMERA_DPF_EXH_VOL: 0
   response: 7E8056211E60000
 - expected_values:
-    PORSCHE_MQB_DPF_EXH_VOL: 127.8
+    PANAMERA_DPF_EXH_VOL: 127.8
   response: 7E8056211E604FE
 - expected_values:
-    PORSCHE_MQB_DPF_EXH_VOL: 542.4
+    PANAMERA_DPF_EXH_VOL: 542.4
   response: 7E8056211E61530

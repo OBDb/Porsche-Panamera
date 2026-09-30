@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2210E0
+test_cases:
+- expected_values:
+    PANAMERA_ODO_2_V2: 1055
+  response: 7E8076210E00000041F
+- expected_values:
+    PANAMERA_ODO_2_V2: 1251
+  response: 7E8076210E0000004E3

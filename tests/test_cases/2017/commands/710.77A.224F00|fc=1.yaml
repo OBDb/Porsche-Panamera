@@ -1,8 +1,8 @@
 command_id: 710.77A.224F00|fc=1
 test_cases:
 - expected_values:
-    PORSCHE_GEN_V_ACT: 11.6
+    PANAMERA_GEN_V_ACT: 11.6
   response: 77A04624F000A
 - expected_values:
-    PORSCHE_GEN_V_ACT: 15
+    PANAMERA_GEN_V_ACT: 15
   response: 77A04624F002C

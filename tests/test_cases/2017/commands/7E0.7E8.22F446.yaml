@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F446
+test_cases:
+- expected_values:
+    PANAMERA_AAT_V4: 19
+  response: 7E80462F4463B
+- expected_values:
+    PANAMERA_AAT_V4: 38
+  response: 7E80462F4464E

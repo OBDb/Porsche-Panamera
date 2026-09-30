@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.22113F
 test_cases:
 - expected_values:
-    PORSCHE_FUEL_CONS: 0
-    PORSCHE_FUEL_RATE: 0
+    PANAMERA_FUEL_CONS: 0
   response: 7E80562113F0000
 - expected_values:
-    PORSCHE_FUEL_CONS: 17.91
-    PORSCHE_FUEL_RATE: 17.91
+    PANAMERA_FUEL_CONS: 17.91
   response: 7E80562113F06FF
 - expected_values:
-    PORSCHE_FUEL_CONS: 141.26
-    PORSCHE_FUEL_RATE: 141.26
+    PANAMERA_FUEL_CONS: 141.26
   response: 7E80562113F372E

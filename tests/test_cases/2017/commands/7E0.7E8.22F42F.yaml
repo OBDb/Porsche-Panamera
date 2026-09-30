@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
-    PORSCHE_FLI_INPUT: 0
+    PANAMERA_FLI_INPUT: 0
   response: 7E80462F42F00
 - expected_values:
-    PORSCHE_FLI_INPUT: 100
+    PANAMERA_FLI_INPUT: 100
   response: 7E80462F42FFF

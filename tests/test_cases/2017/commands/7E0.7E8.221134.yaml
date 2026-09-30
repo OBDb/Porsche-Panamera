@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221134
 test_cases:
 - expected_values:
-    PORSCHE_SEG_AD_MMV_ER_MID_2: 0.7031
+    PANAMERA_SEG_AD_MMV_ER_MID_2: 0.7031
   response: 7E8056211340B85
 - expected_values:
-    PORSCHE_SEG_AD_MMV_ER_MID_2: 0.73171
+    PANAMERA_SEG_AD_MMV_ER_MID_2: 0.73171
   response: 7E8056211340BFD
 - expected_values:
-    PORSCHE_SEG_AD_MMV_ER_MID_2: 0.73338
+    PANAMERA_SEG_AD_MMV_ER_MID_2: 0.73338
   response: 7E8056211340C04
 - expected_values:
-    PORSCHE_SEG_AD_MMV_ER_MID_2: 0.79608
+    PANAMERA_SEG_AD_MMV_ER_MID_2: 0.79608
   response: 7E8056211340D0B

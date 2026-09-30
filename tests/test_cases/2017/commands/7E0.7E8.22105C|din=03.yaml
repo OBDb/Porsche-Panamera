@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22105C|din=03
+test_cases:
+- expected_values:
+    PANAMERA_GEN_LOAD: 0
+  response: 7E80562105C0000
+- expected_values:
+    PANAMERA_GEN_LOAD: 2.49
+  response: 7E80562105C00F9
+- expected_values:
+    PANAMERA_GEN_LOAD: 2.58
+  response: 7E80562105C0102

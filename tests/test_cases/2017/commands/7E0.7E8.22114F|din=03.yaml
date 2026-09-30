@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22114F|din=03
+test_cases:
+- expected_values:
+    PANAMERA_ENG_114F_RAW: 11062
+  response: 7E80562114F2B36
+- expected_values:
+    PANAMERA_ENG_114F_RAW: 32253
+  response: 7E80562114F7DFD
+- expected_values:
+    PANAMERA_ENG_114F_RAW: 32257
+  response: 7E80562114F7E01

@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2211AD
 test_cases:
 - expected_values:
-    PORSCHE_MAF_CMD: 6.8
+    PANAMERA_MAF_CMD: 6.8
   response: 7E8056211AD0044
 - expected_values:
-    PORSCHE_MAF_CMD: 25.2
+    PANAMERA_MAF_CMD: 25.2
   response: 7E8056211AD00FC
 - expected_values:
-    PORSCHE_MAF_CMD: 156.2
-  response: 7E8056211AD061A
+    PANAMERA_MAF_CMD: 28
+  response: 7E8056211AD0118
 - expected_values:
-    PORSCHE_MAF_CMD: 449
+    PANAMERA_MAF_CMD: 449
   response: 7E8056211AD118A

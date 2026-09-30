@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221125
 test_cases:
 - expected_values:
-    PORSCHE_CAM_ADPT_INT_BANK_1: 0
+    PANAMERA_CAM_ADPT_INT_BANK_1: 0
   response: '7E8056211250000'
 - expected_values:
-    PORSCHE_CAM_ADPT_INT_BANK_1: -4.92
+    PANAMERA_CAM_ADPT_INT_BANK_1: -4.92
   response: 7E805621125FF0A
 - expected_values:
-    PORSCHE_CAM_ADPT_INT_BANK_1: -4.34
+    PANAMERA_CAM_ADPT_INT_BANK_1: -4.34
   response: 7E805621125FF27

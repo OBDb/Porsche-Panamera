@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221059
 test_cases:
 - expected_values:
-    PORSCHE_ACCEL_PEDAL_TQ_LIM: 0
+    PANAMERA_ACCEL_PEDAL_TQ_LIM: 0
   response: '7E8056210590000'
 - expected_values:
-    PORSCHE_ACCEL_PEDAL_TQ_LIM: 102.2
+    PANAMERA_ACCEL_PEDAL_TQ_LIM: 102.2
   response: 7E80562105903FE
 - expected_values:
-    PORSCHE_ACCEL_PEDAL_TQ_LIM: 695.5
+    PANAMERA_ACCEL_PEDAL_TQ_LIM: 695.5
   response: 7E8056210591B2B

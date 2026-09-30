@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221139
+test_cases:
+- expected_values:
+    PANAMERA_MEAN_INJ_QUANTITY: 150.85
+  response: 7E8056211393AED
+- expected_values:
+    PANAMERA_MEAN_INJ_QUANTITY: 163.83
+  response: 7E8056211393FFF
+- expected_values:
+    PANAMERA_MEAN_INJ_QUANTITY: 163.84
+  response: '7E8056211394000'
+- expected_values:
+    PANAMERA_MEAN_INJ_QUANTITY: 204.8
+  response: '7E8056211395000'

@@ -1,10 +1,8 @@
 command_id: 746.7B0.222604|fc=1
 test_cases:
 - expected_values:
-    PORSCHE_HVAC_AC_LOAD: 0
-    PORSCHE_PQ35_AC_COMP_LOAD: 0
+    PANAMERA_CLIMATE_A_C_COMP_LOAD: 0
   response: 7B0056226040000
 - expected_values:
-    PORSCHE_HVAC_AC_LOAD: 15.7
-    PORSCHE_PQ35_AC_COMP_LOAD: 0
+    PANAMERA_CLIMATE_A_C_COMP_LOAD: 0
   response: 7B005622604009D

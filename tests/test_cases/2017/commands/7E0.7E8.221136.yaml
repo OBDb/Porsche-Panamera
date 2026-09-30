@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221136
 test_cases:
 - expected_values:
-    PORSCHE_HEIGHT_CORR: 0.96173
-  response: 7E8056211363D8D
+    PANAMERA_HEIGHT_CORR: 0.9602
+  response: 7E8056211363D74
 - expected_values:
-    PORSCHE_HEIGHT_CORR: 0.96868
+    PANAMERA_HEIGHT_CORR: 0.96868
   response: 7E8056211363DFF
 - expected_values:
-    PORSCHE_HEIGHT_CORR: 0.96881
+    PANAMERA_HEIGHT_CORR: 0.96881
   response: 7E8056211363E01
