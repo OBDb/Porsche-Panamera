@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2211E0
 test_cases:
 - expected_values:
-    PORSCHE_CMD_CRANK_TQ: 0
+    PANAMERA_CMD_CRANK_TQ: 0
   response: 7E8056211E00000
 - expected_values:
-    PORSCHE_CMD_CRANK_TQ: 358.1
+    PANAMERA_CMD_CRANK_TQ: 358.1
   response: 7E8056211E00DFD
 - expected_values:
-    PORSCHE_CMD_CRANK_TQ: -23.1
+    PANAMERA_CMD_CRANK_TQ: -23.1
   response: 7E8056211E0FF19

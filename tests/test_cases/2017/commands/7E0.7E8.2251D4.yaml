@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2251D4
 test_cases:
 - expected_values:
-    PORSCHE_CYL_BLOCK_T_SENS: 66.6
+    PANAMERA_CYL_BLOCK_T_SENS: 66.6
   response: 7E8056251D40D45
 - expected_values:
-    PORSCHE_CYL_BLOCK_T_SENS: 84.6
+    PANAMERA_CYL_BLOCK_T_SENS: 84.6
   response: 7E8056251D40DF9
 - expected_values:
-    PORSCHE_CYL_BLOCK_T_SENS: 88.5
+    PANAMERA_CYL_BLOCK_T_SENS: 88.5
   response: 7E8056251D40E20

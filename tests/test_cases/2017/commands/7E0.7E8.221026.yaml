@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221026
 test_cases:
 - expected_values:
-    PORSCHE_MQB_MAF_1_B1_RAW: 0
+    PANAMERA_MAF_1_B1_RAW: 0
   response: '7E8056210260000'
 - expected_values:
-    PORSCHE_MQB_MAF_1_B1_RAW: 102
+    PANAMERA_MAF_1_B1_RAW: 102
   response: 7E80562102603FC
 - expected_values:
-    PORSCHE_MQB_MAF_1_B1_RAW: 819.2
+    PANAMERA_MAF_1_B1_RAW: 819.2
   response: '7E8056210262000'

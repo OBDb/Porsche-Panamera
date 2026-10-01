@@ -1,18 +1,14 @@
 command_id: 7E0.7E8.22F442
 test_cases:
 - expected_values:
-    PORSCHE_KL30_V: 11.62
-    PORSCHE_VPWR: 11.62
+    PANAMERA_VPWR: 11.62
   response: 7E80562F4422D64
 - expected_values:
-    PORSCHE_KL30_V: 12.3
-    PORSCHE_VPWR: 12.3
+    PANAMERA_VPWR: 12.3
   response: 7E80562F442300C
 - expected_values:
-    PORSCHE_KL30_V: 12.54
-    PORSCHE_VPWR: 12.54
+    PANAMERA_VPWR: 12.54
   response: 7E80562F44230FC
 - expected_values:
-    PORSCHE_KL30_V: 14.62
-    PORSCHE_VPWR: 14.62
+    PANAMERA_VPWR: 14.62
   response: 7E80562F442391C

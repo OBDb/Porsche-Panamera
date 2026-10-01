@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221224
 test_cases:
 - expected_values:
-    PORSCHE_TQ_LOSS_ADPT_GEAR: 0
+    PANAMERA_TQ_LOSS_ADPT_GEAR: 0
   response: '7E8056212240000'
 - expected_values:
-    PORSCHE_TQ_LOSS_ADPT_GEAR: 0.2
+    PANAMERA_TQ_LOSS_ADPT_GEAR: 0.2
   response: '7E8056212240002'

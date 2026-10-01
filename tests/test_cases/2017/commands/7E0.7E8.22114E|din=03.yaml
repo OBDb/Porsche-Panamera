@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22114E|din=03
+test_cases:
+- expected_values:
+    PANAMERA_SOOT_MASS_MEAS: 0
+  response: 7E80562114E0000
+- expected_values:
+    PANAMERA_SOOT_MASS_MEAS: 0.01
+  response: 7E80562114E0001

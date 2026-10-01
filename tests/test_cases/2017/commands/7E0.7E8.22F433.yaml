@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F433
+test_cases:
+- expected_values:
+    PANAMERA_BARO: 97
+  response: 7E80462F43361
+- expected_values:
+    PANAMERA_BARO: 98
+  response: 7E80462F43362

@@ -1,8 +1,8 @@
 command_id: 710.77A.222A0B
 test_cases:
 - expected_values:
-    PORSCHE_SSB_T: 3
+    PANAMERA_SSB_T: 3
   response: 77A04622A0B2B
 - expected_values:
-    PORSCHE_SSB_T: 36
+    PANAMERA_SSB_T: 36
   response: 77A04622A0B4C

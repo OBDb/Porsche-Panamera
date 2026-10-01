@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211BA
+test_cases:
+- expected_values:
+    PANAMERA_OIL_LEVEL: 0.6252
+  response: 7E8056211BA061B
+- expected_values:
+    PANAMERA_OIL_LEVEL: 5.4268
+  response: 7E8056211BA34FF
+- expected_values:
+    PANAMERA_OIL_LEVEL: 6.964
+  response: 7E8056211BA4402
+- expected_values:
+    PANAMERA_OIL_LEVEL: 9.8596
+  response: 7E8056211BA6049

@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.221755
 test_cases:
 - expected_values:
-    PORSCHE_EXH_CAM_ADPT_SENS: 0.48341
+    PANAMERA_EXH_CAM_ADPT_SENS: 0.48341
   response: '7E8056217550016'

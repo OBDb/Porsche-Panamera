@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221002
 test_cases:
 - expected_values:
-    PORSCHE_AC_COMP_T: 0
+    PANAMERA_AC_COMP_T: 0
   response: '7E8056210020000'
 - expected_values:
-    PORSCHE_AC_COMP_T: 15.8
+    PANAMERA_AC_COMP_T: 15.8
   response: 7E805621002009E

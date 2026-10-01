@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221421
 test_cases:
 - expected_values:
-    PORSCHE_EXH_T_BEFORE_CAT: 315.8
+    PANAMERA_EXH_T_BEFORE_CAT: 315.8
   response: '7E8056214211701'
 - expected_values:
-    PORSCHE_EXH_T_BEFORE_CAT: 725.1
+    PANAMERA_EXH_T_BEFORE_CAT: 725.1
   response: 7E80562142126FE
 - expected_values:
-    PORSCHE_EXH_T_BEFORE_CAT: 891.8
+    PANAMERA_EXH_T_BEFORE_CAT: 891.8
   response: 7E8056214212D81

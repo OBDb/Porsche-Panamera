@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22F41F
 test_cases:
 - expected_values:
-    PORSCHE_RUNTM: 0
+    PANAMERA_RUNTM: 0
   response: 7E80562F41F0000
 - expected_values:
-    PORSCHE_RUNTM: 1023
+    PANAMERA_RUNTM: 1023
   response: 7E80562F41F03FF
 - expected_values:
-    PORSCHE_RUNTM: 6554
+    PANAMERA_RUNTM: 6554
   response: 7E80562F41F199A

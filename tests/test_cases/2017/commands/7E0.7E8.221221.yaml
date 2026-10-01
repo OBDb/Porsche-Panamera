@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221221
 test_cases:
 - expected_values:
-    PORSCHE_PQ35_ACCEL_PED_1: 0
+    PANAMERA_ACCEL_PED_1: 0
   response: '7E8056212210000'
 - expected_values:
-    PORSCHE_PQ35_ACCEL_PED_1: -25
+    PANAMERA_ACCEL_PED_1: -25
   response: 7E805621221FF83
 - expected_values:
-    PORSCHE_PQ35_ACCEL_PED_1: -0.2
+    PANAMERA_ACCEL_PED_1: -0.2
   response: 7E805621221FFFF

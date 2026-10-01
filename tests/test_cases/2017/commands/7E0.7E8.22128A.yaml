@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22128A
 test_cases:
 - expected_values:
-    PORSCHE_FUEL_T: 29.25
+    PANAMERA_FUEL_T: 29.25
   response: 7E80462128A67
 - expected_values:
-    PORSCHE_FUEL_T: 93.75
+    PANAMERA_FUEL_T: 93.75
   response: 7E80462128ABD
