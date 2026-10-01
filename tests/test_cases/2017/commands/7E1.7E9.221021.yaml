@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     PANAMERA_TCM_DRAG_TQ: 2729
   response: 7E9056210210AA9
+- expected_values:
+    PANAMERA_TCM_DRAG_TQ: 3037
+  response: 7E9056210210BDD

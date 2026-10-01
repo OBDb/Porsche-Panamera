@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.222AE3
 test_cases:
 - expected_values:
-    PANAMERA_EGT_AFTER_CAT_MODEL_B: 284.15876
-  response: 7E805622AE35CE2
-- expected_values:
-    PANAMERA_EGT_AFTER_CAT_MODEL_B: 333.05043
-  response: 7E805622AE36508
+    PANAMERA_EGT_AFTER_CAT_MODEL_B: 252.14246
+  response: 7E805622AE3578C
 - expected_values:
     PANAMERA_EGT_AFTER_CAT_MODEL_B: 416.74753
   response: 7E805622AE372FB
+- expected_values:
+    PANAMERA_EGT_AFTER_CAT_MODEL_B: 674.87022
+  response: 7E805622AE39E00
 - expected_values:
     PANAMERA_EGT_AFTER_CAT_MODEL_B: 801.55261
   response: 7E805622AE3B31D

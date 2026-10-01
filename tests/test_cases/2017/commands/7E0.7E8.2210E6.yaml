@@ -7,8 +7,17 @@ test_cases:
     PANAMERA_KNOCK_RETARD_2: -5.25
   response: 7E8046210E6F9
 - expected_values:
+    PANAMERA_KNOCK_RETARD_2: -4.5
+  response: 7E8046210E6FA
+- expected_values:
     PANAMERA_KNOCK_RETARD_2: -3.75
   response: 7E8046210E6FB
+- expected_values:
+    PANAMERA_KNOCK_RETARD_2: -2.25
+  response: 7E8046210E6FD
+- expected_values:
+    PANAMERA_KNOCK_RETARD_2: -1.5
+  response: 7E8046210E6FE
 - expected_values:
     PANAMERA_KNOCK_RETARD_2: -0.75
   response: 7E8046210E6FF

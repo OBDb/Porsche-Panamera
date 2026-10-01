@@ -4,6 +4,9 @@ test_cases:
     PANAMERA_TCM_TQ_LOSSES: 498
   response: 7E90562102201F2
 - expected_values:
+    PANAMERA_TCM_TQ_LOSSES: 2566
+  response: 7E9056210220A06
+- expected_values:
     PANAMERA_TCM_TQ_LOSSES: 2592
   response: 7E9056210220A20
 - expected_values:
@@ -18,3 +21,6 @@ test_cases:
 - expected_values:
     PANAMERA_TCM_TQ_LOSSES: 2724
   response: 7E9056210220AA4
+- expected_values:
+    PANAMERA_TCM_TQ_LOSSES: 2776
+  response: 7E9056210220AD8

@@ -4,8 +4,8 @@ test_cases:
     PANAMERA_CAM_ADJ_EXH_BANK_2_SPEC: 0.016
   response: '7E8056213720002'
 - expected_values:
+    PANAMERA_CAM_ADJ_EXH_BANK_2_SPEC: 1.952
+  response: 7E80562137200F4
+- expected_values:
     PANAMERA_CAM_ADJ_EXH_BANK_2_SPEC: -1.84
   response: 7E805621372FF1A
-- expected_values:
-    PANAMERA_CAM_ADJ_EXH_BANK_2_SPEC: -0.296
-  response: 7E805621372FFDB
