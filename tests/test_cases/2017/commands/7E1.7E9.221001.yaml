@@ -1,14 +1,14 @@
 command_id: 7E1.7E9.221001
 test_cases:
 - expected_values:
-    PANAMERA_TIRE_FR_SPD_7E1: 255
+    PANAMERA_TIRE_FR_SPD_7E1: 115.95
   response: 7E9056210012D4B
 - expected_values:
-    PANAMERA_TIRE_FR_SPD_7E1: 255
+    PANAMERA_TIRE_FR_SPD_7E1: 133.13
   response: '7E9056210013401'
 - expected_values:
-    PANAMERA_TIRE_FR_SPD_7E1: 255
+    PANAMERA_TIRE_FR_SPD_7E1: 143.33
   response: 7E90562100137FD
 - expected_values:
-    PANAMERA_TIRE_FR_SPD_7E1: 255
+    PANAMERA_TIRE_FR_SPD_7E1: 146.03
   response: 7E905621001390B
