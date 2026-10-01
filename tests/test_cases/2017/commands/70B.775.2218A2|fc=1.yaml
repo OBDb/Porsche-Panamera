@@ -16,15 +16,10 @@ test_cases:
     775100C6218A2259B8C
     775219B20654068FFAA
 - expected_values:
-    PANAMERA_TP_RL: 2.775
+    PANAMERA_TP_RL: null
   response: |-
     775100C6218A2259B8C
-    775219B206F5168FFAA
-- expected_values:
-    PANAMERA_TP_RL: 2.8
-  response: |-
-    775100C6218A2259B8C
-    775219B20705268FFAA
+    775219B20FFA768FFAA
 - expected_values:
     PANAMERA_TP_RL: 2.325
   response: |-

@@ -11,12 +11,12 @@ test_cases:
     775100C6218A1276BE9
     77521A9208F3F8800CC
 - expected_values:
-    PANAMERA_TP_FL: 3.575
-  response: |-
-    775100C6218A1276BE9
-    77521A9208F418800CC
-- expected_values:
     PANAMERA_TP_FL: 3.6
   response: |-
     775100C6218A1276BE9
     77521A92090408800CC
+- expected_values:
+    PANAMERA_TP_FL: null
+  response: |-
+    775100C6218A1276BE9
+    77521A920FFA78800CC

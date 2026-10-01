@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PANAMERA_ADAPTIVE_MODE: 0
   response: '7E9056210110000'
+- expected_values:
+    PANAMERA_ADAPTIVE_MODE: 0
+  response: '7E9056210110026'

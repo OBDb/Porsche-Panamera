@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22177D
 test_cases:
 - expected_values:
-    PANAMERA_OIL_P_ACT: 98.9
-  response: 7E80562177D03DD
+    PANAMERA_OIL_P_ACT: 98.1
+  response: 7E80562177D03D5
 - expected_values:
     PANAMERA_OIL_P_ACT: 204.5
   response: 7E80562177D07FD
