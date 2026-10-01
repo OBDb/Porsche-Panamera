@@ -1,0 +1,17 @@
+command_id: 7E1.7E9.221033
+test_cases:
+- expected_values:
+    PANAMERA_TIME_SINCE_SHIFT: 0
+  response: '7E9056210330000'
+- expected_values:
+    PANAMERA_TIME_SINCE_SHIFT: 390
+  response: 7E9056210330DCF
+- expected_values:
+    PANAMERA_TIME_SINCE_SHIFT: 450
+  response: 7E9056210330FAC
+- expected_values:
+    PANAMERA_TIME_SINCE_SHIFT: 600
+  response: 7E90562103314A6
+- expected_values:
+    PANAMERA_TIME_SINCE_SHIFT: 990
+  response: '7E9056210332134'

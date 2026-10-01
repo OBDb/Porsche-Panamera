@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221013
+test_cases:
+- expected_values:
+    PANAMERA_CURRENT_TYPE_DRIVER: 1911
+  response: 7E90662101307772C
+- expected_values:
+    PANAMERA_CURRENT_TYPE_DRIVER: 1911
+  response: 7E90662101307773C

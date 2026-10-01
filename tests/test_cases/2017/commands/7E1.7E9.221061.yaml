@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221061
+test_cases:
+- expected_values:
+    PANAMERA_DES_TQ_RAW: 0
+  response: '7E90762106100000000'

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22136D
+test_cases:
+- expected_values:
+    PANAMERA_CAM_ADJ_EXH_BANK_2_ACT: 0.01562
+  response: 7E80562136D0001
+- expected_values:
+    PANAMERA_CAM_ADJ_EXH_BANK_2_ACT: 3.78125
+  response: 7E80562136D00F2
+- expected_values:
+    PANAMERA_CAM_ADJ_EXH_BANK_2_ACT: -2.875
+  response: 7E80562136DFF48

@@ -1,0 +1,29 @@
+command_id: 7E1.7E9.221005
+test_cases:
+- expected_values:
+    PANAMERA_VSS_ESP: 119.42
+  response: 7E9056210052EA6
+- expected_values:
+    PANAMERA_VSS_ESP: 143.39
+  response: '7E9056210053803'
+- expected_values:
+    PANAMERA_VSS_ESP: 143.58
+  response: '7E9056210053816'
+- expected_values:
+    PANAMERA_VSS_ESP: 143.64
+  response: 7E905621005381C
+- expected_values:
+    PANAMERA_VSS_ESP: 143.92
+  response: '7E9056210053838'
+- expected_values:
+    PANAMERA_VSS_ESP: 143.94
+  response: 7E905621005383A
+- expected_values:
+    PANAMERA_VSS_ESP: 144.22
+  response: '7E9056210053856'
+- expected_values:
+    PANAMERA_VSS_ESP: 144.45
+  response: 7E905621005386D
+- expected_values:
+    PANAMERA_VSS_ESP: 147.33
+  response: 7E905621005398D
