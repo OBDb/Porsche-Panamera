@@ -7,5 +7,5 @@ test_cases:
     PANAMERA_TCO_1_SYS: 213
   response: 7E8056211CDFDFF
 - expected_values:
-    PANAMERA_TCO_1_SYS: 215
-  response: 7E8056211CDFF0F
+    PANAMERA_TCO_1_SYS: 214
+  response: 7E8056211CDFEEC
