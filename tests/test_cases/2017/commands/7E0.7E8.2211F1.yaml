@@ -10,5 +10,5 @@ test_cases:
     PANAMERA_TRANS_IN_SPD: 2176
   response: 7E8056211F11100
 - expected_values:
-    PANAMERA_TRANS_IN_SPD: 16051.5
-  response: 7E8056211F17D67
+    PANAMERA_TRANS_IN_SPD: 9798.5
+  response: 7E8056211F14C8D
