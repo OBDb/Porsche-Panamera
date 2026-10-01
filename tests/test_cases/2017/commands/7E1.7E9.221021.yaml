@@ -1,0 +1,23 @@
+command_id: 7E1.7E9.221021
+test_cases:
+- expected_values:
+    PANAMERA_TCM_DRAG_TQ: 498
+  response: 7E90562102101F2
+- expected_values:
+    PANAMERA_TCM_DRAG_TQ: 2592
+  response: 7E9056210210A20
+- expected_values:
+    PANAMERA_TCM_DRAG_TQ: 2597
+  response: 7E9056210210A25
+- expected_values:
+    PANAMERA_TCM_DRAG_TQ: 2607
+  response: 7E9056210210A2F
+- expected_values:
+    PANAMERA_TCM_DRAG_TQ: 2705
+  response: 7E9056210210A91
+- expected_values:
+    PANAMERA_TCM_DRAG_TQ: 2714
+  response: 7E9056210210A9A
+- expected_values:
+    PANAMERA_TCM_DRAG_TQ: 2729
+  response: 7E9056210210AA9

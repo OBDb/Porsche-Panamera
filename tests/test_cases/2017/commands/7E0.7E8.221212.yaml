@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221212
+test_cases:
+- expected_values:
+    PANAMERA_KNOCK_SENS_CYL_2: 0.01167
+  response: 7E80762121200003BD4
+- expected_values:
+    PANAMERA_KNOCK_SENS_CYL_2: 0.02049
+  response: '7E80762121200006906'
+- expected_values:
+    PANAMERA_KNOCK_SENS_CYL_2: 0.03238
+  response: 7E8076212120000A5FE
+- expected_values:
+    PANAMERA_KNOCK_SENS_CYL_2: 0.04064
+  response: 7E8076212120000D059
+- expected_values:
+    PANAMERA_KNOCK_SENS_CYL_2: 0.0521
+  response: 7E80762121200010B16
