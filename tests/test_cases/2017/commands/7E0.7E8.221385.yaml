@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221385
 test_cases:
 - expected_values:
-    PORSCHE_CAM_POS_DEV_BASE_POS: 0
+    PANAMERA_CAM_POS_DEV_BASE_POS: 0
   response: '7E8056213850000'
 - expected_values:
-    PORSCHE_CAM_POS_DEV_BASE_POS: -0.26368
+    PANAMERA_CAM_POS_DEV_BASE_POS: -0.26368
   response: 7E805621385FFF4
 - expected_values:
-    PORSCHE_CAM_POS_DEV_BASE_POS: -0.02197
+    PANAMERA_CAM_POS_DEV_BASE_POS: -0.02197
   response: 7E805621385FFFF

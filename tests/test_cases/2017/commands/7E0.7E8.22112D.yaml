@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.22112D
 test_cases:
 - expected_values:
-    PORSCHE_SPARK_EFFICIENCY_DEV: 0
+    PANAMERA_SPARK_EFF_DEV_PART: 0
   response: 7E80462112D00

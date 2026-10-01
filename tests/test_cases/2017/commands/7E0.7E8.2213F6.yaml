@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2213F6
 test_cases:
 - expected_values:
-    PORSCHE_NL_PRE_0: 2.39517
+    PANAMERA_NL_PRE_0: 2.39517
   response: 7E8056213F67AA2
 - expected_values:
-    PORSCHE_NL_PRE_0: 2.4411
+    PANAMERA_NL_PRE_0: 2.4411
   response: 7E8056213F67CFC
 - expected_values:
-    PORSCHE_NL_PRE_0: 2.44324
+    PANAMERA_NL_PRE_0: 2.44324
   response: 7E8056213F67D18
 - expected_values:
-    PORSCHE_NL_PRE_0: 2.4672
+    PANAMERA_NL_PRE_0: 2.4672
   response: 7E8056213F67E52

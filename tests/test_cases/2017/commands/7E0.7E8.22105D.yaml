@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22105D
 test_cases:
 - expected_values:
-    PORSCHE_BRAKE_PEDAL_POS: 0
+    PANAMERA_BRAKE_PEDAL_POS: 0
   response: 7E80562105D0000
 - expected_values:
-    PORSCHE_BRAKE_PEDAL_POS: 100
+    PANAMERA_BRAKE_PEDAL_POS: 100
   response: 7E80562105D7FAE

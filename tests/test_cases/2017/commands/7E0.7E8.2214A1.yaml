@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2214A1
 test_cases:
 - expected_values:
-    PORSCHE_RATED_DRIVE_TQ: 0
+    PANAMERA_RATED_DRIVE_TQ: 0
   response: 7E8076214A100000000
 - expected_values:
-    PORSCHE_RATED_DRIVE_TQ: -447
+    PANAMERA_RATED_DRIVE_TQ: -447
   response: 7E8076214A1FFFFEE8A
 - expected_values:
-    PORSCHE_RATED_DRIVE_TQ: -103
+    PANAMERA_RATED_DRIVE_TQ: -103
   response: 7E8076214A1FFFFFBFA
 - expected_values:
-    PORSCHE_RATED_DRIVE_TQ: -41
+    PANAMERA_RATED_DRIVE_TQ: -41
   response: 7E8076214A1FFFFFE66

@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F43C
 test_cases:
 - expected_values:
-    PORSCHE_EXH_GAS_T: 316.4
+    PANAMERA_EXH_GAS_T: 316.4
   response: 7E80562F43C0DEC
 - expected_values:
-    PORSCHE_EXH_GAS_T: 318.3
+    PANAMERA_EXH_GAS_T: 318.3
   response: 7E80562F43C0DFF
 - expected_values:
-    PORSCHE_EXH_GAS_T: 574.7
+    PANAMERA_EXH_GAS_T: 574.7
   response: 7E80562F43C1803
 - expected_values:
-    PORSCHE_EXH_GAS_T: 944.8
+    PANAMERA_EXH_GAS_T: 944.8
   response: 7E80562F43C2678

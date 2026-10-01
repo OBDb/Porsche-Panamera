@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.2214B4
 test_cases:
 - expected_values:
-    PORSCHE_FUEL_LEVEL_INPUT_V1: 5
+    PANAMERA_FUEL_LEVEL_INPUT_V1: 5
   response: 7E8056214B401F4
 - expected_values:
-    PORSCHE_FUEL_LEVEL_INPUT_V1: 64
+    PANAMERA_FUEL_LEVEL_INPUT_V1: 23
+  response: 7E8056214B408FC
+- expected_values:
+    PANAMERA_FUEL_LEVEL_INPUT_V1: 64
   response: 7E8056214B41900
 - expected_values:
-    PORSCHE_FUEL_LEVEL_INPUT_V1: 327.67
-  response: 7E8056214B47FFF
+    PANAMERA_FUEL_LEVEL_INPUT_V1: 90
+  response: 7E8056214B42328

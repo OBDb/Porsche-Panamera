@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2210BE
 test_cases:
 - expected_values:
-    PORSCHE_REQ_TQ_AMOUNT: 0
+    PANAMERA_REQ_TQ_AMOUNT: 0
   response: 7E8056210BE0000
 - expected_values:
-    PORSCHE_REQ_TQ_AMOUNT: 25.2
+    PANAMERA_REQ_TQ_AMOUNT: 25.2
   response: 7E8056210BE00FC
 - expected_values:
-    PORSCHE_REQ_TQ_AMOUNT: 25.8
+    PANAMERA_REQ_TQ_AMOUNT: 25.8
   response: 7E8056210BE0102

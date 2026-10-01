@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221509
 test_cases:
 - expected_values:
-    PORSCHE_AMBIENT_AIR_P: 972.582
+    PANAMERA_AMBIENT_AIR_P: 972.582
   response: 7E805621509616A
 - expected_values:
-    PORSCHE_AMBIENT_AIR_P: 978.237
+    PANAMERA_AMBIENT_AIR_P: 978.237
   response: 7E80562150961FB
 - expected_values:
-    PORSCHE_AMBIENT_AIR_P: 978.432
+    PANAMERA_AMBIENT_AIR_P: 978.432
   response: '7E8056215096200'

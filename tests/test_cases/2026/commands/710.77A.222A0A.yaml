@@ -1,20 +1,20 @@
 command_id: 710.77A.222A0A
 test_cases:
 - expected_values:
-    PORSCHE_SSB_SENSOR_T: 23
+    PANAMERA_SSB_SENSOR_T: 23
   response: 77A04622A0A3F
 - expected_values:
-    PORSCHE_SSB_SENSOR_T: 24
+    PANAMERA_SSB_SENSOR_T: 24
   response: 77A04622A0A40
 - expected_values:
-    PORSCHE_SSB_SENSOR_T: 25
+    PANAMERA_SSB_SENSOR_T: 25
   response: 77A04622A0A41
 - expected_values:
-    PORSCHE_SSB_SENSOR_T: 26
+    PANAMERA_SSB_SENSOR_T: 26
   response: 77A04622A0A42
 - expected_values:
-    PORSCHE_SSB_SENSOR_T: 27
+    PANAMERA_SSB_SENSOR_T: 27
   response: 77A04622A0A43
 - expected_values:
-    PORSCHE_SSB_SENSOR_T: 28
+    PANAMERA_SSB_SENSOR_T: 28
   response: 77A04622A0A44

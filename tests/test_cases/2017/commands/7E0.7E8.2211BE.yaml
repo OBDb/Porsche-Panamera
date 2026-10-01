@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.2211BE
 test_cases:
 - expected_values:
-    PORSCHE_EOT: 0
-    PORSCHE_PQ35_OIL_T_2: -273.1
+    PANAMERA_EOT: 0
   response: 7E8056211BE0000
 - expected_values:
-    PORSCHE_EOT: 65502
-    PORSCHE_PQ35_OIL_T_2: 6277.1
+    PANAMERA_EOT: 65502
   response: 7E8056211BEFFDE
 - expected_values:
-    PORSCHE_EOT: 65535
-    PORSCHE_PQ35_OIL_T_2: 6280.4
+    PANAMERA_EOT: 65535
   response: 7E8056211BEFFFF

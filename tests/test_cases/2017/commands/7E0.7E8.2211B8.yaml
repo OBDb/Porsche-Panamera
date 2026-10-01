@@ -1,26 +1,26 @@
 command_id: 7E0.7E8.2211B8
 test_cases:
 - expected_values:
-    PORSCHE_AIR_LEAKAGE: 2
+    PANAMERA_AIR_LEAKAGE: 2
   response: 7E8056211B80014
 - expected_values:
-    PORSCHE_AIR_LEAKAGE: 2.1
+    PANAMERA_AIR_LEAKAGE: 2.1
   response: 7E8056211B80015
 - expected_values:
-    PORSCHE_AIR_LEAKAGE: 2.2
+    PANAMERA_AIR_LEAKAGE: 2.2
   response: 7E8056211B80016
 - expected_values:
-    PORSCHE_AIR_LEAKAGE: 2.3
+    PANAMERA_AIR_LEAKAGE: 2.3
   response: 7E8056211B80017
 - expected_values:
-    PORSCHE_AIR_LEAKAGE: 2.4
+    PANAMERA_AIR_LEAKAGE: 2.4
   response: 7E8056211B80018
 - expected_values:
-    PORSCHE_AIR_LEAKAGE: 2.5
+    PANAMERA_AIR_LEAKAGE: 2.5
   response: 7E8056211B80019
 - expected_values:
-    PORSCHE_AIR_LEAKAGE: 2.6
+    PANAMERA_AIR_LEAKAGE: 2.6
   response: 7E8056211B8001A
 - expected_values:
-    PORSCHE_AIR_LEAKAGE: 2.7
+    PANAMERA_AIR_LEAKAGE: 2.7
   response: 7E8056211B8001B

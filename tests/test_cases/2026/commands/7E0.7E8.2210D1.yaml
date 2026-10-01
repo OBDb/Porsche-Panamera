@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2210D1
 test_cases:
 - expected_values:
-    PORSCHE_PQ35_INJ_3_RAIL_P_1: 0
+    PANAMERA_INJ_3_RAIL_P_1: 0
   response: 7E8056210D10000
 - expected_values:
-    PORSCHE_PQ35_INJ_3_RAIL_P_1: 0.051
+    PANAMERA_INJ_3_RAIL_P_1: 0.051
   response: 7E8056210D103FC
 - expected_values:
-    PORSCHE_PQ35_INJ_3_RAIL_P_1: 0.12955
+    PANAMERA_INJ_3_RAIL_P_1: 0.12955
   response: 7E8056210D10A1F

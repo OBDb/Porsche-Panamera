@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.221718
 test_cases:
 - expected_values:
-    PORSCHE_EARLY_IGN_CNT_TOT_2: 13
+    PANAMERA_EARLY_IGN_CNT_TOT_2: 13
   response: 7E805621718000D

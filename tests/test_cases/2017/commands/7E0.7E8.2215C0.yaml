@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.2215C0
 test_cases:
 - expected_values:
-    PORSCHE_IAT_INT_MANIFOLD_RAW: -39.75
-    PORSCHE_IAT_RAW: 23.1
+    PANAMERA_IAT_RAW: 23.1
   response: 7E8056215C00B92
 - expected_values:
-    PORSCHE_IAT_INT_MANIFOLD_RAW: -39.75
-    PORSCHE_IAT_RAW: 33.9
+    PANAMERA_IAT_RAW: 33.9
   response: 7E8056215C00BFE
 - expected_values:
-    PORSCHE_IAT_INT_MANIFOLD_RAW: -38.25
-    PORSCHE_IAT_RAW: 59.7
+    PANAMERA_IAT_RAW: 59.7
   response: 7E8056215C00D00
