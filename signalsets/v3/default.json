@@ -288,7 +288,7 @@
   "signals": [
     {"id": "PANAMERA_AAT_7E0_2", "path": "Engine", "fmt": { "len": 8, "max": 143, "min": -48, "mul": 3, "div": 4, "add": -48, "unit": "celsius" }, "name": "Ambient temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "fcm1": true, "dbg": true, "cmd": {"22": "1001"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "fcm1": true, "cmd": {"22": "1001"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_IAT_7E0", "path": "Engine", "fmt": { "len": 8, "max": 143, "min": -48, "mul": 3, "div": 4, "add": -48, "unit": "celsius" }, "name": "Intake air temperature"}
   ]},
@@ -460,11 +460,11 @@
   "signals": [
     {"id": "PANAMERA_ODO_2_V2", "path": "Trips", "fmt": { "len": 32, "max": 4294967295, "unit": "kilometers" }, "name": "Odometer, alternative", "suggestedMetric": "odometer"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "10E6"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10E6"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_KNOCK_RETARD_2", "path": "Engine", "fmt": { "len": 8, "max": 95.25, "min": -96, "mul": 3, "div": 4, "sign": true, "unit": "degrees" }, "name": "Knock retard 2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "10E7"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10E7"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_KNOCK_RETARD_5", "path": "Engine", "fmt": { "len": 8, "max": 95.25, "min": -96, "mul": 3, "div": 4, "sign": true, "unit": "degrees" }, "name": "Knock retard 5"}
   ]},
@@ -532,7 +532,7 @@
   "signals": [
     {"id": "PANAMERA_PREHEAT_TIME", "path": "Engine", "fmt": { "len": 16, "max": 3276700, "min": -3276800, "mul": 100, "sign": true, "unit": "milliseconds" }, "name": "Preheat time"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1123"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1123"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_AAT_7E0", "path": "Engine", "fmt": { "len": 16, "max": 6280, "min": -273, "div": 10, "add": -273.1, "unit": "celsius" }, "name": "Ambient temperature"}
   ]},
@@ -624,11 +624,11 @@
   "signals": [
     {"id": "PANAMERA_MISFIRES_1000REV_C2", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Misfires / 1000 revolutions, cylinder 2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "114B"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "114B"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_MIS_1000_REVOLUTIONS_2", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Misfires for 1000 revolutions, cylinder 2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "114C"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "114C"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_MIS_1000_REVOLUTIONS_5", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Misfires for 1000 revolutions, cylinder 5"}
   ]},
@@ -904,7 +904,7 @@
   "signals": [
     {"id": "PANAMERA_KNOCK_SNS_C2_V_MS", "path": "Engine", "fmt": { "len": 32, "max": 3276, "mul": 0.0076294, "div": 10000, "unit": "scalar" }, "name": "Knock sensor, cylinder 2 "}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1212"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1212"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_KNOCK_SENS_CYL_2", "path": "Engine", "fmt": { "len": 32, "max": 3272, "mul": 0.000000762, "unit": "scalar" }, "name": "Knock sensor, cylinder 2"}
   ]},
@@ -1036,7 +1036,7 @@
   "signals": [
     {"id": "PANAMERA_CAM_ADJ_EXH_BANK_1_ACT", "path": "Engine", "fmt": { "len": 16, "max": 262.136, "min": -262.144, "div": 125, "sign": true, "unit": "degrees" }, "name": "Camshaft adjustment, exhaust bank 1, actual value"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "136D"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "136D"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_CAM_ADJ_EXH_BANK_2_ACT", "path": "Engine", "fmt": { "len": 16, "max": 511, "min": -512, "div": 64, "sign": true, "unit": "degrees" }, "name": "Camshaft adjustment, exhaust bank 2, actual value"}
   ]},
@@ -1044,7 +1044,7 @@
   "signals": [
     {"id": "PANAMERA_CAM_ADJ_EXH_BANK_1_SPEC", "path": "Engine", "fmt": { "len": 16, "max": 262.136, "min": -262.144, "div": 125, "sign": true, "unit": "degrees" }, "name": "Camshaft adjustment, exhaust bank 1, specified value"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1372"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1372"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_CAM_ADJ_EXH_BANK_2_SPEC", "path": "Engine", "fmt": { "len": 16, "max": 262, "min": -262, "div": 125, "sign": true, "unit": "degrees" }, "name": "Camshaft adjustment, exhaust bank 2, specified value"}
   ]},
@@ -1472,7 +1472,7 @@
   "signals": [
     {"id": "PANAMERA_LONG_TERM_FUEL_TRIM_PORT", "path": "Fuel", "fmt": { "len": 16, "max": 1.9999, "mul": 199997, "div": 6553500000, "unit": "scalar" }, "name": "Long term fuel trim port injection at load"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "177D"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "177D"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_OIL_P_ACT", "path": "Engine", "fmt": { "len": 16, "max": 3276, "min": -3276, "div": 10, "sign": true, "unit": "kilopascal" }, "name": "Oil pressure, actual value"}
   ]},
@@ -1540,7 +1540,7 @@
   "signals": [
     {"id": "PANAMERA_AUTOMATIC_ENG_STARTS", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Automatic engine starts counter"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "2AE3"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2AE3"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_EGT_AFTER_CAT_MODEL_B", "path": "Engine", "fmt": { "len": 16, "max": 1262, "min": -273, "mul": 0.023438, "add": -273.15, "unit": "celsius" }, "name": "EGT after catalyst, model bank b"}
   ]},
@@ -1740,7 +1740,7 @@
   "signals": [
     {"id": "PANAMERA_TIRE_RL_SPD_7E1", "path": "Movement", "fmt": { "len": 16, "max": 655.35, "div": 100, "unit": "kilometersPerHour" }, "name": "Rear left wheel speed"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "1005"}, "freq": 0.25,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1005"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_VSS_ESP", "path": "Movement", "fmt": { "len": 16, "max": 655, "div": 100, "unit": "kilometersPerHour" }, "name": "Vehicle speed ESP"}
   ]},
@@ -1772,15 +1772,15 @@
   "signals": [
     {"id": "PANAMERA_TCM_CONVERTER_LOSS_TORQUE", "path": "Engine", "fmt": { "len": 16, "max": 1638.35, "min": -1638.4, "div": 20, "sign": true, "unit": "newtonMeters" }, "name": "Converter loss torque"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "1011"}, "freq": 1,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1011"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_ADAPTIVE_MODE", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Adaptive mode"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "1012"}, "freq": 1,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1012"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_ID_CURRENT_DRIVING", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "ID of current driving program"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "1013"}, "freq": 3600,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1013"}, "freq": 3600, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_CURRENT_TYPE_DRIVER", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Current type of driver counter"}
   ]},
@@ -1800,11 +1800,11 @@
   "signals": [
     {"id": "PANAMERA_ODO_MILEAGE_2", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer, mileage 2"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "1021"}, "freq": 0.25,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1021"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_TCM_DRAG_TQ", "path": "Transmission", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "newtonMeters" }, "name": "Transmission drag torque"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "1022"}, "freq": 0.25,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1022"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_TCM_TQ_LOSSES", "path": "Transmission", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "newtonMeters" }, "name": "Transmission torque losses"}
   ]},
@@ -1816,11 +1816,11 @@
   "signals": [
     {"id": "PANAMERA_CURRENT_N218_P_CTRL_4", "path": "Engine", "fmt": { "len": 16, "max": 6553, "div": 10, "unit": "milliamps" }, "name": "Current N218 pressure control valve 4"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "1026"}, "freq": 1,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1026"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_CURRENT_N216_P_CTRL_2", "path": "Engine", "fmt": { "len": 16, "max": 6553, "div": 10, "unit": "milliamps" }, "name": "Current N216 pressure control valve 2"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "1027"}, "freq": 1,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1027"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_CURRENT_N233_P_CTRL_5", "path": "Engine", "fmt": { "len": 16, "max": 6553, "div": 10, "unit": "milliamps" }, "name": "Current N233 pressure control valve 5"}
   ]},
@@ -1840,7 +1840,7 @@
   "signals": [
     {"id": "PANAMERA_DQ200_P_SUPPLY_ACTUAL_P_AD_VALUE", "path": "Engine", "fmt": { "len": 16, "blsb": true, "max": 65535, "unit": "scalar" }, "name": "Pressure supply actual pressure analog digital value"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "102E"}, "freq": 1,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "102E"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_M009_DES_SOLENOID_10", "path": "Engine", "fmt": {          "len": 1, "max": 1, "unit": "offon" }, "name": "M009, desired solenoid out 10"},
     {"id": "PANAMERA_M009_DES_SOLENOID_11", "path": "Engine", "fmt": {"bix": 1, "len": 1, "max": 1, "unit": "offon" }, "name": "M009, desired solenoid out 11"},
@@ -1848,7 +1848,7 @@
     {"id": "PANAMERA_M009_DES_SOLENOID_13", "path": "Engine", "fmt": {"bix": 3, "len": 1, "max": 1, "unit": "offon" }, "name": "M009, desired solenoid out 13"},
     {"id": "PANAMERA_M009_DES_SOLENOID_14", "path": "Engine", "fmt": {"bix": 4, "len": 1, "max": 1, "unit": "offon" }, "name": "M009, desired solenoid out 14"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "1033"}, "freq": 30,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1033"}, "freq": 30, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_TIME_SINCE_SHIFT", "path": "Transmission", "fmt": { "len": 8, "max": 7650, "mul": 30, "unit": "milliseconds" }, "name": "Time since shift"}
   ]},
@@ -1860,7 +1860,7 @@
   "signals": [
     {"id": "PANAMERA_TIME_AFTERRUN", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "seconds" }, "name": "Time in run-on after shutdown"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "103B"}, "freq": 30,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "103B"}, "freq": 30, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_TIME_SINCE_RESET", "path": "Engine", "fmt": { "len": 8, "max": 7650, "mul": 30, "unit": "milliseconds" }, "name": "Time since reset"}
   ]},
@@ -1884,7 +1884,7 @@
   "signals": [
     {"id": "PANAMERA_CLUTCH_1_ADAPT_BASIC_CHARAC_POINT_3_MOMENT", "path": "Transmission", "fmt": { "len": 16, "blsb": true, "max": 1638.35, "min": -1638.4, "div": 20, "sign": true, "unit": "newtonMeters" }, "name": "Clutch 1 adaptation basic characteristic point 3 moment"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "1061"}, "freq": 0.25,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1061"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_DES_TQ_RAW", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "newtonMeters" }, "name": "Desired torque raw"}
   ]},
@@ -1956,19 +1956,19 @@
   "signals": [
     {"id": "PANAMERA_DL382_CLUTCH_2_ACTUAL_P_RAW_VALUE", "path": "Transmission", "fmt": { "len": 8, "max": 24.5, "min": -1, "div": 10, "add": -1, "unit": "bars" }, "name": "Clutch 2 actual pressure raw value"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "1100"}, "freq": 3600,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1100"}, "freq": 3600, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_ADPT_INFLATION_TIME", "path": "Transmission", "fmt": { "len": 16, "max": 655350, "mul": 10, "unit": "milliseconds" }, "name": "Torque converter lockup clutch fill time adaptation"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "1101"}, "freq": 3600,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1101"}, "freq": 3600, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_ADPT_CNT_TSF_LOCKUP", "path": "Transmission", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Torque converter lockup clutch adaptation count"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "1102"}, "freq": 3600,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1102"}, "freq": 3600, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_ADPT_INFLATION", "path": "Transmission", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "milliamps" }, "name": "Adaptation inflation current PF lockup clutch"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "1103"}, "freq": 3600,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1103"}, "freq": 3600, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_ADPT_CNT_PF_LOCKUP", "path": "Transmission", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Adaptation counter PF lockup clutch"}
   ]},
@@ -2390,11 +2390,11 @@
   "signals": [
     {"id": "PANAMERA_INPUT_SHFT_SPD_2", "path": "Movement", "fmt": { "len": 16, "max": 32766, "min": -32769, "add": -1, "sign": true, "unit": "rpm" }, "name": "Input shaft speed 2"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "F40D"}, "freq": 0.25,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "F40D"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_VSS_7E1", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "F449"}, "freq": 0.25,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "F449"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PANAMERA_ACCEL_PEDAL_POS", "path": "Movement", "fmt": { "len": 8, "max": 100, "mul": 20, "div": 51, "unit": "percent" }, "name": "Accelerator pedal position"}
   ]},

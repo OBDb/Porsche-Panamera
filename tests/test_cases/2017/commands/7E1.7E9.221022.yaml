@@ -1,0 +1,20 @@
+command_id: 7E1.7E9.221022
+test_cases:
+- expected_values:
+    PANAMERA_TCM_TQ_LOSSES: 498
+  response: 7E90562102201F2
+- expected_values:
+    PANAMERA_TCM_TQ_LOSSES: 2592
+  response: 7E9056210220A20
+- expected_values:
+    PANAMERA_TCM_TQ_LOSSES: 2597
+  response: 7E9056210220A25
+- expected_values:
+    PANAMERA_TCM_TQ_LOSSES: 2607
+  response: 7E9056210220A2F
+- expected_values:
+    PANAMERA_TCM_TQ_LOSSES: 2714
+  response: 7E9056210220A9A
+- expected_values:
+    PANAMERA_TCM_TQ_LOSSES: 2724
+  response: 7E9056210220AA4

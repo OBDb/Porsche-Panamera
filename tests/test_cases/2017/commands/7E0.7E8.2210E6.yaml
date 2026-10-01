@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2210E6
+test_cases:
+- expected_values:
+    PANAMERA_KNOCK_RETARD_2: 0
+  response: 7E8046210E600
+- expected_values:
+    PANAMERA_KNOCK_RETARD_2: -5.25
+  response: 7E8046210E6F9
+- expected_values:
+    PANAMERA_KNOCK_RETARD_2: -3.75
+  response: 7E8046210E6FB
+- expected_values:
+    PANAMERA_KNOCK_RETARD_2: -0.75
+  response: 7E8046210E6FF

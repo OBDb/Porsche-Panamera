@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.221123
+test_cases:
+- expected_values:
+    PANAMERA_AAT_7E0: 22
+  response: 7E8056211230B87
+- expected_values:
+    PANAMERA_AAT_7E0: 22.3
+  response: 7E8056211230B8A
+- expected_values:
+    PANAMERA_AAT_7E0: 22.5
+  response: 7E8056211230B8C
+- expected_values:
+    PANAMERA_AAT_7E0: 22.7
+  response: 7E8056211230B8E
+- expected_values:
+    PANAMERA_AAT_7E0: 22.8
+  response: 7E8056211230B8F
+- expected_values:
+    PANAMERA_AAT_7E0: 22.9
+  response: 7E8056211230B90
+- expected_values:
+    PANAMERA_AAT_7E0: 23
+  response: 7E8056211230B91
+- expected_values:
+    PANAMERA_AAT_7E0: 23.3
+  response: 7E8056211230B94
+- expected_values:
+    PANAMERA_AAT_7E0: 23.4
+  response: 7E8056211230B95

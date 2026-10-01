@@ -1,0 +1,5 @@
+command_id: 7E0.018D
+test_cases:
+- expected_values:
+    TP_G: 12.94118
+  response: 7E803418D21
