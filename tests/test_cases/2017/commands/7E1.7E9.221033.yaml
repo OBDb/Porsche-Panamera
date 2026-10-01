@@ -10,6 +10,9 @@ test_cases:
     PANAMERA_TIME_SINCE_SHIFT: 450
   response: 7E9056210330FAC
 - expected_values:
+    PANAMERA_TIME_SINCE_SHIFT: 510
+  response: 7E90562103311EF
+- expected_values:
     PANAMERA_TIME_SINCE_SHIFT: 600
   response: 7E90562103314A6
 - expected_values:

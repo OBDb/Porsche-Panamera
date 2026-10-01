@@ -16,12 +16,12 @@ test_cases:
     775100C6218A3276BE9
     775211A208E408000CC
 - expected_values:
-    PANAMERA_TP_RR: 3.575
-  response: |-
-    775100C6218A3276BE9
-    775211A208F428000CC
-- expected_values:
     PANAMERA_TP_RR: 3.6
   response: |-
     775100C6218A3276BE9
     775211A2090448000CC
+- expected_values:
+    PANAMERA_TP_RR: null
+  response: |-
+    775100C6218A3276BE9
+    775211A20FFA78000CC

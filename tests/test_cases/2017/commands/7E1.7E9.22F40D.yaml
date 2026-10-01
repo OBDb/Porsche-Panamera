@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PANAMERA_VSS_7E1: 0
   response: 7E90462F40D00
+- expected_values:
+    PANAMERA_VSS_7E1: 3
+  response: 7E90462F40D03

@@ -16,22 +16,22 @@ test_cases:
     775100C6218A1266B2D
     775212C21663F68FFAA
 - expected_values:
-    PANAMERA_TP_FL: 2.775
-  response: |-
-    775100C6218A1266B2D
-    775212C216F5268FFAA
-- expected_values:
     PANAMERA_TP_FL: 2.8
   response: |-
     775100C6218A1266B2D
     775212C21705368FFAA
+- expected_values:
+    PANAMERA_TP_FL: null
+  response: |-
+    775100C6218A1266B2D
+    775212C21FFA768FFAA
 - expected_values:
     PANAMERA_TP_FL: 2.675
   response: |-
     775100C6218A1269909
     7752107236B2A6CFFAA
 - expected_values:
-    PANAMERA_TP_FL: 2.825
+    PANAMERA_TP_FL: null
   response: |-
     775100C6218A1269909
-    77521072371306CFFAA
+    775210723FFA76CFFAA

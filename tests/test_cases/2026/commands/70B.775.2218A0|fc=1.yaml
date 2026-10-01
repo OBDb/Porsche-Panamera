@@ -15,3 +15,8 @@ test_cases:
   response: |-
     775100C6218A0277C22
     77521672090408800CC
+- expected_values:
+    PANAMERA_TP_FR: null
+  response: |-
+    775100C6218A0277C22
+    775216720FFA78800CC
