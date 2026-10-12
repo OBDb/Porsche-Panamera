@@ -2055,15 +2055,15 @@
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1149"}, "freq": 3600, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025], "from": 2027 },
   "signals": [
-    {"id": "PANAMERA_DQ250_SYNCHRONOUS_POS_SIDE_B_GEAR_SELECTOR_2_4", "path": "Transmission", "fmt": { "len": 16, "blsb": true, "max": 655.35, "mul": 100, "div": 10000, "unit": "percent" }, "name": "Synchronous position side b gear selector 2-4"}
+    {"id": "PANAMERA_DQ250_SYNCHRONOUS_POS_SIDE_B_GEAR_SELECTOR_2_4", "path": "Transmission", "fmt": { "len": 16, "max": 327.67, "min": -327.68, "mul": 100, "div": 10000, "sign": true, "unit": "percent" }, "name": "Synchronous position side b gear selector 2-4"}
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "114A"}, "freq": 3600, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025], "from": 2027 },
   "signals": [
-    {"id": "PANAMERA_DQ250_SYNCHRONOUS_POS_SIDE_B_GEAR_SELECTOR_5_N", "path": "Transmission", "fmt": { "len": 16, "blsb": true, "max": 655.35, "mul": 100, "div": 10000, "unit": "percent" }, "name": "Synchronous position side b gear selector 5 and neutral"}
+    {"id": "PANAMERA_DQ250_SYNCHRONOUS_POS_SIDE_B_GEAR_SELECTOR_5_N", "path": "Transmission", "fmt": { "len": 16, "max": 327.67, "min": -327.68, "mul": 100, "div": 10000, "sign": true, "unit": "percent" }, "name": "Synchronous position side b gear selector 5 and neutral"}
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "114B"}, "freq": 3600, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025], "from": 2027 },
   "signals": [
-    {"id": "PANAMERA_DQ250_SYNCHRONOUS_POS_SIDE_B_GEAR_SELECTOR_6_R", "path": "Transmission", "fmt": { "len": 16, "blsb": true, "max": 655.35, "mul": 100, "div": 10000, "unit": "percent" }, "name": "Synchronous position side b gear selector 6 and reverse"}
+    {"id": "PANAMERA_DQ250_SYNCHRONOUS_POS_SIDE_B_GEAR_SELECTOR_6_R", "path": "Transmission", "fmt": { "len": 16, "max": 327.67, "min": -327.68, "mul": 100, "div": 10000, "sign": true, "unit": "percent" }, "name": "Synchronous position side b gear selector 6 and reverse"}
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1154"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
