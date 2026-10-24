@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.22162D
 test_cases:
 - expected_values:
-    PANAMERA_FUEL_T_7E0: null
+    PANAMERA_FUEL_T_7E0: 0
   response: 7E80762162D00000000
 - expected_values:
-    PANAMERA_FUEL_T_7E0: null
+    PANAMERA_FUEL_T_7E0: 2048
   response: 7E80762162D00000800
 - expected_values:
-    PANAMERA_FUEL_T_7E0: null
+    PANAMERA_FUEL_T_7E0: 8388608
   response: 7E80762162D00800000
 - expected_values:
-    PANAMERA_FUEL_T_7E0: null
+    PANAMERA_FUEL_T_7E0: 8390656
   response: 7E80762162D00800800
 - expected_values:
-    PANAMERA_FUEL_T_7E0: null
+    PANAMERA_FUEL_T_7E0: 2155874304
   response: 7E80762162D80800800
