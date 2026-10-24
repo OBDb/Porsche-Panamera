@@ -774,7 +774,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BE"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025], "from": 2027 },
   "signals": [
-    {"id": "PANAMERA_EOT", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Engine oil temperature", "description": "Scaling is unknown, needs further validation."}
+    {"id": "PANAMERA_EOT", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "scalar" }, "name": "Engine control module value 11BE, raw 16-bit", "description": "Replies are signed counts from -34 to 10, not an oil temperature; scaling unknown."}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BF"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025], "from": 2027 },
   "signals": [
@@ -806,7 +806,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11CD"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
-    {"id": "PANAMERA_TCO_1_SYS", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "nullmax": 215, "unit": "celsius" }, "name": "TCO_1_SYS"}
+    {"id": "PANAMERA_TCO_1_SYS", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "scalar" }, "name": "Engine control module value 11CD, raw 16-bit", "description": "Replies are small signed counts that do not follow coolant temperature; scaling unknown."}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11CE"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
@@ -1070,7 +1070,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "pri": "17", "fcm1": true, "cmd": {"22": "13A0"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
-    {"id": "PANAMERA_COOLANT_T_MODELED_VALUE", "path": "Engine", "fmt": { "len": 16, "max": 3003.6, "min": -3549.9, "div": 10, "add": -273.1, "sign": true, "unit": "celsius" }, "name": "Coolant temperature modeled value"}
+    {"id": "PANAMERA_COOLANT_T_MODELED_VALUE", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Coolant temperature modeled value, raw 16-bit", "description": "Reads 3149-3381 and falls as the engine warms from 73 to 101 C; no temperature scale fits."}
   ]},
 { "hdr": "7E0", "rax": "7E8", "fcm1": true, "dbg": true, "cmd": {"22": "13CD"}, "freq": 1, "filter": { "to": 2016 },
   "signals": [
@@ -1338,7 +1338,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "162D"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
-    {"id": "PANAMERA_FUEL_T_7E0", "path": "Engine", "fmt": { "len": 16, "max": 300, "min": -40, "div": 10, "add": -273.1, "nullmin": -40, "nullmax": 300, "unit": "celsius" }, "name": "Fuel temperature"}
+    {"id": "PANAMERA_FUEL_T_7E0", "path": "Engine", "fmt": { "len": 32, "max": 4294967295, "unit": "scalar" }, "name": "Fuel temperature read, raw", "description": "Answers 4 bytes of flag-like values (0, 0x800, 0x800000); not a temperature."}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1633"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [

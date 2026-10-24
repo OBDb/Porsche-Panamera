@@ -4,8 +4,8 @@ test_cases:
     PANAMERA_EOT: 3
   response: 7E8056211BE0003
 - expected_values:
-    PANAMERA_EOT: 65530
+    PANAMERA_EOT: -6
   response: 7E8056211BEFFFA
 - expected_values:
-    PANAMERA_EOT: 65531
+    PANAMERA_EOT: -5
   response: 7E8056211BEFFFB
