@@ -6,10 +6,10 @@ test_cases:
     775100C6218A3266E8F
     77521FF22743D7CFFAA
 - expected_values:
-    PANAMERA_TP_RR: 2.95
+    PANAMERA_TP_RR: 2.925
   response: |-
     775100C6218A3266E8F
-    77521FF22763F7CFFAA
+    77521FF22753F7CFFAA
 - expected_values:
     PANAMERA_TP_RR: 3.175
   response: |-
