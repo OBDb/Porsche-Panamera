@@ -1,15 +1,15 @@
 command_id: 70B.775.2218A1|fc=1
 test_cases:
 - expected_values:
-    PANAMERA_TP_FL: 2.375
+    PANAMERA_TP_FL: 2.3
   response: |-
     775100C6218A1266B2D
-    775212C215F3968FFAA
+    775212C215C3468FFAA
 - expected_values:
     PANAMERA_TP_FL: 2.4
   response: |-
     775100C6218A1266B2D
-    775212C21603968FFAA
+    775212C21603768FFAA
 - expected_values:
     PANAMERA_TP_FL: 2.425
   response: |-
