@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2211F0
 test_cases:
 - expected_values:
-    PANAMERA_BOOST_P_ACT: 969.92188
+    PANAMERA_BOOST_P_ACT: 96.99219
   response: 7E8056211F0307F
 - expected_values:
-    PANAMERA_BOOST_P_ACT: 981.64062
+    PANAMERA_BOOST_P_ACT: 98.16406
   response: 7E8056211F03115
 - expected_values:
-    PANAMERA_BOOST_P_ACT: 1559.92188
+    PANAMERA_BOOST_P_ACT: 155.99219
   response: 7E8056211F04DFF
