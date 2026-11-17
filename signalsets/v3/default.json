@@ -1643,7 +1643,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40D"}, "freq": 0.25, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025], "from": 2027 },
   "signals": [
-    {"id": "PANAMERA_VSS", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed", "description": "Current vehicle speed."}
+    {"id": "PANAMERA_VSS", "path": "Movement", "fmt": { "len": 8, "max": 255, "nullmax": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed", "description": "Current vehicle speed."}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F41F"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025], "from": 2027 },
   "signals": [
@@ -2392,7 +2392,7 @@
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "F40D"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
-    {"id": "PANAMERA_VSS_7E1", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed"}
+    {"id": "PANAMERA_VSS_7E1", "path": "Movement", "fmt": { "len": 8, "max": 255, "nullmax": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed"}
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "F449"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
